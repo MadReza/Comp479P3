@@ -39,6 +39,17 @@ def classifier(score):
         return "Negative"
     return "Neutral"
 
+def compare_positivity(department_a, department_b):
+    score_a = get_department_score(department_a)
+    score_b = get_department_score(department_b)
+
+    if score_a > score_b:
+        print department_a, "is more positive than", department_b
+    elif score_a < score_b:
+        print department_b, "is more positive than", department_b
+    else:
+        print "Both department:", department_a, "and", department_b, "have same positivity score"
+
 if __name__ == '__main__':
     #TODO: redirects and option calls
     for x in departments:
@@ -46,3 +57,6 @@ if __name__ == '__main__':
         score = get_department_score(x)
         print "\tScore:", score
         print "\tClassified:", classifier(score)
+
+    compare_positivity(departments[0], departments[1])
+    compare_positivity(departments[0], departments[7])
