@@ -32,8 +32,17 @@ def get_department_score(department):
         score = score + get_score(file_content)
     return score
 
+def classifier(score):
+    if score > 0:
+        return "Positive"
+    elif score < 0:
+        return "Negative"
+    return "Neutral"
+
 if __name__ == '__main__':
     #TODO: redirects and option calls
     for x in departments:
         print "Department:", x
-        print "\tScore:", get_department_score(x)
+        score = get_department_score(x)
+        print "\tScore:", score
+        print "\tClassified:", classifier(score)
