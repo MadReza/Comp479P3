@@ -1,5 +1,6 @@
 import os
 from glob import glob
+from lib.score import score
 
 scraped_root_directory="www_roots"
 
@@ -19,7 +20,7 @@ def get_all_txt_files_in(path):
 
 def get_score(data):
     """Get score for file"""
-    return len(data)#TODO, return score for that content
+    return score(data)
 
 def get_text_from(file_path):
     """Retrieve text from file"""

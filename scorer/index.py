@@ -30,6 +30,7 @@ class luceneIndexer:
 		index_writer.optimize()
 		index_writer.close()
 
-l = luceneIndexer('Index-d')
-l.index('restaurant yay!', 'restaurant', '/this/is/a/path.htm')
-l.index('This is utterly excellent! this is a good test. this is a bad text. This is utterly terrible restaurant! really cool restaurant!', 'test', '/path/title.html')
+		
+#l = luceneIndexer('Index-d')
+#l.index('restaurant yay!', 'restaurant', '/this/is/a/path.htm')
+#l.index('This is utterly excellent! this is a good test. this is a bad text. This is utterly terrible restaurant! really cool restaurant!', 'test', '/path/title.html')
