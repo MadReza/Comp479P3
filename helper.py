@@ -6,6 +6,10 @@ scraped_root_directory="www_roots"
 def cls():
     os.system('clear')
 
+def search():
+    s = raw_input("Type your search query:")
+    #TODO call indexer for searching
+
 def get_all_departments(root_path):
     return [x[1] for x in os.walk(root_path)][0]
 
@@ -15,7 +19,6 @@ def get_all_txt_files_in(path):
 
 def get_score(data):
     """Get score for file"""
-    #TODO: remove link from scorer ? if required ?
     return len(data)#TODO, return score for that content
 
 def get_text_from(file_path):
