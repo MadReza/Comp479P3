@@ -3,10 +3,9 @@ from scrapy.selector import Selector
 import os
 import os.path
 
-
 class MySpider(scrapy.Spider):
     name = "base_spider"
-    base_dir = "www_roots"
+    base_dir = "../www_roots"
     cur_root_dirname = ""
     cur_root_url = ""
 
@@ -47,18 +46,18 @@ class MySpider(scrapy.Spider):
     def do_things_for_url(self, url):
         """TODO: rename this maybe ??? :P """
         # www.example.com/foo/bar
-            self.cur_root_url = url.split('://')[1]
-            self.cur_root_url = url.split('.html')[0]
-            print (self.cur_root_url)
+        self.cur_root_url = url.split('://')[1]
+        self.cur_root_url = url.split('.html')[0]
+        print (self.cur_root_url)
 
-            # www_root/bar
-            self.cur_root_dirname = self.base_dir + "/" + self.cur_root_url.split('/')[-1]
+        # www_root/bar
+        self.cur_root_dirname = self.base_dir + "/" + self.cur_root_url.split('/')[-1]
 
-            # create dir for the current sub-root page
-            if not os.path.exists(self.cur_root_dirname):
-                os.makedirs(self.cur_root_dirname)
+        # create dir for the current sub-root page
+        if not os.path.exists(self.cur_root_dirname):
+            os.makedirs(self.cur_root_dirname)
 
-            yield scrapy.Request(url=url, callback=self.parse)
+        yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
         # example.html
