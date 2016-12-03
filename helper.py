@@ -3,6 +3,9 @@ from glob import glob
 
 scraped_root_directory="www_roots"
 
+def cls():
+    os.system('clear')
+
 def get_all_departments(root_path):
     return [x[1] for x in os.walk(root_path)][0]
 
@@ -24,11 +27,14 @@ def get_department_score(department):
     """Gets the total score for that department"""
     path = scraped_root_directory + "/" + department
     score = 0
+    all_files = get_all_txt_files_in(path)
+    if len(all_files) == 0:
+        return 0
 
-    for file_path in get_all_txt_files_in(path):
+    for file_path in all_files:
         file_content = get_text_from(file_path)
         score = score + get_score(file_content)
-    return score
+    return score / len(all_files)
 
 def classifier(score):
     """Return Positive, Negative or Neutral"""

@@ -15,11 +15,11 @@ def main_options():
         if user_choice in choices:
             return user_choice
 
-
 if __name__ == '__main__':
-
+    cls()
     while True:
         m = main_options()
+        cls()
         if m == 'q':
             quit()
         elif m == 'a':
@@ -39,14 +39,4 @@ if __name__ == '__main__':
         elif m == 'n':
             name, v = get_most_negative()
             print "Most negative department:", name, "score:", v[0]
-            
-
-    departments = get_all_departments(scraped_root_directory)
-    for x in departments:
-        print "Department:", x
-        score = get_department_score(x)
-        print "\tScore:", score
-        print "\tClassified:", classifier(score)
-
-    compare_positivity(departments[0], departments[1])
-    compare_positivity(departments[0], departments[7])
+        print "========================================"
