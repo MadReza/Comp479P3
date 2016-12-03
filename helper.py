@@ -49,3 +49,52 @@ def compare_positivity(department_a, department_b):
         print department_b, "is more positive than", department_b
     else:
         print "Both department:", department_a, "and", department_b, "have same positivity score"
+
+
+def scrap_new_link():
+    """Add a new Department"""
+    link = raw_input("Please enter the root link for Department:")
+    print "Scraping all within link....."
+    #TODO call Scraper to retrieve new link
+
+def print_departments_score_classifier():
+    d = {}
+    for x in get_all_departments(scraped_root_directory):
+        s = get_department_score(x)
+        c = classifier(s)
+        d[x] = (s, c)
+
+    sorted_d = sorted(d, key=lambda score: score[0], reverse=True) #TODO: Currently set highest value as most positive. VERIFIY that is true
+    print
+    for name in sorted_d:
+        print name
+        print "\tscore:", d[name][0]
+        print "\tclassifier:", d[name][1]
+    print
+
+def get_dep_choice():
+    deps = get_all_departments(scraped_root_directory)
+    while True:
+        for x in range(0, len(deps)):
+            print x, ":", deps[x]
+        user_choice = int(raw_input("Please select the correct number:"))
+        if user_choice >= 0 and user_choice < len(deps):
+            return deps[user_choice]
+
+def print_score_classifier_for(department):
+    """Print score, classifier for each scrapped link in department"""
+    path = scraped_root_directory + "/" + department
+    d = {}
+    for file_path in get_all_txt_files_in(path):
+        file_content = get_text_from(file_path)
+        score = get_score(file_content)
+        title = file_path #TODO: maybe change to h1 title for that article
+        d[title] = score
+
+    sorted_d = sorted(d.items(), key=lambda x: x[1], reverse=True)
+
+    for x in sorted_d:
+        name = x[0].split("/")[2].split(".")[0]
+        score = x[1]
+        print name
+        print "\tscore:", score
