@@ -46,10 +46,9 @@ def compare_positivity(department_a, department_b):
     if score_a > score_b:
         print department_a, "is more positive than", department_b
     elif score_a < score_b:
-        print department_b, "is more positive than", department_b
+        print department_b, "is more positive than", department_a
     else:
         print "Both department:", department_a, "and", department_b, "have same positivity score"
-
 
 def scrap_new_link():
     """Add a new Department"""
@@ -57,24 +56,39 @@ def scrap_new_link():
     print "Scraping all within link....."
     #TODO call Scraper to retrieve new link
 
-def print_departments_score_classifier():
+def get_departments_with_score_classifier():
     d = {}
     for x in get_all_departments(scraped_root_directory):
         s = get_department_score(x)
         c = classifier(s)
         d[x] = (s, c)
 
-    sorted_d = sorted(d, key=lambda score: score[0], reverse=True) #TODO: Currently set highest value as most positive. VERIFIY that is true
+    sorted_keys = sorted(d, key=lambda score: score[0], reverse=True) #TODO: Currently set highest value as most positive. VERIFIY that is true
+    return d, sorted_keys
+
+def print_departments_score_classifier():
+    d, sorted_keys = get_departments_with_score_classifier()
     print
-    for name in sorted_d:
+    print d
+    for name in sorted_keys:
         print name
         print "\tscore:", d[name][0]
         print "\tclassifier:", d[name][1]
     print
 
+def get_most_positive():
+    d, sorted_keys = get_departments_with_score_classifier()
+    return sorted_keys[0], d[sorted_keys[0]]
+
+def get_most_negative():
+    d, sorted_keys = get_departments_with_score_classifier()
+    last_element = sorted_keys[len(sorted_keys)-1]
+    return last_element, d[last_element]
+
 def get_dep_choice():
     deps = get_all_departments(scraped_root_directory)
     while True:
+        print "Departments:"
         for x in range(0, len(deps)):
             print x, ":", deps[x]
         user_choice = int(raw_input("Please select the correct number:"))

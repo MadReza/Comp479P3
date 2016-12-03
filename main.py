@@ -29,6 +29,17 @@ if __name__ == '__main__':
         elif m == 'd':
             dep_choice = get_dep_choice()
             print_score_classifier_for(dep_choice)
+        elif m == 'c':
+            dep_choice1 = get_dep_choice()
+            dep_choice2 = get_dep_choice()
+            compare_positivity(dep_choice1, dep_choice2)
+        elif m == 'p':
+            name, v = get_most_positive()
+            print "Most positive department:", name, "score:", v[0]
+        elif m == 'n':
+            name, v = get_most_negative()
+            print "Most negative department:", name, "score:", v[0]
+            
 
     departments = get_all_departments(scraped_root_directory)
     for x in departments:
