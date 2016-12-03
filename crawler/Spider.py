@@ -19,15 +19,34 @@ class MySpider(scrapy.Spider):
             'http://www.concordia.ca/artsci/math-stats.html',
             'http://www.concordia.ca/artsci/physics.html',
             'http://www.concordia.ca/artsci/psychology.html',
-            'http://www.concordia.ca/artsci/science-college.html'
+            'http://www.concordia.ca/artsci/science-college.html',
+            'https://www.concordia.ca/artsci/science-college/about/life-at-the-college.html'
         ]
+        #last link is the secret page
 
         # create dir for the root page
         if not os.path.exists(self.base_dir):
             os.makedirs(self.base_dir)
 
         for url in urls:
+            #TODO: Replicated this into a function so you can call this for possible new urls
             # www.example.com/foo/bar
+            self.cur_root_url = url.split('://')[1]
+            self.cur_root_url = url.split('.html')[0]
+            print (self.cur_root_url)
+
+            # www_root/bar
+            self.cur_root_dirname = self.base_dir + "/" + self.cur_root_url.split('/')[-1]
+
+            # create dir for the current sub-root page
+            if not os.path.exists(self.cur_root_dirname):
+                os.makedirs(self.cur_root_dirname)
+
+            yield scrapy.Request(url=url, callback=self.parse)
+
+    def do_things_for_url(self, url):
+        """TODO: rename this maybe ??? :P """
+        # www.example.com/foo/bar
             self.cur_root_url = url.split('://')[1]
             self.cur_root_url = url.split('.html')[0]
             print (self.cur_root_url)
