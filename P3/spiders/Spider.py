@@ -10,7 +10,7 @@ class MySpider(scrapy.Spider):
     cur_root_url = ""
 
     folder_size_dict = {}
-    Max_Folder_Size = 1048576*2 #1MB*2 = 2MB
+    Max_Folder_Size = 1048576 #1MB
 
     def start_requests(self):
         urls = [
