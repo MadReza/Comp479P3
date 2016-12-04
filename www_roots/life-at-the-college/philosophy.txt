@@ -1,0 +1,108 @@
+http://www.concordia.ca/content/concordia/en/artsci/philosophy.htmlPracticed and refined over thousands years, philosophy pursues the deepest questions—how to understand ourselves, how we know things, and how we should live. It teaches methods for analyzing and understanding complex, novel and persistent problems that we face in science, politics, economics, and cultural and human affairs. These questions demand creative and rigorous thinking that moves our world beyond current cycles of news, business, politics, and scientific discovery. 
+
+// ==============================================
+// Copyright 2004 by CodeLifter.com
+// Free for all; but please leave in this header.
+// ==============================================
+
+var Quotation=new Array() // do not change this!
+
+// Set up the quotations to be shown, below.
+// To add more quotations, continue with the
+// pattern, adding to the array.  Remember
+// to increment the Quotation[x] index!
+
+Quotation[0] = "...the unexamined life is not worth living for a human being... —Socrates";
+Quotation[1] = "Listening not to me but to the logos it is wise to agree that all things are one. —Heraclitus";
+Quotation[2] = "People are deceived about the knowledge of obvious things... —Heraclitus";
+Quotation[3] = "All humans by nature desire to know. —Aristotle";
+Quotation[4] = "Thus, after everything has been most carefully weighed, it must be finally established that this pronouncement 'I am, I exist' is necessarily true every time I utter it or conceive it in my mind. —Descartes";
+Quotation[5] = "Happiness ... is the end at which all human actions aim. —Aristotle";
+Quotation[6] = "One more word about teaching what the world ought to be: Philosophy always arrives too late to do any such teaching.... When philosophy paints its gray in gray, then a configuration of life has grown old, and cannot be rejuvenated by this gray in gray, but only understood; the Owl of Minerva takes flight only as the dusk beings to fall. —G.W.F Hegel";
+Quotation[7] = "Whereof one cannot speak, thereof one must be silent. —Ludgwig Wittgenstein";
+Quotation[8] = " For a philosopher there is more grass growing down in the valleys of silliness than up on the barren heights of cleverness. —Ludgwig Wittgenstein";
+Quotation[9] = "Man is nothing else but what he makes of himself. .... Therefore I am responsible for myself and for everyone else. —Jean-Paul Sartre";
+Quotation[10] = "Freedom is what you do with what has been done to you. —Jean-Paul Sartre";
+Quotation[11] = "One is not born, but rather becomes a woman. —Simone de Beauvoir";
+Quotation[12] = "As the power of our civilization grows, philosophical questions are becoming more important, not less. —Ian Garrick Mason (2001)";
+Quotation[13] = "The perceived world is the always presupposed foundation of all rationality, all value and all existence. This thesis does not destroy rationality or the absolute. It only tries to bring them down to earth. —Maurice Merleau-Ponty";
+Quotation[14] = "If we begin our search for truth with an eye for conclusions, there is no more philosophy. The philosopher does not look for shortcuts; he goes all the way. —Maurice Merleau-Ponty";
+Quotation[15] = "Time is invention or it is nothing at all. —Henri Bergson";
+Quotation[16] = "'Yes' and 'no' are sterile in philosophy. What is interesting... is in what measure? —Henri Bergson";
+Quotation[17] = "The truth is that in philosophy and even elsewhere it is a question of finding the problem and consequently of positing it, even more than solving it. —Henri Bergson";
+Quotation[18] = "...all things excellent are as difficult as they are rare. —Spinoza";
+Quotation[19] = "There is no possibility of thinking of anything at all in the world, or even out of it, which can be regarded as good without qualification, except a good will. —Immanuel Kant";
+Quotation[20] = "All the interests of my reason, speculative as well as practical, combine in the three following questions: 1.) What can I know? 2.) What I ought to do? 3.) What may I hope? —Immanuel Kant";
+Quotation[21] = "The relation of the subject to the other is entirely produced in a process of gap. —Jacques Lacan";
+Quotation[22] = "I love you, but inexplicably I love something in you more than you... —Jacques Lacan";
+Quotation[23] = "Language is the house of being. —Martin Heidegger";
+Quotation[24] = "A philosophical work, if it must be called a poem, is not a mere poem, but a poem of the intellect.  What is expressed in it is not emotions, desires, feelings, as such, but those which a thinking mind experiences in its search for knowledge... —R.G. Collingwood";
+Quotation[25] = "The subject is inscribed in language, is a function of language. —Jacques Derrida";
+Quotation[26] = "The Other is the end, and me, I am a hostage. —Emmanuel Levinas";
+Quotation[27] = "For it is not the slumber of reason that gives birth to monsters; it is the vigilant and insomniac rationality. —Jorge Borges";
+Quotation[28] = "Could language injure us if we were not, in some sense, linguistic beings, beings who require language in order to be? —Judith Butler";
+Quotation[29] = "The ethical cannot be stated, instead it is practiced to the point of loss... —Julia Kristeva";
+Quotation[30] = "..the sex of woman is not one. —Luce Irigaray";
+Quotation[31] = "The point of philosophy is to start with something so simple as not to seem worth stating, and to end with something so paradoxical that no one will believe it. —Bertrand Russell";
+Quotation[32] = "Philosophy is at once the most sublime and the most trivial of human pursuits. —William James";
+Quotation[33] = "The two main requirements for philosophizing are: firstly, to have the courage not to keep any question back; and secondly, to attain a clear consciousness of anything that goes without saying so as to comprehend it as a problem. —Arthur Schopenhauer";
+Quotation[34] = "Just as in the law courts no man can pass judgment who does not listen to the arguments from both parties, so must the person whose task it is to study philosophy place himself in a better position to reach a judgment by listening to all the arguments, as if they came from undecided litigants. —Thomas Aquinas";
+Quotation[35] = "The aim of philosophy is to understand how things in the broadest possible sense of the term hang together in the broadest possible sense of the term. —Wilfrid Sellars";
+Quotation[36] = "Let us wage a war on totality; let us be witnesses to the unpresentable; let us activate the differences and save the honor of the name. —Jean-Francois Lyotard";
+Quotation[37] = "The question of the future of the revolution is a bad question because, in so far as it is asked, there are so many people who do not become revolutionaries. —Gilles Deleuze";
+Quotation[38] = "The soul is the prison of the body. —Michel Foucault";
+Quotation[39] = "No one begins to be free, but freedom is the beginning and endlessly remains the beginning. —Jean-Luc Nancy";
+Quotation[40] = "Philosophy is the childhood of the intellect, and a culture that tries to skip it will never grow up. —Thomas Nagel";
+Quotation[41] = "Philosophy cannot take refuge in reduced ambitions. It is after eternal and nonlocal truth, even though we know that is not what we are going to get. —Thomas Nagel";
+Quotation[42] = "Each one of us knows for his own part that the world as it is, is unacceptable. —Maurice Merleau-Ponty";
+Quotation[43] = "...the most rational thing that children can do with their toys is to break them. —G.W.F. Hegel";
+Quotation[44] = "Philosophy does not consist in knowing and is not inspired by truth. Rather, it is categories like Interesting, Remarkable, or Important that determine success or failure. —Gilles Deleuze";
+Quotation[45] = "...we can find no true or existent fact, no true assertion, without there being a sufficient reason why it is thus and not otherwise, although most of the time these reasons cannot be known to us. —G.W. Leibniz";
+Quotation[46] = "The attempt to conceive the universe of true being as something lying outside the universe of possible consciousness, possible knowledge, possible evidence, the two being related to one another merely externally by a rigid law, is nonsensical. —Edmund Husserl";
+Quotation[47] = "A great many people think they are thinking when they are merely rearranging their prejudices. —William James";
+Quotation[48] = "If you believe that feeling bad or worrying long enough will change a past or future event, then you are residing on another planet with a different reality system. —William James";
+Quotation[49] = "Whoever battles with monsters had better see that it does not turn him into a monster. And if you gaze long into an abyss, the abyss will gaze back into you. —Friedrich Nietzsche";
+Quotation[50] = "In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule. —Friedrich Nietzsche";
+Quotation[51] = "The task is not so much to see what no one yet has seen, but to think what nobody yet has thought about that which everyone sees. —Arthur Schopenhauer";
+Quotation[52] = "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident. —Arthur Schopenhauer";
+Quotation[53] = "Live your life as though your every act were to become a universal law. —Immanuel Kant";
+Quotation[54] = "Two things fill the mind with ever new and increasing wonder and awe - the starry heavens above me and the moral law within me. —Immanuel Kant";
+Quotation[55] = "It is the duty of philosophy to destroy the illusions which had their origin in misconceptions, whatever darling hopes and valued expectations may be ruined by its explanations. —Immanuel Kant";
+Quotation[56] = "What experience and history teach is this - that people and governments never have learned anything from history, or acted on principles deduced from it. —G.W.F Hegel";
+Quotation[57] = "Man is born free but everywhere he is in chains. —Jeans-Jacques Rousseau";
+Quotation[57] = "Hell is Truth Seen Too Late —Thomas Hobbes";
+Quotation[58] = "Philosophy is a battle against the bewitchment of our intelligence by means of language. ... The meaning of a word is its use in the language. —Ludgwig Wittgenstein";
+Quotation[59] = "The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts. —Bertrand Russell";
+Quotation[60] = "War does not determine who is right - only who is left. —Bertrand Russell";
+Quotation[61] = "Everything has been figured out, except how to live. —Jean-Paul Sartre";
+Quotation[62] = "The conviction persists - though history shows it to be an hallucination – that all the questions that the human mind has asked are questions that can be answered in terms of the alternatives that the questions themselves present. But in fact intellectual progress usually occurs through sheer abandonment of questions together with both of the alternatives they assume… —John Dewey";
+Quotation[63] = "Each generation must, out of relative obscurity, discover its mission, fulfill it, or betray it. —Frantz Fanon";
+Quotation[64] = "Mastery of language affords remarkable power. —Frantz Fanon";
+Quotation[65] = "When we revolt it’s not for a particular culture. We revolt simply because, for many reasons, we can no longer breathe. —Frantz Fanon";
+Quotation[66] = "Everything can be explained to the people, on the single condition that you want them to understand. —Frantz Fanon";
+Quotation[67] = "Ethics is the triumph of freedom over facticity. —Simone de Beauvoir";
+
+Quotation[68] = "You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life. —Albert Camus";
+Quotation[69] = "The need to let suffering speak is a condition of all truth. —Theodore Adorno";
+Quotation[70] = "Those who can make you believe absurdities, can make you commit atrocities. —Voltaire";
+Quotation[71] = "Man cannot be free if he does not know that he is subject to necessity, because his freedom is always won in his never wholly successful attempts to liberate himself from necessity. —Hannah Arendt";
+Quotation[72] = "Clichés, stock phrases, adherence to conventional, standardized codes of expression and conduct have the socially recognized function of protecting us against reality. —Hannah Arendt";  
+Quotation[73] = "In order to go on living one must try to escape the death involved in perfectionism. —Hannah Arendt";
+Quotation[74] = "Forgiveness is the key to action and freedom. —Hannah Arendt";
+Quotation[75] = "To know the history of science is to recognize the mortality of any claim to universal truth. —Evelyn Fox-Keller"; 
+Quotation[76] = "My aim was to liberate both science and women from the shackles of a debilitating ideology of gender and therefore make the world for science and the world for women better. This is not about women doing science differently to men. It is about everybody doing science differently when the gender ideology shifts. —Evelyn Fox-Keller"; 
+
+
+// ======================================
+// Do not change anything below this line
+// ======================================
+var Q = Quotation.length;
+var whichQuotation=Math.round(Math.random()*(Q-1));
+function showQuotation(){document.write(Quotation[whichQuotation]);}
+showQuotation();
+
+FacultyContact UsUndergraduate ProgramsGraduate ProgramsLectures & Events
+Gnosis© Concordia UniversityConcordia UniversityTeaching and thinking for tomorrow and beyondDepartment of Philosophy
+            
+                Department of Philosophy
+            Lectures & EventsNews related to philosophyNewsConcordia University - Call us at 514-848-2424

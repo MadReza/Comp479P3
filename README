@@ -1,13 +1,16 @@
 Comp 479 Project3 - Web crawler & Sentiment Analysis
 
-todo:
-- sentiment analysis
-- setup correct folder tree structure like in urls?
-- gather test data at school
+notes:
+    The some of the crawled folders are biiger then the set size of 2MB,
+    but trust that it works now, those were crawled prior to the soft-cap
+    (they make for some test data, but we will recrawl one shot before the demo)
 
-if size exceeds 5G, stop
+todo:
+- finish sentiment analysis?
+- make sure we answer all the questions
 
 
 done:
 - install scrapy
 - crawl some test data, get all links no dups
+- if a root folder exceeds 2MB size stop scraping for it

@@ -1,0 +1,41 @@
+http://www.concordia.ca/content/concordia/en/research/composites/research/publications.htmlAccess some of our research publications, including journal papers, conference papers, and theses.We encourage students to upload electronic copies of PhD and Masters level theses to Spectrum, in order to prompt your work and the research done at CONCOM.Author: Suong V. Hoa, DEStech publications, 2009Based on 15 years of composites manufacturing instruction, the Principles of the Manufacturing of Composite Materials is the first text to offer both a practical and analytic approach to composite manufacturing processes. It ties together key tools for analyzing the mechanics of composites with the processes whereby composite products are fabricated, whether by hand lay-up or through automated processes.CANCOM 1st, 1997
+CANCOM 2nd, 1999
+CANCOM 3rd, Montreal, Canada, 2001
+CANCOM 4th, Ottawa, Canada, 2003
+CANCOM 5th, Vancouver, Canada, 2005 
+CANCOM 6th, Edmonton, Canada, 20071st: Year 1996 Editor: S.V. Hoa, H.Hamada, Publisher: CRC Press, ISBN: 1566765390
+2nd: Year 1998 Editor: S.V. Hoa, H.Hamada, Publisher: CRC Press, ISBN: 1566767083
+3rd: Year 2000 Editor: S.V. Hoa, H.Hamada, J. Lo, A.Yokoyama, Publisher: CRC Press, ISBN: 1587160552
+4th: Year 2002 Editor: J.Lo, H.Hamada, A.Nakai, S.V.Hoa, Publisher: CRC Press, ISBN: 849315344
+5th: Year 2004 Editor: J.Lo, H.Hamada, T.Kuriyama, T.Morii, M.Mizoguchi, A.Nakai, S.V.Hoa, A.Poursartip, Publisher: DEStech Publications, ISBN: 1932078436
+6th: Year 2006 Editor:J. Lo, T. Nishino, S.V. Hoa, H. Hamada, A. Nakai, and C. Poon, Publisher: DEStech Publications, ISBN: 1-932078-62-2Author: Daniel Gay, Suong V. Hoa, Stephen W. Tsai, Publisher: CRC Press LLC, ISBN: 1-58716-084-6, Year 2002.A comprehensive, well-illustrated reference and text on composite materials and structures. The illustrations are uniquely clear and standardized throughout. This practical book addresses difficult design issues such as sandwich plates, bonded joints, and other details of design. It is a welcome reference for design engineers andand outstanding textbook for undergraduate and graduate level students in mechanical, aerospace, civil and materials engineering departments.Author: S. V. Hoa, W.P. De Wilde, W.R. Blain, Publisher: WIT PRESS, ISBN: 1-85312-582-2, Year 1998.This book contains edited versions of the papers presented at CANDOMP 98. It features contributions on a wide variety of area such as: mixed numerical /experimental methods, damage analysis, characterization of materials, higher order theory in analysis of laminates, design optimization, finite element development aand modelling, micromechanics , stochastic fracture processes, measurement methods, process modelling and simulation, resin transfer moulding, simulation of structures, oloading rate effect, nonlinearity simulation, thermo-mechanical properties, vibration simulation and expert systems.Author: Suong Van Hoa, Wei Feng, Publisher: Springer, ISBN: 079238136X, Year 1998."The book presents the development of the partial hybrid finite element method for the stress analysis of laminated composite structures. Since there is a great need for accurate and efficient calculation of interlaminar stresses for designs using composites, the partial hybrid finite method does provide one possible solution.
+Hybrid Finite Element Method for Stress Analysis of Laminated Composites will be of interest to researchers and designers of laminated composites as well as finite element method students and programmers of finite element codes."Author: Alla Barbalata and Dorel Feldman, ISBN: 0412710404 / 9780412710407 / 0-412-71040-4, Year 1996."A comprehensive introduction to the technologies involved in the synthesis of the main classes of engineering high polymers used in such materials as plastics, fibers, rubbers, foams, adhesives and coatings. Besides the basic processes, this volume includes information on physical, chemical and mechanical characteristics - key factors with respect to obtaining the right end products. It also focuses on the main application of synthetic polymers in different engineering areas and gives data on production and consumption."Author: S. V. Hoa Publisher: Marcel Dekker, ISBN: 082479558x, Year 1995.This work reviews the current computer-aided technology and manufacturing techniques utilized in the design of structures made of polymer-matrix composite materials. Currently-available microcomputer programs based on laminate theory and well-established principles for the prediciton of properties of composite materials are detailed. The benefits and limitations of specific microcomputer programs are compared.Author: S.V.Hoa, Raymond Gauvin, Publisher: Elsevier Applied Science, ISBN: 1851668977, Year 1992.The papers contained herein were presented at the First Canadian International Composites Conference and Exhibition (CANCOM 91) held in Montreal in 1991. Topics addressed cover the development of new materials, environmental degradation and damage tolerance, maintainability and sustainability , nondestructive inspection technique, new application, modelling for processing and fabricating, metal matrix composites, ceramic matrix composites, supports and joints, analytical methods, mechanics of composites, and fracture and fatigue.Author: S.V.Hoa Publisher: Technomic Pub, ISBN: 0877628726, Year 1991."This book is [for] designers of fiber reinforced plastic (FRP) plastic tanks, vessels and piping, particularly those in the chemical processing industry. . .
+As chemical processing equipment, these vessels and pipings have many discontinuous regions in their structures such as manhole connections, nozzles, supports, joints, etc. They are also subjected to different loadings such as internal pressure, external pressure, thermal loads, lateral loads, etc. This makes the structure of these vessels complicated."Author: G.C.Sih, S.V.Hoa, J.T.Pindera Publisher: Elsevier Applied Science, ISBN: 444887067, Year 1990.Thirty technical papers were presented on a wide range of topics which concerned the behavior of composites, characterization of mechanical properties and damage, structural component repair, finite element method and biomaterials and the application specific character of material.Author: Dorel Feldman, Publisher: Elsevier Applied Science, ISBN: 1851662693, Year 1989.Find Dr. S.V. Hoa's books in the Concordia Library.Find work from the research centre and it's members in Concordia's open access repository, SPECTRUM.© Concordia UniversitySir George Williams Campus
+Concordia Center for Composites
+EV 4-145
+1515 St. Catherine
+Montreal, QC, H3G 2W1
+CanadaSee SGW campus mapConcordia UniversityPublicationsConcordia Center for Composites (CONCOM)
+            
+                Concordia Center for Composites (CONCOM)
+            More research2013
+                
+            
+                
+					
+                    2012
+                
+            
+                
+					
+                    2013
+                
+            
+                
+					
+                    2012
+                
+            
+                
+					
+                    Older publicationsConference papersJournal papersPrinciples of the Manufacturing of Composite MaterialsCANCOM: Design, Manufacturing & Application of Composites: Proceedings of the Canadian International Conference On CompositesDesign, Manufacturing & Applications of Composites: Proceedings of the Joint Canada-Japan Workshop on CompositesComposite Materials: Design and ApplicationComputer Methods in Composite Materials VIHybrid Finite Element Method for Stress Analysis of Laminated Composites ISynthetic Polymers: Technology, properties, applicationsComputer-Aided Design of Polymer-Matrix Composite StructuresComposite Structures and MaterialsAnalysis for Design of Fiber Reinforced Plastic Vessels and PipingsDevelopment and Design with Advanced MaterialsPolymeric building materialsConcordia University - Call us at 514-848-2424Master and PhD theses are listed below for students within CONCOM.

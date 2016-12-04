@@ -1,0 +1,9 @@
+http://www.concordia.ca/content/concordia/en/artsci/education/facilities-services/firstclass.htmlThe Department of Education is phasing out the use of FirstClass™ for course delivery.  Students will no longer be issued FirstClass accounts.  Please consult your instructors for information regarding online components for your courses.  To activate your Concordia student email, log into www.myconcordia.ca. 1. E-mail help@concordia.ca and provide as much detail as possible regarding your FirstClass™ issue. Be sure to include your username and course number.2. Contact the IT Service Desk: 
+Error: “Sorry there is no FirstClass server with that name on the network. Check your connection setup. [1044]”
+ 
+ Solution: From the menu, under Collaborate, select "home.fc Setup" and enter in the server field "education.concordia.ca"Error: “The user ID or password is not valid. Check that you have entered your user ID and password correctly. [1003]"
+ 
+ Solution: Try again by retyping your information on the login window, or re-verify your NetName at myconcordia.ca© Concordia UniversityConcordia UniversityFirstClassDepartment of Education
+            
+                Department of Education
+            TroubleshootingMost common error messagesConcordia University - Call us at 514-848-2424

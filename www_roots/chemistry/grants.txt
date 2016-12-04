@@ -1,0 +1,76 @@
+http://www.concordia.ca/content/concordia/en/research/for-researchers/grants.htmlA few of the key services provided by the Grants Administration unit include: All proposals submitted by University faculty members are reviewed by Office of Research staff to ensure adherence to internal and external policies and procedures.  Certain aspects of the application process need significant lead time before the agency deadline, such as preparation of an online curriculum vitae or translation requirements. More details on the application process and important deadlines are available on our website, or contact your faculty research facilitator or another member of the Office of Research staff team for further information.ConRAD ChecklistNOTE: these forms are to be used ONLY by researchers who have not yet taken up their appointment at Concordia University, as well as affiliate professors who do not have access to ConRAD.  All other researchers must submit through ConRAD. Once you have met any and all conditions (certifications) tied to the grant, a Notice of Award will be produced by the OOR. Restricted Funds (in Financial Services) will provide you with a Banner Fund Number (account) once the account has been opened.Normally a notice of award will be produced within 2 working days and sent to Restricted Funds. During periods of high volume (Grant Submission periods) this may take additional time.Please contact the officer indicated below for your account number:Arts & Science + John Molson School of BusinessProject Account ManagerAngela LucianoFinancial OfficersCarmen TarantoAmanda ChristensenEngineering & Computer Science + Fine ArtsProject Account ManagerChao Ling PanFinancial OfficersAlison Parsons Brigitte GirardNancy Sardella Most funding agencies provide a timeline on when decisions/announcements will be made on the outcome of an application. If there is no information provided, it will normally take 3 to 6 months to adjudicate a research grant application.Depending on the guidelines of the funding agency, it is possible to obtain an extension on awarded funds. Please contact the Research Grants Unit directly at Office.of.Research@concordia.ca.As per University policy, the signing authorities for Research Grant Applications are the Associate Vice-President, Strategy and Operations and the Vice-President, Research and Graduate Studies.Following submission of your application through ConRAD, the Manager, Research Grants will obtain the signature for you.Collaborative research projects often require transferring funds between institutions.   A Principal Investigator may choose to send an inter-institutional transfer of funds or sub-grant to a co-investigator or co-applicant at another eligible institution.Process for transferring funds to partner institution:The following information needs to be supplied to the Office of Research so that a transfer agreement can be completed:1. Confirm the following details:a. Name and title of collaboratorb. Grant account or title, amount of installment to be transferred; and fiscal yearc. Budget breakdown (Salary, Travel, Material & Supplies, Computers & Electronics, Publication, Equipment, Services, Other); for student salaries/bursaries, please provide student name if possible.2. Provide a completed Cheque Requisition form, and forward the signed original to the OOR by internal mail at SGM-900.Please be sure to use the official number-coded form (labelled Financial Services at the top) which is available either through your department administrator, or for purchase at the bookstore. See attached sample for use as a guide.Note: the web version of the form available on Cspace is intended for Payroll use only and cannot be used to process fund transfer payments.Once the Agreement is drafted, the OOR will initiate the signature process. After it is signed by the partner institution, it will be forwarded to you for your signature before being fully endorsed by Concordia University.  The final signed Agreement, along with the cheque requisition, will be forwarded to Restricted Funds for payment processing.Future Installmentsif you are planning on issuing annual installments and already know the amounts, feel free to provide a separate cheque requisition for each fiscal year. In this case, be sure to specify the correct date you wish the payment to be released under “Date Required” in the bottom left section of the Cheque Requisition form (above the approval signature). This way, payments will be automatic, and the Agreement will only have to be signed once instead of having to draft an Amendment every year for each new installment.  Process for receiving a transfer of funds from another institution:
+
+ConRAD Inter-institutional ChecklistYou may be a recipient of an inter-institutional transfer or sub-grant from a Primary Investigator at another institution. These funds will be subject to the same guidelines and restrictions as a grant directly received from the funding agency, though funds cannot be sub-granted to another third party.1. Submit a Grant Submission Form (GSF) through ConRAD that includes a copy of the grant application. Please be aware that you may need to apply or update an existing Ethics or AREC certification to gain access to the new funds.2. The Primary award holder will have the transfer of funds initiated through their own institution and Concordia should receive a Transfer of Funds Letter/Agreement which may require the Concordia researcher’s signature and that of the university.Once the agreement has been signed and returned to the primary award holder, they will sign the agreement and send a copy and the funds will then be issued. A new account or the new installment will be provided to the researcher once all compliance conditions are met.
+For up to date account balance information, you will need to contact your respective Financial Officer in Restricted Funds.Arts & Science + John Molson School of BusinessProject Account ManagerAngela LucianoFinancial OfficersCarmen TarantoAmanda ChristensenEngineering & Computer Science + Fine ArtsProject Account ManagerChao Ling PanFinancial OfficersAlison Parsons Brigitte GirardNancy Sardella Within the Office of Research, Research Facilitators are assigned to Faculties/disciplines and can review the content of your application and provide feedback.In terms of a funding agency guidelines, the Research Grants Unit is also available to review and provide feedback on your application.Please refer to the table below with regards to submitting your application for review and submission. Submitted byType of Proposal ReviewInternal Submission to OOR2 weeks (or more) prior to agency deadlineFull Review (addressing all aspects of theapplication) 3 days prior to agency deadlineLimited Review (addressing potential issues of project and researcher eligibilityrequirements) 3 days prior to agency deadline3 days prior to agency deadline Administrative Review addressing all agency requirements)1 day prior to agency deadlineInstitutional Review (addressing any financial or in-kindcommitments attached to the proposal)Indirect costs are costs which cannot be associated specifically with a particular research program or other activity. Indirect costs include the provision and maintenance of physical space and facilities, library services, financial services, computing services, furniture, departmental services (including secretarial), heating, cooling, insurance and like costs.
+
+DETERMING INDIRECT COSTS on Grants1.       Calculate the Total Direct Costs (TDC) for all direct costs of research.2.       Multiply the TDC by:a.       15% for agencies that do not specify the indirect costs rate: TDC x 15% = Indirect costs amountb.      Provincial Ministry grants: TDC x 27%= indirect costs amountc.       US grants rates vary  use the eligible agency rate: i.e. NIH TDC x 8%= Indirect costs amountExceptions: The following granting agencies CIHR, NSERC, SSHRC and the FRQ network (-NT,-S,- SC) automatically provide indirect costs, so costs do not need to be included in proposal budgets.Please contact your Research Facilitator or the RGU for assistance in determining the appropriate rate.The link to ConRAD (Concordia Research Administration Database) is located in the “Research and Innovation” folder inside your MyConcordia portal. All grant applications are now routed through Concordia’s electronic ConRAD system.USERGUIDEFor ConRAD-related questions, please send an email to conrad@algol.concordia.ca.If you are trying to access ConRAD off-campus, you must login to Concordia's VPN service. For VPN-related support, contact the IITS Service Desk at 514-848-2424 ext. 7613 or by email at help@concordia.ca.If you do not already have a username and password for the system, please send an email to conrad@algol.concordia.ca.You can attach a saved document from your files in the Document Tracking TAB under “Current Documents”. For large files they may have to be separated into two documents as the system has a file limit size of 5MB.Research Grants Processing Times© Concordia UniversityConcordia UniversityGrants AdministrationGrant application submission processGrant adjudication by agencyAwarded grantsConnect with usWhen do I get my research account (Banner Fund Number)?
+                
+            
+                
+					
+                    How long does it take to get an account opened?
+                
+            
+                
+					
+                    When will I know if I was funded?
+                
+            
+                
+					
+                    Can I get an extension on my funded grant?
+                
+            
+                
+					
+                    Who signs my grant application?
+                
+            
+                
+					
+                    How do I get this signature?
+                
+            
+                
+					
+                    How do I receive/transfer funds?
+                
+            
+                
+					
+                    What is the balance in my account?
+                
+            
+                
+					
+                    Who can help me with my grant application?
+                
+            
+                
+					
+                    When do I have to submit my grant application?
+                
+            
+                
+					
+                    What are indirect costs and do they have to be included in my grant application?
+                
+            
+                
+					
+                    How do I log into ConRAD?
+                
+            
+                
+					
+                    I can’t access ConRAD. What do I do?
+                
+            
+                
+					
+                    How do I get added to the system?
+                
+            
+                
+					
+                    How do I upload documents into ConRAD?Ask us a questionConcordia University - Call us at 514-848-2424
