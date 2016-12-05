@@ -1,0 +1,55 @@
+http://www.concordia.ca/content/concordia/en/it/services/iclicker.htmlThe i>clicker Student Response System is an electronic voting method used for collecting student responses to multiple choice questions in the classroom. The system consists of a receiver (known as an i>clicker base), a software package, handheld student input devices (known as student remotes), and an instructor remote. This service allows professors to borrow an i>clicker teacher’s kit (containing a base and an instructor remote) and to receive troubleshooting and how-to support for these kits or their own devices.
+Related policy: 
+At Concordia university, i>clicker web registration must take place in the MyConcordia Portal as per the university’s policy on the protection of student data:
+SG9 - Policy Concerning the protection of personal information.FacultyThere is no cost for instructors to borrow an i>clicker teacher’s kit. Professors who wish to buy a device may contact the Concordia bookstores for availability and pricing information.Students who require an i>clicker device for their class may contact the Concordia bookstores for availability and pricing information.To borrow a teacher’s kit, submit a request for equipment or contact the Service Desk.Requests are processed during Service Desk or Service Centre operating hours. This documentation provides screenshots and step-by-step instructions to help professors get started with i>clicker.i>Clicker V6 Synchronization Guide for Instructors
+i>Clicker V6 Registration Guide for Instructors
+i>Clicker V7.4.2 Synchronization Guide for Instructors
+i>Clicker V7.4.2 Registration Guide for Instructors
+i>Clicker Faculty Getting Started ChecklistA variety of resources are also available for instructors on the i>clicker support site.For more information, refer to the appropriate Synchronization Guide for Instructors in the Documentation section.Two types of remotes are currently in use: the original i>clicker remotes and the i>clicker 2 remotes.To designate any i>clicker or i>clicker 2 remote as an instructor’s remote open the i>clicker application, click Settings or My Settings and, in the General tab, enter the remote ID in the Instructor Remote ID field. The remote ID is the unique 8-character code on the back of every remote. (If you plan to use the same instructor remote regularly, select Set for Course at the bottom of the My Settings window. If you plan to use the remote for just one session, then choose Set for Session.Check if “AP mode” is displayed on the i>clicker status bar. If so, the system is currently in anonymous polling mode. To disable this function, select Options (the gear symbol) from the i>Clicker status bar and turn anonymous polling off.If you do not see "AP mode" on the i>clicker status bar, it means that either the students have not registered their i>clicker or synchornization has not yet occured for the class. You can poll your class using i>clicker before registration and synchronization has occured. The students’ responses and their points earned will be recorded and saved under their remote IDs. Once students have registered their i>clickers and synchronization has occurred, the points will be retroactively associated with the correct students.Students may register their remote in-class or online. To register their i>clicker online, students will:Note that students will only have to register their clicker once unless they have changed their remote.Also, students do not need to have registered their remote in order for votes to be collected. You can use i>clicker to poll from the very first day of class and eventually tie all students to their remote IDs through either roll call registration or online registration and synchronization. Refer to the appropriate Registration Guide for Instructors in the Documentation section for screenshots, step-by-step instructions, and information on in-class registration.Synchronization refers to the function of matching the student with their respective responses. This is a desired function if you want to identify which students answered which questions. It is not necessary if you wish to use i>clicker to get anonymous feedback in class.Note that you can assign points in i>clicker even before you synchronize. The students’ responses and their points earned will be recorded and saved under their remote IDs. Once students have registered their i>clickers and synchronization has occurred, the points will be retroactively associated with the right students.In order to synchronize, follow the steps below:Each i>clicker session is saved in a comma-delimited .CSV file, named according to the date and time the session was held. These files can be presented in the i>clicker gradebook or i>grader. You may also use the Export function from within the gradebook to create various reports.Refer to the appropriate Registration Guide for Instructors in the Documentation section for more information on viewing student responses.The i>clicker base can be set to any of 16 different sub-frequencies to prevent interference with nearby classrooms if two instructors are using i>clicker in close proximity. The default frequency is set to AA for both the base and the remotes.You can change your frequency via Settings or My Settings in the i>clicker application. In the settings, choose General, followed by Frequency code. You will also need to change the frequency of your instructor remote and alert your students to change the frequency of their remotes at the beginning of each class.Follow the instructions below to change the remote frequency:i>clicker remote:i>clicker 2 remote:Student who require assistance beyond this documentation can speak with their professor or visit the i>clicker support page.For pricing and order information, communicate directly with the Concordia bookstores.   Page suggestions:© Concordia UniversityConcordia Universityi>Clicker Student Response SystemIT Services
+            
+                IT Servicesi>Clicker support documentation
+                
+            
+                
+					
+                    How do I download the i>clicker software and firmware?
+                
+            
+                
+					
+                    How do I set up a course using i>clicker?
+                
+            
+                
+					
+                    What does the instructor remote do and how do I enable it?
+                
+            
+                
+					
+                    My students' names are not linked to their i>clicker IDs or their answers. What should I do?
+                
+            
+                
+					
+                    How do students register their remotes?
+                
+            
+                
+					
+                    What does synchronization mean and how do I do it?  
+                
+            
+                
+					
+                    How are student responses saved?
+                
+            
+                
+					
+                    I am receiving answers from students in nearby classrooms. How do I change the frequency of the i>clicker base?
+                
+            
+                
+					
+                    Where can students go to buy remotes or to get i>Clicker support?Who can use it?How much does it cost?How to get itService availabilityDocumentationFAQSee alsoConcordia University - Call us at 514-848-2424Was this page useful to you?

@@ -1,0 +1,78 @@
+http://www.concordia.ca/content/concordia/en/academics/graduate/mechanical-engineering-certificate.htmlThe Mechanical and Industrial Engineering Department offers a Graduate Certificate in Mechanical Engineering for qualified university graduates who wish to obtain expertise in the following disciplines within Mechanical Engineering:Requirements for CompletionThe Graduate Certificate program can be completed in one to three years. Students with high standing in their Bachelor’s program and whose academic records satisfy the requirements for Good Standing in the Master’s program in Mechanical Engineering (see Engineering Programs section) may apply for transfer to the Master’s program.Admission Requirements. Applicants to the program must hold a bachelor’s degree in engineering with above-average standing. The Faculty Graduate Studies Committee will determine the acceptability of an applicant for admission to the program and may require the applicant to do specific remedial course work to meet the program requirements.International deadlinesPriority will be given to those who apply within the official deadlines listed above. Some programs may continue to accept applications after these deadlines. For more information, please contact the department.CoursesAll courses are 4-credits. The core courses in the different areas of concentration are:AerospaceMECH 6091 Flight Control Systems
+MECH 6121 Aerodynamics (*)
+MECH 6161 Gas Turbine Design (*)
+MECH 6171 Turbomachinery and Propulsion (*)
+MECH 6231 Helicopter Flight Dynamics
+MECH 6241 Operational Performance of Aircraft
+ENGR 6201 Fluid Mechanics
+ENGR 6421 Standards, Regulations and Certification
+ENGR 6441 Materials Engineering for Aerospace
+ENGR 6461 Avionic Navigation SystemComposite MaterialsMECH 6441 Stress Analysis in Mechanical Design
+MECH 6501 Advanced Materials
+MECH 6521 Manufacturing of Composites (*)
+MECH 6581 Mechanical Behaviour of Polymer Composite Materials (*)
+MECH 6601 Testing and Evaluation of Polymer Composite Materials and StructuresControls and AutomationMECH 6021 Design of Industrial Control Systems (*)
+MECH 6061 Analysis and Design of Hydraulic Control Systems (*)
+MECH 6081 Fuel Control Systems for Combustion Engines
+MECH 6091 Flight Control Systems
+MECH 6621 Microprocessors and Applications (*)
+ENGR 6411 Robotic Manipulators I: Mechanics (*)
+ENGR 6461 Avionic Navigation SystemsTheoretical and Computational Fluid DynamicsENGR 6201 Fluid Mechanics
+ENGR 6251 The Finite Difference Method in Computational Fluid Dynamics
+ENGR 6261 The Finite Element Method in Computational Fluid Dynamics
+MECH 6101 Kinetic Theory of Gases
+MECH 6111 Gas Dynamics (*)
+MECH 6121 Aerodynamics (*)Manufacturing SystemsINDU 6341 Advanced Concepts in Quality Improvement (*)
+INDU 6351 System Reliability
+MECH 6421 Metal Machining and Surface Technology
+MECH 6431 Introduction to Tribology (Wear, Friction and Lubrication)
+MECH 6511 Mechanical Forming of Metals (*)
+ENCS 6191 Fuzzy Sets and Fuzzy LogicElective CoursesENCS 6141 Probabilistic Methods in Design
+INDU 6111 Theory of Operations Research
+INDU 6411 Human Factors Engineering (*)
+ENCS 6161 Probability and Stochastic Processes
+ENCS 6181 Optimization Techniques I (*)
+ENGR 6131 Linear Systems (*)
+ENGR 6301 Advanced Dynamics
+ENGR 6311 Vibrations in Machines and Structures
+ENGR 6371 Micromechatronic Systems and Applications
+MECH 6051 Process Dynamics and Control (*)
+MECH 6181 Heating, Air Conditioning and Ventilation (*)
+MECH 6301 Vibration Problems in Rotating Machinery
+MECH 6311 Noise and Vibration Control
+MECH 6441 Stress Analysis in Mechanical Design
+MECH 6451 Computer-Aided Mechanical Design
+MECH 6471 Aircraft Structures
+MECH 6481 Aeroelasticity (*)
+MECH 6531 Casting
+MECH 6541 Joining Processes and Nondestructive Testing
+MECH 6551 Fracture
+MECH 6561 High Strength Materials
+MECH 6611 Numerically Controlled Machines
+MECH 6631 Industrial Automation
+MECH 6641 Engineering Fracture Mechanics and Fatigue
+MECH 6651 Structural Composites
+MECH 6671 Finite Element Method in Machine Design
+MECH 6751 Vehicle Dynamics (*)
+MECH 6771 Driverless Ground Vehicles (*)(*) This course cannot be taken for credit by students who have completed the undergraduate equivalent.
+ View Engineering Courses & descriptionsEmail: CWald@encs.concordia.caTel.: 514-848-2424 ext. 3131Location: 
+ 1515 St. Catherine W., EV 4.150
+ Montreal, Quebec, Canada
+ H3G 2W1Concordia GradConcordia University Future Students© Concordia UniversityConcordia UniversityMechanical Engineering (Grad. Cert.)Key resourcesProgram options & degree requirements
+                
+            
+                
+					
+                    Admission requirements
+                
+            
+                
+					
+                    Application deadlines
+                
+            
+                
+					
+                    Course curriculum
+                
+            Contact usWhy pursue a graduate certificate in mechanical engineering?Program detailsRelated ProgramsGraduate Certificate (Grad. Cert.)Concordia University - Call us at 514-848-2424

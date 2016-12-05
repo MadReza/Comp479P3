@@ -1,0 +1,51 @@
+http://www.concordia.ca/content/concordia/en/it/services/videoconferencing.htmlConcordia’s videoconferencing service provides a convenient, cost-effective solution for thesis defenses, job interviews, guest speakers, trainings, meetings, and other communications. Using a product called BlueJeans, we can create a “virtual meeting room”, allowing users to participate in a multi-site videoconferencing session capable of accommodating up to 25 simultaneous connections. Faculty, staff, and external clients.This service is subject to technician, equipment loan, and videoconferencing service fees. See the Equipment Loan & Rental page for full details.Concordia’s videoconferencing service uses a tool called BlueJeans. This documentation is available from their website.A virtual meeting room is an audiovisual communications solution which allows participants from multiple locations to hold meetings, presentations, and collaboration sessions by seamlessly connecting video systems, desktop computers, tablets, etc.Yes, the videoconferencing service provides multi-layer protection which includes secure data centers, infrastructure, media handling & encryption, and application-level security. The minimal requirements for a desktop computer to use this system are:Note: The videoconferencing service can accommodate browser resolutions up to 1080p and room system resolution up to HD720. Once your videoconferencing booking has been confirmed, you will receive an email containing the information needed to connect to your meeting. This email can then be forwarded to other meeting participants.To perform a test call via computer: Go to HTTP://bluejeans.com/111 and follow the prompts.To perform a test call through a room based system: Dial 199.48.152.152, followed by the meeting ID 111.If you require immediate technical assistance to complete your call, contact the nearest service centre.The moderator is often referred to as the meeting “chair”. The moderator has overall meeting control which includes the ability to mute/unmute other participants and disconnect other users.The Videoconferencing service provides the ability to communicate with up to 24 external and internal participants with full interoperability. MS Lync is designated for internal Lync to Lync communication. If you wish to communicate with other Concordia Lync users, MS Lync is the most suitable platform. If you wish to communicate with external participants who have room-based videoconferencing systems, desktop videoconferencing, or a computer with microphone and camera, Concordia’s Videoconferencing service is the platform to use. 
+Skype provides a free Skype to Skype video communication service with adequate quality. Concordia’s videoconferencing service provides the ability to communicate with up to 24 participants with full interoperability. The most important factor when comparing Skype to Concordia’s cloud-based videoconferencing service is the call quality.  Although both services are dependent on internet quality, the current Skype infrastructure does not provide the sound and video quality expected via cloud-based videoconferencing services.  Page suggestions:© Concordia UniversityConcordia UniversityVideoconferencingIT Services
+            
+                IT ServicesVideoconferencing support documents
+                
+            
+                
+					
+                    What is a virtual meeting room?
+                
+            
+                
+					
+                    Are the videoconferencing sessions secure?
+                
+            
+                
+					
+                    What are the minimum requirements to use this system?
+                
+            
+                
+					
+                    How do I connect to a virtual meeting room?
+                
+            
+                
+					
+                    How can I perform a test call prior to connecting to a live meeting?
+                
+            
+                
+					
+                    How will I know if everything is working properly during the test call? What if it’s not?
+                
+            
+                
+					
+                    What is a videoconferencing moderator?
+                
+            
+                
+					
+                    My Lync service also has video capabilities. Under what circumstance should I use the videoconferencing service?
+                
+            
+                
+					
+                    What is the difference between Concordia’s Videoconferencing service and Skype?Who can use it?How much does it cost?How to get itService availabilityDocumentationFAQSee alsoConcordia University - Call us at 514-848-2424Was this page useful to you?http://www.concordia.ca/content/concordia/en/it/support/videoconferencing.htmlCannot serve request to /content/concordia/en/it/support/videoconferencing.html on this serverConcordia UniversityInternal Server ErrorIT Services
+            
+                IT Services

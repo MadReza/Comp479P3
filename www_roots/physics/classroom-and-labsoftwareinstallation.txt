@@ -1,0 +1,27 @@
+http://www.concordia.ca/content/concordia/en/it/services/classroom-and-labsoftwareinstallation.htmlAdditional software installations can be requested in computer labs or classrooms to support curriculum or as part of special events.
+Generally, anyone who has authority to use the lab or classroom equipment can make a request.
+Charges vary depending on licensing requirements and effort required to deploy/uninstall software. Budgetary approval may be required.Requests will be assessed on a case by case basis.
+No – All software needs to be tested on the computer configurations beforehand to assess the feasibility of the request.Each request is different and needs to be assessed individually. Sufficient lead time is required to ensure analysis, testing and installation can be fulfilled before the event.Each request is different and needs to be assessed individually. The person analyzing this request will look at licensing and costs associated.Applications or software that are listed as freeware or trial-ware are prohibited on classroom or lab workstations. This is due to licensing restrictions and lack of technical support from vendors. If you require a specific software package installed for teaching purposes, submit a request to the Service Desk using the webform.While other software may be present, there is a standard software package installed on PC workstations in classrooms, open-use labs, and teaching labs.This package includes: Other software that is available for installation upon an approved request:   Page suggestions:© Concordia UniversityConcordia UniversityClassroom and lab software installationIT Services
+            
+                IT ServicesIf my request is to install open source software, does this guarantee the software can be installed?
+                
+            
+                
+					
+                    How quickly can my request be processed and the software installed?
+                
+            
+                
+					
+                    My software is not free and I do not have licenses. Can I still make a request?
+                
+            
+                
+					
+                    Can freeware be installed on a classroom or lab computer?
+                
+            
+                
+					
+                    What software is installed on PC lab and classroom computers?Who can use it?How much does it cost?How to get it
+Service availabilityFAQSee alsoConcordia University - Call us at 514-848-2424Was this page useful to you?

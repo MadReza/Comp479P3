@@ -1,0 +1,27 @@
+http://www.concordia.ca/content/shared/en/news/encs/info-systems-eng/defences/2016/08/26/bintype-scalable-type-inference-tool-compiled-c-programs.htmlFriday, August 26, 2016 at 3:00 p.m.
+Room EV011.119You are invited to attend the following M.A.Sc. (Information Systems Security) thesis examination.Dr. A. Mohammadi, Chair
+Dr. M. Mannan, Supervisor
+Dr. A. Youssef, CIISE Examiner
+Dr. G. Gopakumar, External Examiner (CES)
+Reverse-engineering program binaries often rely on the recovery of high-level data abstractions.  In particular, recovering variables and their type is challenging as most such information is lost during compilation.  Although past proposals seem to have addressed this problem, their approaches are either not scalable and suffer from coverage issues (e.g., dynamic analysis), or yield insufficient precision by staying too conservative (e.g., static analysis).  Furthermore, most recent works lift assembly to Intermediate Representation (IR), which standardizes low-level operations, and may lose some useful semantics for type influence.  In this paper, we propose BinType, a static analysis-based, scalable, precise and conservative tool that works directly on x86 assembly to automatically reveal type information of variables and function arguments.  BinType is 45% more precise than TIE (NDSS'11) on a dataset 3.5 times larger, and orders of magnitude faster than its underlying algorithm.  We also show that our tool makes a significant impact on the accuracy of a recent tool on binary to sourch matching.
+
+
+
+ For more information, contact Silvie Pasquarelli or Mireille Wahba.Search for an expert to comment on any topicEnter a phrase or keyword© Concordia UniversityConcordia UniversityMaster Thesis Defense - August 26, 2016: BinType: A Scalable Type Inference Tool for Compiled C ProgramsConcordia Institute for Information Systems Engineering (CIISE)
+            
+                Concordia Institute for Information Systems Engineering (CIISE)
+            Graduate Program CoordinatorsRelated LinksBrit Sundar MondalAbstract
+Find an expertConcordia University - Call us at 514-848-2424Examining Committeehttp://www.concordia.ca/content/shared/en/news/encs/info-systems-eng/defences/2016/08/26/bintype-scalable-type-inference-tool-compiled-c-programs.htmlFriday, August 26, 2016 at 3:00 p.m.
+Room EV011.119You are invited to attend the following M.A.Sc. (Information Systems Security) thesis examination.Dr. A. Mohammadi, Chair
+Dr. M. Mannan, Supervisor
+Dr. A. Youssef, CIISE Examiner
+Dr. G. Gopakumar, External Examiner (CES)
+Reverse-engineering program binaries often rely on the recovery of high-level data abstractions.  In particular, recovering variables and their type is challenging as most such information is lost during compilation.  Although past proposals seem to have addressed this problem, their approaches are either not scalable and suffer from coverage issues (e.g., dynamic analysis), or yield insufficient precision by staying too conservative (e.g., static analysis).  Furthermore, most recent works lift assembly to Intermediate Representation (IR), which standardizes low-level operations, and may lose some useful semantics for type influence.  In this paper, we propose BinType, a static analysis-based, scalable, precise and conservative tool that works directly on x86 assembly to automatically reveal type information of variables and function arguments.  BinType is 45% more precise than TIE (NDSS'11) on a dataset 3.5 times larger, and orders of magnitude faster than its underlying algorithm.  We also show that our tool makes a significant impact on the accuracy of a recent tool on binary to sourch matching.
+
+
+
+ For more information, contact Silvie Pasquarelli or Mireille Wahba.Search for an expert to comment on any topicEnter a phrase or keyword© Concordia UniversityConcordia UniversityMaster Thesis Defense - August 26, 2016: BinType: A Scalable Type Inference Tool for Compiled C ProgramsConcordia Institute for Information Systems Engineering (CIISE)
+            
+                Concordia Institute for Information Systems Engineering (CIISE)
+            Graduate Program CoordinatorsRelated LinksBrit Sundar MondalAbstract
+Find an expertConcordia University - Call us at 514-848-2424Examining Committee

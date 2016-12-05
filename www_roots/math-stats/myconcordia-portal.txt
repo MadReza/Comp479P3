@@ -1,0 +1,70 @@
+http://www.concordia.ca/content/concordia/en/it/services/myconcordia-portal.htmlMyConcordia portal is a secure, self-serviced, central web point that provides content and services to its users based on their relationship with the university. The objective of the portal is to provide Concordia students, faculty and staff with a single entry point to all services via the web. The portal combines various systems, user interfaces and technical solutions available to the Concordia community under a single consistent web-based interface structure. Users must have a Netname account to access the MyConcordia portal.
+Students can set up an email account, access certain software and applications, and more.
+Employees can access pay stubs, change of address, emergency contact, benefits inquiry, and more.Faculty, staff, students, applicants, retirees, and alumniThere is no cost associated with this service.
+24/7For more information, visit the Netname account page.After filling out the required information, you will receive an email containing the netname (in bold) and a link to reset your password. If you are experiencing difficulty logging in to the portal, your internet browser may be the problem.The following browsers are supported on Windows clients:The following browsers are supported on MAC OS X clients:
+It is important to note that the portal will not deny users to continue their session if the browser or operating system is not supported. The above statements are for best results based on the vendor's certification requirements.
+Eg. Although the OS Linux client is not vendor certified, Firefox has been tested on Linux without noticeable issues.We have found that Firefox provides an optimal experience for most clients across all operating systems.Ensure that:
+• You are using a compatible browser.
+• You are correctly typing the underscore ( _ ) in your netname (if you are a student).
+• You are typing your password exactly as it was created. Your password is case sensitive and must be entered with correct capitalization.
+• You are not copying and pasting in your password.
+For more information, see the Netname account management information page.
+Students should contact the Service Desk by phone at 514-848-2424 ext. 7613 or email at  help@concordia.ca.Employees should verify their information with Human Resources at 514-848-2424 ext. 3666Netnames are computer generated based on your legal name upon acceptance to Concordia as staff, faculty, or student, or upon submission of an application for admission. Netnames can only be changed in the event of a legal name change.
+To ensure you receive important information from Concordia, please enter your e-mail address in your MyConcordia portal. Correspondence from Professors (and Moodle), Administrators and other Concordia departments will be sent to this e-mail address.Students:
+Your email address can be changed under the Personal Information section of My Student Centre within the MyConcordia portal.Faculty/staff
+Your email address can be changed in the HR profile on your MyConcordia portal. The full path is: Employee Self Service > MyHR Profile > my empath > personal > contacts > phone and email.
+Students:
+This information can be changed under the Personal Information section of My Student Centre accessed from the MyConcordia portal.Faculty/staff
+This information can be changed in the HR profile on your MyConcordia portal. The full path is: Employee Self Service > MyHR Profile > my empath > personal > contacts.Once logged into your MyConcordia portal, you will see the “Application for Admission” link in the left menu.To consult your class schedule, log into myconcordia.ca and access the My Student Centre from the left menu. Under "Academics" (the first heading), select “Class Schedule” from the drop-down menu. On the new page, select the desired term.The SIS is your gateway to a variety of services.Students can access the SIS through the “My Student Centre” link in the MyConcordia portal. This system allows them to:For more information, visit the Your SIS page.  Faculty and staff can access the SIS through the “Student Information System” link in the MyConcordia portal. According to their permissions, they may be able to:For more information, visit the Cspace SIS information page.   Page suggestions:© Concordia UniversityConcordia UniversityMyConcordia portalIT Services
+            
+                IT ServicesHow to: Access your MyConcordia portal netname
+                
+            
+                
+					
+                    How to: Reset MyConcordia portal password
+                
+            
+                
+					
+                    Compatible browsers
+                
+            
+                
+					
+                    I am unable to log into the MyConcordia Portal. What should I do?
+                
+            
+                
+					
+                    The MyConcordia portal is not accepting my personal information when I try to reset my password. What should I do?
+                
+            
+                
+					
+                    Can I change my netname?
+                
+            
+                
+					
+                    How can I change my e-mail address in the MyConcordia portal?
+                
+            
+                
+					
+                    How can I change my home address, phone number, and emergency contact information in the MyConcordia portal?
+                
+            
+                
+					
+                    How do I find the application centre in the MyConcordia portal?
+                
+            
+                
+					
+                    Where can I find my class schedule?
+                
+            
+                
+					
+                    What is the Student Information System (SIS) and where can I find information about it?Who can use it?How much does it cost?How to get itService availabilityDocumentationFAQSee alsoConcordia University - Call us at 514-848-2424Was this page useful to you?

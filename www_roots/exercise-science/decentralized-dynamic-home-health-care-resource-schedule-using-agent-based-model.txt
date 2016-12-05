@@ -1,0 +1,31 @@
+http://www.concordia.ca/content/shared/en/news/encs/info-systems-eng/defences/2016/08/17/decentralized-dynamic-home-health-care-resource-schedule-using-agent-based-model.htmlWednesday, August 17, 2016 at 10:30 a.m.
+Room EV002.309You are invited to attend the following M.A.Sc. (Quality Systems Engineering) thesis examination.Dr. A. Awasthi, Chair
+Dr. C. Wang, Supervisor
+Dr. J.Y. Yu, CIISE Examiner
+Dr. O. Kuzgunkaya, External Examiner (MIE)
+The purpose of this thesis is to design an agent-based scheduling system, simulated in a dynamic environment that will reduce home health care service costs.  The study focuses on situations where a health care agency needs to assign home visits amongst a group of independent health care practitioners.  Each practitioner has different skill sets, time constraints, and cost structures, given the nature, time and location of each home visit.  Each expects reasonable payment commensurate with their skill levels, as well as the costs incurred.  The health care agency in turn needs all planned visits performed by qualified practitioners while minimizing overall service costs.  Decisions about scheduling are made both before and during the scheduling period, requiring the health care agency to respond to unexpected situations based on the latest scheduling information.
+
+This problem is examined in a multi-agent system environment where practitioners are modeled as self-interested agents.  The study first analyzes the problem for insights into the combinatorial nature of such a problem occurring in a centralized environment, then discusses the decentralized and dynamic challenges.  An iterated bidding mechanism is designed as the negotiation protocol for the system.  The effectiveness of this system is evaluated through a computational study, with results showing the proposed multi-agent scheduling system is able to compute high quality schedules in the decentralized home health care environment.  Following this, the system is also implemented in a simulation model that can accommodate unexpected situations.  We present different simulation scenarios which illustrate the process of how the system dynamically schedules incoming visits, and costs reduction can be observed from the results.
+
+
+
+ For more information, contact Silvie Pasquarelli or Mireille Wahba.Search for an expert to comment on any topicEnter a phrase or keyword© Concordia UniversityConcordia UniversityMaster Thesis Defense - August 17, 2016: Decentralized and Dynamic Home Health Care Resource Scheduling Using Agent-Based ModelConcordia Institute for Information Systems Engineering (CIISE)
+            
+                Concordia Institute for Information Systems Engineering (CIISE)
+            Graduate Program CoordinatorsRelated LinksXie ZhijieAbstract
+Find an expertConcordia University - Call us at 514-848-2424Examining Committeehttp://www.concordia.ca/content/shared/en/news/encs/info-systems-eng/defences/2016/08/17/decentralized-dynamic-home-health-care-resource-schedule-using-agent-based-model.htmlWednesday, August 17, 2016 at 10:30 a.m.
+Room EV002.309You are invited to attend the following M.A.Sc. (Quality Systems Engineering) thesis examination.Dr. A. Awasthi, Chair
+Dr. C. Wang, Supervisor
+Dr. J.Y. Yu, CIISE Examiner
+Dr. O. Kuzgunkaya, External Examiner (MIE)
+The purpose of this thesis is to design an agent-based scheduling system, simulated in a dynamic environment that will reduce home health care service costs.  The study focuses on situations where a health care agency needs to assign home visits amongst a group of independent health care practitioners.  Each practitioner has different skill sets, time constraints, and cost structures, given the nature, time and location of each home visit.  Each expects reasonable payment commensurate with their skill levels, as well as the costs incurred.  The health care agency in turn needs all planned visits performed by qualified practitioners while minimizing overall service costs.  Decisions about scheduling are made both before and during the scheduling period, requiring the health care agency to respond to unexpected situations based on the latest scheduling information.
+
+This problem is examined in a multi-agent system environment where practitioners are modeled as self-interested agents.  The study first analyzes the problem for insights into the combinatorial nature of such a problem occurring in a centralized environment, then discusses the decentralized and dynamic challenges.  An iterated bidding mechanism is designed as the negotiation protocol for the system.  The effectiveness of this system is evaluated through a computational study, with results showing the proposed multi-agent scheduling system is able to compute high quality schedules in the decentralized home health care environment.  Following this, the system is also implemented in a simulation model that can accommodate unexpected situations.  We present different simulation scenarios which illustrate the process of how the system dynamically schedules incoming visits, and costs reduction can be observed from the results.
+
+
+
+ For more information, contact Silvie Pasquarelli or Mireille Wahba.Search for an expert to comment on any topicEnter a phrase or keyword© Concordia UniversityConcordia UniversityMaster Thesis Defense - August 17, 2016: Decentralized and Dynamic Home Health Care Resource Scheduling Using Agent-Based ModelConcordia Institute for Information Systems Engineering (CIISE)
+            
+                Concordia Institute for Information Systems Engineering (CIISE)
+            Graduate Program CoordinatorsRelated LinksXie ZhijieAbstract
+Find an expertConcordia University - Call us at 514-848-2424Examining Committee

@@ -1,0 +1,107 @@
+http://www.concordia.ca/content/concordia/en/it/services/computer-labs-teaching-use.htmlConcordia offers a wide range of computing resources, electronic, and media-related equipment. The labs on this page require a reservation or access code.
+Please contact your particular department for more information regarding their departmental labs.Related policy: Policy on computing facilities VPS-30Faculty, staff, students, alumni, and external clients.
+Rates vary depending on the lab requested and your client classification. Consult the Equipment Loan & Rental page for more information.  For specific operating hours, select an individual lab from the documentation section below.Hours of availability:
+Mon-Fri: 8:00 A.M. to 11:00 P.M.
+Note: hours are subject to change during the summer months
+
+Support: 
+Hall Building - H421
+Phone: 514-848-2424 ext 3435 or 7613
+help@concordia.caHardware:
+1 HP-6000 series workstation - Intel i5-2400 3.1 GHz Quad Core, 4GB RAM, 500GB HD, DVD RW, NVIDIA Quadro 600/1GB, eSATA, Win 7 Enterprise (for instructors).
+32 HP-6000 series workstation - Intel i52400 3.1 GHz Quad Core, 4GB RAM, 500GB HD, DVD RW. NVIDA Quadro 600/1GB, eSATA Win7 Enterprise
+1 Eiki ProjectorPrinting:
+DPrint XeroxSoftware:
+Concordia’s standard PC software packageHours of availability:
+Mon-Fri: 8:00 a.m. to 7:00 p.m.
+Note: hours are subject to change during the Summer months
+
+Support: 
+Hall Building - H925
+Phone: 514-848-2424 ext 7613
+help@concordia.caHardware:
+1 x Intel Core i5-2400 3.1GHz Quad Core, 4GB RAM, 250GB HD, DVD±RW, NVIDIA Quadro 600/1GB, eSATA, Windows 7 Enterprise. (Instructors) - (Portal or Local machine Login Capability)Printing:
+2 DPrint - XeroxSoftware:
+
+Software:
+Concordia’s standard PC software packageNOTE: This lab is 'open use' as well as a 'teaching lab'. Students may use this lab whenever is has not been reserved for academic purposes. Hours of availability:
+ Mon-Fri: 8:30 a.m. to 11:00 p.m.
+ Note: hours are subject to change during the summer months
+ Support: 
+ CC Building - CC-207
+ Phone: 514-848-2424 ext 3466
+ help@concordia.caHardware:
+ 4 Mac stations with video editing - mini DVD deck, VHS deck
+ 2 video transfer stations - PAL/Secam, Hi8
+ 1 PC for digital image scanning - Photos, Documents
+ 1 PC for digital audio scanning - DAT, cassette, CD
+ 1 PC for digital sound mixing - DAT, CD, VHSPrinting:
+ DPrint XeroxSoftware:
+ iMovie, WaveLab LE, PhotoShop, Multi Channel Audio Interface, Audacity.Hours of availability:
+Mon-Fri: 8:30 a.m. to 11:00 p.m.
+Note: hours are subject to change during the summer months
+
+Support: 
+CC Building - CC-207
+Phone: 514-848-2424 ext 3466
+help@concordia.caHardware:
+This lab is equipped with a data projector and is suitable to hold classes.
+20 Macs OS/XPrinting:
+DPrint XeroxSoftware:
+Microsoft Office, iMovie, iTunes, Internet Explorer, Macromedia Flash.Hours of availability:
+Mon-Fri: 8:30 a.m. to 11:00 p.m.
+Note: hours are subject to change during the summer months
+
+Support: 
+CC Building - CC-207
+Phone: 514-848-2424 ext 3466
+help@concordia.caHardware:
+This lab is equipped with a data projector and is suitable to hold classes.
+Intel Core i5-2400 3.1GHz Quad Core, 4GB RAM, 250GB HD, DVD RW, NVIDIA Quadro 600/1GB, eSATA, Windows 7 Enterprise. PCs.Printing:
+DPrint XeroxSoftware:
+Visual Basic, Visual C++
+Concordia’s standard PC software packageNOTE: This lab is 'open use' as well as 'teaching use'. This lab is open whenever it has not been reserved for a scheduled event.1. Food and drink are strictly prohibited.
+ 2. Phone calls should not be answered in the lab.
+ 3. Users must treat the equipment with respect, and be conscious of the students around them.To access the computer, you must log in using the same netname and password as the MyConcordia Portal.Yes – additional software installations can be requested in computer labs. More information regarding services offered and costs associated is available on the classroom and lab software installation page.While other software may be present, there is a standard software package installed on PC workstations in classrooms, open-use labs, and teaching labs.This package includes:  Page suggestions:© Concordia UniversityConcordia UniversityComputer & media labs - teaching useIT Services
+            
+                IT ServicesSGW-H-517
+                
+            
+                
+					
+                    SGW-H-923
+                
+            
+                
+					
+                    Loyola-CC-208
+                
+            
+                
+					
+                    Loyola-CC-213
+                
+            
+                
+					
+                    Loyola-CC-215
+                
+            
+                
+					
+                    What are the lab regulations?
+                
+            
+                
+					
+                    How do I log into the computer?
+                
+            
+                
+					
+                    Can I install software on a lab computer?
+                
+            
+                
+					
+                    What is the standard software package installed on PC lab and classroom computers?Who can use it?How much does it cost?How to get itService availabilityDocumentationFAQSee alsoConcordia University - Call us at 514-848-2424Was this page useful to you?

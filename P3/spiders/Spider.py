@@ -41,20 +41,25 @@ class MySpider(scrapy.Spider):
             # www_root/bar
             cur_root_dirname = self.base_dir + "/" + department
 
-            # init departments folder size
-            print ("DICT STAT")
-            self.folder_size_dict[department] = sum(os.path.getsize(cur_root_dirname + '/' + f) for f in os.listdir(cur_root_dirname) if os.path.isfile(cur_root_dirname + '/' + f))
-            print (self.folder_size_dict)
-
             # create dir for the current sub-root page
             if not os.path.exists(cur_root_dirname):
                 os.makedirs(cur_root_dirname)
+
+            # init departments folder size
+            print ("DICT STAT")
+            print (self.folder_size_dict)
+            if os.path.exists(cur_root_dirname):
+                self.folder_size_dict[department] = sum(os.path.getsize(cur_root_dirname + '/' + f) for f in os.listdir(cur_root_dirname) if os.path.isfile(cur_root_dirname + '/' + f))
+            else:
+                self.folder_size_dict[department] = 0
 
             if self.folder_size_dict[department] < self.Max_Folder_Size:
                 request = scrapy.Request(url=url, callback=self.parse)
                 request.meta['cur_root_dirname'] = cur_root_dirname
                 request.meta['department'] = department
                 yield request
+            else:
+                print ("this dept is full (in main)")
 
     def parse(self, response):
         cur_root_dirname = response.meta['cur_root_dirname']
@@ -69,36 +74,45 @@ class MySpider(scrapy.Spider):
         # example
         filename = str(page).split('.')[0]
 
+        # follow url if current dept folder size is under (1MB) ?
         if page_type == "html":
-
-            # handle file saving and append count if filename exists
-            count = 1
-            if not os.path.isfile(cur_root_dirname + '/' + page):
-
-                write_to_file(self, response, cur_root_dirname, department, filename)
-            else:
-                while os.path.isfile(cur_root_dirname + '/' + filename + str(count) + ".txt"):
-                    count += 1
-                write_to_file(self, response, cur_root_dirname, department, filename)
-
-            # follow url if current dept folder size is under (1MB) ?
             if self.folder_size_dict[department] < self.Max_Folder_Size:
+
+                # handle file saving and append count if filename exists
+                count = 1
+                if not os.path.isfile(cur_root_dirname + '/' + page):
+                    write_to_file(self, response, cur_root_dirname, department, filename)
+                else:
+                    while os.path.isfile(cur_root_dirname + '/' + filename + str(count) + ".txt"):
+                        count += 1
+                    write_to_file(self, response, cur_root_dirname, department, filename)
+
+                # handle spawning new requests for all links in page
                 for href in response.css('a::attr(href)').extract():
                     # if starts with slash and not moving up dirs
                     utf = str(href).encode('utf-8', 'ignore')
-                    if utf.startswith('/') and ".." not in utf:
+                    if utf.startswith('/') and ".." not in utf and utf.endswith('.html'):
                         request = scrapy.Request(response.urljoin(href), callback=self.parse)
                         request.meta['cur_root_dirname'] = cur_root_dirname
                         request.meta['department'] = department
                         yield request
+            else:
+                print ("this dept is full, (in parse)")
+                print (department)
+                print (self.folder_size_dict)
+        else:
+            print ("not html page")
+            print (department)
+            print (self.folder_size_dict)
 
 
 def write_to_file(self, response, cur_root_dirname, department, filename):
-    with open(cur_root_dirname + '/' + filename + ".txt", 'a') as f:
+    path_to_file = cur_root_dirname + '/' + filename + ".txt"
+    with open(path_to_file, 'a') as f:
         site = get_tags(response)
         f.write(site.encode('utf-8', 'ignore'))
     self.log('Saved file %s' % filename)
-    self.folder_size_dict[department] += sys.getsizeof(site)
+    self.folder_size_dict[department] += os.path.getsize(path_to_file)
 
 
 def get_tags(response):
