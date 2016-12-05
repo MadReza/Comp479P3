@@ -1,0 +1,205 @@
+http://www.concordia.ca/content/shared/en/news/main/releases/2016/11/23/research-protect-your-laptop-mohammad-mannan-lianying-zhao.html
+Montreal, November 23, 2016 — In the age of WikiLeaks, Russian hacks and increased government surveillance, many computer users are feeling increasingly worried about how best to protect their personal information — even if they aren’t guarding state secrets.Luckily, there’s a solution: Hypnoguard, powerful new software developed by Concordia researchers to safeguard data even when computer is in sleep mode.“Protecting data is especially difficult when a computer goes to sleep, which happens when a laptop’s lid is closed, or after a certain period of user inactivity,” explains PhD candidate Lianying Zhao.He explains that if a computer in this mode falls into the wrong hands, a malicious person can extract the data found in the machine’s random-access memory (RAM) in a number of technical ways.“It’s been a known problem for several years, but no one’s proposed a viable way to solve it. Until now.”Zhao developed the Hynoguard system with Mohammad Mannan, an associate professor with the Concordia Institute for Information Systems Engineering.,It’s designed to protect “data-in-sleep.” When installed, the system encrypts the computer’s RAM before it enters sleep mode, and then decrypts the data upon waking with hardware-backed uncircumventible user re-authentication.“The entire process is transparent to the user, who simply enters a regular ‘unlock’ password when the computer wakes up,” explains Mannan. “There’s almost no impact on usability. For an average computer with eight gigabytes of memory, the process only takes about a second.”He and Zhao designed the system by carefully integrating password-based authentication with widely available hardware security features in modern consumer-grade computers. They unveiled their work at the 2016 ACM Conference on Computer and Communications Security this October in Vienna.Having just filed a provisional US patent for the system, Mannan and Zhao hope that members of the general population as well as corporate and state users will soon be able to use Hypnoguard to protect critical data.“Professionals for whom security is paramount — people like government agents, journalists and businessmen — should benefit the most in terms of protecting secrets in RAM. If their computer is lost or stolen, or if they are forced to reveal their password, Hypnoguard will provide that extra layer of protection. If Hypnoguard is combined with Gracewipe (another proposal from Zhao and Mannan), both RAM and disk data will be safe against password guessing and coercion attacks.” 
+Read the Hypnoguard paper from the ACM Conference proceedings. Read the Gracewipe paper from the ISOC proceedings.  Search for an expert to comment on any topicEnter a phrase or keyword© Concordia UniversityConcordia UniversityHow to protect your laptop — even when it’s asleepNews
+            
+                News
+            Related LinksJoin the conversationSweet dreams are made of this
+You are getting sleepy …
+Coming to a laptop near youSourceFind an expertConcordia University - Call us at 514-848-2424Study resourcesCalendar - GraduateCalendar - UndergraduateClass schedulesClass cancellationsCourse registrationImportant academic datesMore academic resourcesCampus servicesConcordia storesIT servicesJob opportunitiesSecurityShuttle busStudent Service Centre (Birks)All campus servicesWhat's newCalendar of eventsLatest newsMedia RelationsFaculties, Schools & CollegesArts and ScienceEngineering and Computer ScienceFine ArtsJohn Molson School of BusinessSchool of Graduate StudiesAll Schools, Colleges & DepartmentsStudy resources  
+		            	Calendar - Graduate
+		            	Calendar - Undergraduate
+		            	Class schedules
+		            	Class cancellations
+		            	Course registration
+		            	Important academic dates
+		            	More academic resourcesCampus services  
+		            	Concordia stores
+		            	IT services
+		            	Job opportunities
+		            	Security
+		            	Shuttle bus
+		            	Student Service Centre (Birks)
+		            	All campus servicesWhat's new  
+		            	Calendar of events
+		            	Latest news
+		            	Media RelationsFaculties, Schools & Colleges  
+		            	Arts and Science
+		            	Engineering and Computer Science
+		            	Fine Arts
+		            	John Molson School of Business
+		            	School of Graduate Studies
+		            	All Schools, Colleges & DepartmentsMyConcordiaCspaceWebmailLibraryDirectoriesA-ZMapsFuture studentsStudent hubAlumni & friendsParentsFaculty & staffMedia
+                                    News stories
+                                    
+                                        
+                                                
+                                                    
+                                                            
+                                                                
+                                                                    Arts & culture
+                                                                
+                                                            
+                                                            
+                                                                
+                                                                    In the community
+                                                                
+                                                            
+                                                            
+                                                                
+                                                                    Research
+                                                                
+                                                            
+                                                            
+                                                                
+                                                                    Sports & wellness
+                                                                
+                                                            
+                                                            
+                                                                
+                                                                    Student life
+                                                                
+                                                            
+                                                            
+                                                                
+                                                                    Teaching
+                                                                
+                                                            
+                                                            
+                                                                
+                                                                    University affairs
+                                                                
+                                                            
+                                                    
+                                                
+                                    
+                                                         
+                                    Events
+                                                         
+                                    Concordia in the news
+                                                         
+                                    Publications & reports
+                            
+                                    Media relations
+                                    
+                                    
+
+                                            
+                                                
+                                                        
+                                                            
+                                                                Our team
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                News releases
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Find an expert
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Ask our experts
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Op-eds
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Media kits
+                                                            
+                                                        
+                                                
+                                            
+                                    
+                            Study resourcesCalendar - GraduateCalendar - UndergraduateClass schedulesClass cancellationsCourse registrationImportant academic datesMore academic resourcesCampus servicesConcordia storesIT servicesJob opportunitiesSecurityShuttle busStudent Service Centre (Birks)All campus servicesWhat's newCalendar of eventsLatest newsMedia RelationsFaculties, Schools & CollegesArts and ScienceEngineering and Computer ScienceFine ArtsJohn Molson School of BusinessSchool of Graduate StudiesAll Schools, Colleges & DepartmentsStudy resources  
+		            	Calendar - Graduate
+		            	Calendar - Undergraduate
+		            	Class schedules
+		            	Class cancellations
+		            	Course registration
+		            	Important academic dates
+		            	More academic resourcesCampus services  
+		            	Concordia stores
+		            	IT services
+		            	Job opportunities
+		            	Security
+		            	Shuttle bus
+		            	Student Service Centre (Birks)
+		            	All campus servicesWhat's new  
+		            	Calendar of events
+		            	Latest news
+		            	Media RelationsFaculties, Schools & Colleges  
+		            	Arts and Science
+		            	Engineering and Computer Science
+		            	Fine Arts
+		            	John Molson School of Business
+		            	School of Graduate Studies
+		            	All Schools, Colleges & DepartmentsFuture studentsStudent hubAlumni & friendsParentsFaculty & staffMedia
+                
+                
+                    
+                    Home
+                    
+                
+                
+	        
+                
+                
+                    
+                    News
+                    
+                
+                
+	        
+                
+                    Media relations
+                    
+                
+                
+	        
+                    
+                    	Facebook
+                    
+                
+                    
+                    	Twitter
+                    
+                
+                    
+                        LinkedIn
+                    
+                
+                    
+                        GooglePlus
+                    
+                
+					            
+						            
+						            Faculty of Engineering and Computer Science
+						        
+						    
+					            
+						            
+						            Concordia Institute for Information Systems Engineering (CIISE)
+						        
+						    
+					            
+						            
+						            Mohammad Mannan 
+						        
+						    
+                        
+                           Follow @ConcordiaUnews
+                        
+                    
+                        
+                           Follow @ENCSconcordia
+                        
+                    AboutAcademicsAdmissionsCampus lifeResearchInternationalFuture studentsCurrent studentsAlumni & friendsParents Faculty & stafffacebooktwittergoogleyoutubelinkedinpinterestinstagramflickr© Concordia UniversityTermsPrivacyAccessibilityWebsite feedback

@@ -1,0 +1,167 @@
+http://www.concordia.ca/content/shared/fr/actualites/central/nouvelles/2016/11/25/concordia-celebre-l-obtention-de-nouveaux-brevets.htmlEnglish version
+Un échangeur de chaleur éconergétique et un système de direction amélioré ne représentent que deux des nombreuses inventions de chercheurs de l’Université Concordia célébrées lors de la soirée de reconnaissance technologie et innovation, le 23 novembre dernier.Neuf chercheurs de Concordia et leurs équipes ont ainsi vu leurs créations brevetées depuis 2008 : Waizuddin Ahmed, Maria Amer, Armen Atoyan, John Capobianco, Javad Dargahi, Suong Van Hoa, Gregory Kersten, Muthukumaran Packirisamy et Georgios Vatistas.« La technologie évolue à un rythme rapide dans tous les domaines. Elle influe sur notre vie et sur notre manière de faire les choses, et nos chercheurs contribuent à ce développement », affirme Justin Powlowski, vice-recteur intérimaire à la recherche et aux études supérieures.« Les brevets obtenus par les innovateurs de Concordia constituent l’aboutissement d’années de travail et de dévouement à l’idée de pousser les résultats de recherche plus loin afin d’améliorer un procédé ou un produit. »L’événement comprenait des présentations de partenaires de l’Université appuyant l’innovation, dont Aligo Innovation, TandemLaunch et Fasken Martineau.Maria Amer, professeure agrégée au Département de génie électrique et informatique, était honorée pour une technologie de réduction du bruit que ses étudiants et elle ont mis au point. Ce procédé de traitement vidéo améliore la luminosité et les couleurs des images numériques sans brouiller leurs détails. Il est maintenant en vente sur le marché grâce à un contrat de licence conclu avec l’entreprise wrnch inc., appuyée par Mark Cuban, de l’émission Shark Tank. La licence de la technologie de débruitage vidéo a par la suite été concédée à Red Giant, une compagnie américaine de réalisation cinématographique et d’animation graphique.La Pr Amer affirme que ses recherches sont motivées par le besoin d’innover, et que la commercialisation constitue la cerise sur le gâteau.« On ne peut pas savoir exactement où nos recherches nous mèneront, ajoute-t-elle. En 2009, j’ai conçu une technologie qui ne s’est pas révélée assez puissante pour rivaliser avec la concurrence en matière de débruitage industriel. Je me suis alors mise au défi de surpasser ce qui était offert sur le marché, et j’ai demandé à l’un de mes doctorants de s’atteler à la tâche, ce à quoi il a excellé. »Maria Amer travaille à présent sur les méthodes de suivi des objets vidéo. Son objectif est de faire progresser de manière fondamentale les nouvelles technologies et les connaissances scientifiques dans ce domaine, mais son équipe et elle pourraient se tourner vers la recherche appliquée si elles découvrent un créneau industriel.
+ Des interfaces de sites de vente aux enchères aux matériaux de construction autoscellants, les innovations ne manquent pas à Concordia. Voici donc d’autres inventions récemment brevetées.
+Direction et freinage améliorésWaizuddin Ahmed, professeur au Département de génie mécanique et industriel, se spécialise en dynamique et conception de systèmes pour véhicules routiers et ferroviaires. Il détient un brevet pour un système de direction active à commande indépendante qui améliore non seulement la maniabilité, mais aussi le freinage dans les virages des véhicules routiers. La commande indépendante est de surcroît dotée d’un mécanisme de sécurité intégré et pourrait présenter de nombreuses autres applications en matière de technologie de commande de châssis active.
+Nouvelles dimensions de donnéeArmen Atoyan, chargé d’enseignement principal en mathématiques et en statistique à la Faculté des arts et des sciences, possède un brevet pour une nouvelle méthode d’interpolation ultrarapide des points de données dans un ensemble de données multidimensionnel. Son invention se révèle particulièrement intéressante pour le traitement des images numériques, y compris les images fixes et en temps réel.
+Nanoparticules spécialement conçuesProfesseur au Département de chimie et de biochimie, John Capobianco s’intéresse principalement à la synthèse, à la caractérisation et à la spectroscopie des nanoparticules dopées en ions lanthanides. Sa technologie brevetée permet notamment la conversion ascendante de la lumière infrarouge proche des nanoparticules en domaines ultraviolet, visible et rouge. Les résultats de ces travaux, menés en collaboration avec des étudiants et d’autres collègues, ont suscité une attention considérable en raison de leurs applications biomédicales potentielles pour la bio-imagerie, la thérapie photodynamique et l’administration de médicaments.
+Capteurs intelligents pour interventions chirurgicalesJavad Dargahi, professeur au Département de génie mécanique et industriel, est l’un des plus grands spécialistes canadiens de l’application des systèmes de rétroaction haptique. Dans le cadre de ses travaux menés avec son attaché de recherche, Saeed Sokhanvar, il a mis au point un capteur tactile intelligent breveté ainsi que des systèmes de rétroaction haptique axés sur la force et la souplesse, destinés à des applications robotiques. Ses recherches pourraient être mises à profit dans les hôpitaux afin d’offrir des chirurgies endoscopiques mini-invasives.
+Composites plus robustes et autoréparantsLe Pr Suong Van Hoa, du Département de génie mécanique et industriel, a brillamment réussi à obtenir des brevets pour ses inventions. Il s’intéresse en particulier à la détection des défauts des structures composites telles que les avions, les automobiles et les éoliennes, afin d’assurer leur sécurité. Ses brevets comprennent une feuille adhésive conductrice permettant de joindre des éléments structuraux, un matériau composite autoréparant conçu pour remédier aux fissures et un système fabriquant des composés époxydes haute performance à l’aide de particules d’argile.
+Nouveaux mécanismes de marchéGregory Kersten, professeur au Département de gestion de la chaîne d’approvisionnement et des technologies d’affaires, étudie les ventes aux enchères et la gestion des négociations. Il a ainsi élaboré un mécanisme de marché novateur destiné à l’approvisionnement dans le cadre d’enchères inversées multiattributs informatisées – où plusieurs vendeurs participent à un processus d’appel d’offres avec un seul acheteur. Selon ce mécanisme, les vendeurs sont contraints de soumettre des offres qui respectent certains critères et le gagnant est sélectionné en fonction d’un ensemble prédéterminé de préférences de l’acheteur inconnues des enchérisseurs.
+Outils diagnostiques miniaturesSpécialiste des systèmes microélectromécaniques biomédicaux, ou BioMEMS, au Département de génie mécanique et industriel, le Pr Muthukumaran Packirisamy a mis au point maintes nouvelles technologies et a récemment breveté cinq découvertes. Nombre de ses inventions touchent à la miniaturisation de composants photoniques pour les technologies de l’information ainsi que d’outils diagnostiques pour l’industrie des soins de santé qui permettent de détecter les cancers et d’autres maladies pouvant affecter la circulation sanguine. Ses derniers travaux portent sur une cellule qui capte l’énergie électrique générée par la photosynthèse et la respiration des algues bleu-vert.
+Systèmes de chauffage plus efficacesAyant acquis une renommée internationale pour avoir prouvé le théorème vieux de 125 ans du lauréat du prix Nobel Sir Joseph John Thomson sur la stabilité des anneaux tourbillonnaires, le Pr Georgios Vatistas du Département de génie mécanique et industriel est un expert sur la manière dont les tourbillons peuvent rendre l’échange d’énergie plus économique. Son échangeur de chaleur récemment breveté – qui requiert quatre à six fois moins d’énergie pour fonctionner et est considérablement plus petit qu’un échangeur traditionnel à tubes et calandre, et qui consomme 40 fois moins d’énergie qu’un échangeur à plaques – s’inspire de ses travaux antérieurs sur les flux tourbillonnants d’air et d’eau.
+En savoir plus sur les ressources à l’intention des chercheurs de Concordia.  
+        How Concordia is doubling its research efforts through strengthened faculty services
+    
+        How to get the funding you need
+    
+        Your research has been funded. Now what?
+    
+        The ins and outs of research ethics at Concordia
+    
+        Two new academic editors-in-chief
+    Rechercher un expert apte à commenter tout sujetEntrer une expression ou un mot-clé© Université ConcordiaConcordia UniversityConcordia célèbre l’obtention de nouveaux brevetsRelated LinksArticles connexesSujets connexesLatest storiesMost popularGet fit for 2017Calling all Concordia travellersOPINION: Big Pharma’s troubles are good news for innovationConcordia receives funding for 5 Canada Research ChairsThe fight against fake news13 essential tips for exam successTo nap or not to nap? Sleep tips for ConcordiansJason Camlot wins the Donald Gray Prize for best Victorian Studies essay‘We are conducting research in a living lab’What's it like to meet  the Oracle of Omaha?De l’idée jusqu’au marché
+ Innover pour relever les défis de la sociétéTrouver un expertUniversité Concordia - Contactez-nous au 514-848-2424Ressources étudiantesAnnuaire des études supérieuresAnnuaire des études de 1er cycleAvis d’annulation de coursHoraire des coursInscription aux coursCalendrier universitaireAutres ressourcesServices sur les campusMagasinsServices de TIOccasions d’emploiSécuritéNavetteCentre de services aux étudiants BirksAutres servicesQuoi de neufCalendrier des activités Actualités récentesRelations médiasFacultés, écoles et collègesArts et sciencesGénie et informatiqueBeaux-artsÉcole de gestion John-MolsonÉcole des études supérieuresTout sur les écoles, collèges et départementsRessources étudiantes  
+		            	Annuaire des études supérieures
+		            	Annuaire des études de 1er cycle
+		            	Avis d’annulation de cours
+		            	Horaire des cours
+		            	Inscription aux cours
+		            	Calendrier universitaire
+		            	Autres ressourcesServices sur les campus  
+		            	Magasins
+		            	Services de TI
+		            	Occasions d’emploi
+		            	Sécurité
+		            	Navette
+		            	Centre de services aux étudiants Birks
+		            	Autres servicesQuoi de neuf  
+		            	Calendrier des activités 
+		            	Actualités récentes
+		            	Relations médiasFacultés, écoles et collèges  
+		            	Arts et sciences
+		            	Génie et informatique
+		            	Beaux-arts
+		            	École de gestion John-Molson
+		            	École des études supérieures
+		            	Tout sur les écoles, collèges et départementsMyConcordiaCspaceMon courrielBibliothèqueRépertoiresA-ZCartesFuturs étudiantsCarrefour étudiantDiplômés et amisParentsPersonnelMédiasÀ propos ÉtudesAdmissionVie étudianteRechercheInternationalRessources étudiantesAnnuaire des études supérieuresAnnuaire des études de 1er cycleAvis d’annulation de coursHoraire des coursInscription aux coursCalendrier universitaireAutres ressourcesServices sur les campusMagasinsServices de TIOccasions d’emploiSécuritéNavetteCentre de services aux étudiants BirksAutres servicesQuoi de neufCalendrier des activités Actualités récentesRelations médiasFacultés, écoles et collègesArts et sciencesGénie et informatiqueBeaux-artsÉcole de gestion John-MolsonÉcole des études supérieuresTout sur les écoles, collèges et départementsRessources étudiantes  
+		            	Annuaire des études supérieures
+		            	Annuaire des études de 1er cycle
+		            	Avis d’annulation de cours
+		            	Horaire des cours
+		            	Inscription aux cours
+		            	Calendrier universitaire
+		            	Autres ressourcesServices sur les campus  
+		            	Magasins
+		            	Services de TI
+		            	Occasions d’emploi
+		            	Sécurité
+		            	Navette
+		            	Centre de services aux étudiants Birks
+		            	Autres servicesQuoi de neuf  
+		            	Calendrier des activités 
+		            	Actualités récentes
+		            	Relations médiasFacultés, écoles et collèges  
+		            	Arts et sciences
+		            	Génie et informatique
+		            	Beaux-arts
+		            	École de gestion John-Molson
+		            	École des études supérieures
+		            	Tout sur les écoles, collèges et départementsFuturs étudiantsCarrefour étudiantDiplômés et amisParentsPersonnelMédias
+                
+                
+                    
+                    Accueil
+                    
+                
+                
+	        
+                
+                
+                    
+                    Relations médias
+                    
+                
+                
+	        
+                
+                    Communiqués de presse
+                    
+                
+                
+	        
+                    
+                    	Facebook
+                    
+                
+                    
+                    	Twitter
+                    
+                
+                    
+                        LinkedIn
+                    
+                
+                    
+                        GooglePlus
+                    
+                
+					            
+						            
+						            Faculty of Arts and Science
+						        
+						    
+					            
+						            
+						            Faculty of Engineering and Computer Science
+						        
+						    
+					            
+						            
+						            John Molson School of Business
+						        
+						    
+					            
+						            
+						            Strategic Direction 5: Experiment Boldly
+						        
+						    
+					            
+						            
+						            Aligo Innovation 
+						        
+						    
+					            
+						            
+						            TandemLaunch 
+						        
+						    
+					            
+						            
+						            Red Giant 
+						        
+						    
+					            
+						            
+						            Ad for the Denoiser III featuring Mark Cuban 
+						        
+						    
+    
+        How Concordia is doubling its research efforts through strengthened faculty services
+    
+
+    
+        How to get the funding you need
+    
+
+    
+        Your research has been funded. Now what?
+    
+
+    
+        The ins and outs of research ethics at Concordia
+    
+
+    
+        Two new academic editors-in-chief
+    
+À proposÉtudesAdmissionVie étudianteRechercheInternationalCandidatsÉtudiants de ConcordiaDiplômés et amisProches d’étudiantsProfesseurs et membres du personnelfacebooktwittergoogleyoutubelinkedinpinterestinstagram© Université ConcordiaConditions d’utilisationConfidentialitéAccessibilitéCommentaires sur le site Web

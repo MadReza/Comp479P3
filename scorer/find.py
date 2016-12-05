@@ -23,5 +23,3 @@ class luceneRetriver:
 		for hit in total_hits.scoreDocs:
 			print "Hit Score:", "%.4f" % hit.score, "Department:",lucene_searcher.doc(hit.doc).get("department").encode("utf-8"), "Title:",lucene_searcher.doc(hit.doc).get("title").encode("utf-8")
 			print lucene_searcher.doc(hit.doc).get("url").encode("utf-8"),'\n'
-			#doc = lucene_searcher.doc(hit.doc)
-			#print doc.get("text").encode("utf-8")

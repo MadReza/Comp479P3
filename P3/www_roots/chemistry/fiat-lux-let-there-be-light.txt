@@ -1,0 +1,176 @@
+http://www.concordia.ca/content/shared/en/news/offices/vpaer/aar/2015/02/18/fiat-lux-let-there-be-light.htmlDiana Rodríguez Burbano holds a nanoparticle sample in a quartz tube in front of a 980-nanometre (nm) diode laser, and its contents begin to glow. “It’s orangey-red,” says John Capobianco, professor in the Department of Chemistry and the Concordia University Senior Research Chair in Nanoscience. The glow, which emanates from nanoparticles doped with lanthanide ions, may one day light the way to more effective cancer diagnosis and therapy.Capobianco directs the Lanthanide Research Group, currently including post-doctoral fellow Nicoleta Bogdan, doctoral candidates Rodríguez Burbano, Paola Rojas Gutiérrez and Ana Maria Ibarra Ruiz, master’s student Qiang Ying Li, and undergraduate research student Rachel Hall. The lab is unusual for its high ratio of female researchers and while many male students have in the past worked under Capobianco, today’s roster reflects the increase of women in the hard sciences.The team is also an international squad. Bogdan hails from Romania; she did her PhD research at Université du Québec à Montréal, with Capobianco as one of her co-supervisors, and joined the lab after completing her doctorate in 2009. Rodríguez Burbano, Rojas Gutiérrez and Ibarra Ruiz come from Colombia; Li arrived at the lab from China.“Our focus is the detection, imaging and therapeutic treatment of disease,” says Capobianco. Together the group is helping to shape the cancer therapy of the future: a diagnosis, bio-imaging and drug delivery system that is non-invasive, non-toxic and highly efficient. “This vision is still a dream,” he stresses. “Lots of work needs to be done.” That work includes overcoming some formidable challenges, starting with building and adapting the lanthanide-doped nanoparticles to fit the job envisioned for them.The lab synthesizes most of its own nanoparticles — usually inorganic nanocrystals of sodium gadolinium fluoride or sodium yttrium fluoride — and “dopes” them with lanthanide ions, so one primary concern is understanding the structures and qualities of these nanoparticles, as well as identifying the processes that might subtly alter these qualities for particular purposes. “It’s not so easy to synthesize these nanocrystals,” says Rojas Gutiérrez, whose efforts focus on refining the nanocrystals for drug delivery. “It requires a lot of patience and perseverance.”Not-so hidden mineralsOver the years Capobianco’s graduate students have carried out research to understand the lanthanide dopants in the nanoparticles. Lanthanides, the 15 elements between atomic numbers 57 and 71 on the periodic table, are also known as the “rare earths,” as they were once (mistakenly) thought to be uncommon. Although the scientific community now frowns on the “rare earth” designation, even the formal Greek name lanthanein means “to lie hidden” — likely because these elements are very difficult to separate from the minerals in which they are found. But under the right circumstances, lanthanides are anything but hidden — indeed, they shine out.“The lanthanides have very interesting properties, especially the fact that they can emit light in the ultraviolet, visible and near-infrared region through a process called ‘upconversion,’” Capobianco says. What this means is that irradiating the lanthanide ions with low-energy radiation from a simple and inexpensive 980-nm diode laser, thus “exciting” it, causes it to glow — just as with Rodríguez Burbano’s nanoparticles sample.“Lanthanides can be excited at low energy and produce emissions at high energy, and they can do this because they have distinct and evenly spaced energy levels,” explains Capobianco. “Imagine the rungs on a ladder. When you excite at low energy, you take an electron from the lower level — the bottom rung — to a higher one and emit light of higher energy.”The upconversion phenomenon was first noted in the late 1960s, but upconverting lanthanide ions doped in nanoparticles emerged only in the late 1990s. Capobianco’s lab was in the vanguard of that research — indeed, Capobianco has been working with lanthanides for over 30 years. “When we first started this nano-research in the 1990s, we did a lot of work to understand where the lanthanides are located in the nanoparticles, how they are spatially distributed and how long their excited state will last,” he says. The team used high-powered laser equipment to compile this basic knowledge.Capobianco then learned to synthesize lanthanide-doped nanoparticles and control their morphology, beginning a shift from fundamental to applied research — and then more narrowly to biomedical applications. “We incubated the nanoparticles into a cell culture in the lab to see if we could get an image by exciting the lanthanides with the laser,” he recounts. “We found that nanoparticles are taken up by the cells through endocytosis, a process in which the cell engulfs molecules sitting on its surface. And by using the infrared laser, we could get an image of the cell.”A major advantage of the low-energy infrared laser is that it can penetrate well below the body’s surface, and then produce images with less scatter and a stronger focus than UV or visible light can provide.So the nanoparticles could be injected into cells and then the lanthanides could be excited, tracking the whereabouts of these particles. Of course, this is of little practical use if they travel aimlessly in cells; for diagnostic bio-imaging, the lanthanide-doped nanoparticles need to connect to the right cells. “That’s a real challenge! Imagine the number of cells in the body — there are something like 1014 in someone weighing about 70 kilograms,” says Capobianco.Think of the nanoparticle as a vehicle — like a tiny ambulance — travelling through the human body: it needs something to tell it how to find the accident scene. While it isn’t possible to develop a global positioning system for travelling within the body, or even within an in vitro cell culture, Capobianco’s lab, collaborating with biomedical researchers, has identified a chemical beacon that will allow the nano-ambulances to home in on their destination. Certain cancer cells overexpress different molecules — that is, they send out specific chemicals that can be used as signals identifying the cells as malignant. So Bogdan, the team’s resident targeting expert, is building on earlier research to outfit the nanoparticles with molecules that would be drawn to connect with the cancerous cells’ over-expressed molecules — thus offering the possibility of a tool for early diagnosis. The team has shown that, at least in vitro — that is, in the lab — this compound will act as the driver guiding the nano-ambulances to the cancer.Cancer numbers in CanadaCancer Canada predicted that 97,700 men and 93,600 women would be diagnosed with cancer in 2014, and 40,000 men and 36,000 women would die from it. Indeed, according to the most recent statistics, cancer is the cause of death for almost 30 per cent of Canadians; 45 per cent of men and 41 per cent of women can expect to contract some form of cancer at some point in their lives.Nano-ambulance on the wayIf there is no cancer, the nanoparticles will have no beacon to guide them, and so will not conglomerate anywhere; if there is a cancer, they will be led to the chemical beacon and will cluster around the malignant cells. Once at the cancer zone, the lanthanide molecules start to earn their passage on the nanoambulance.Their first job is to set up the flares that say, “This is the danger area!” — serving as both diagnosis and imaging. A low-energy infrared scan will cause the lanthanides to glow, marking the tumour and showing how large it is. This non-invasive imaging has the potential to offer quick and reliable diagnoses, but much work remains to be done — improving reliability and ensuring safety, for instance — before it can be tested in humans. Recently Rodríguez Burbano has been developing a new imaging approach that draws on nanophosphors doped with divalent and trivalent lanthanide ions to emit persistent luminescent light that requires charging outside the body. Once injected, the nanophosphors emit light under no excitation, which she hopes will maximize the reliability, brightness and lifespan of the emissions, making a more effective imaging tool.If the nano-ambulance can find the cancer cells, its logical next job is to kill them. “To do this we have to attach some kind of therapy cargo to the vehicle,” says Capobianco. “But that means we also have to figure out how it is going to act once it is at the cell.” Cancer therapies include photodynamic, chemical or thermal approaches to killing the cells, and the lab is exploring all of these.Photodynamic therapy, sometimes called photochemotherapy, involves using a photosensitive drug — that is, one activated by light — to produce a highly reactive form of oxygen called singlet oxygen, which then destroys cancer cells. Today, this is carried out by injecting the patient with the drug and then using visible light to scan the tumour site to release the drug; but the drug is not targeted so patients must stay out of the sunlight after receiving injections to avoid releasing the drug throughout the body, leading to the death of healthy cells as well.If a photosensitive drug can be delivered directly to the cancer cell by the nanoparticle and then activated by light at one of the wavelengths that can be produced by the excited lanthanides, the therapeutic process would be safer and more efficient. So Capobianco looked on the market for a drug that would absorb light at one of the lanthanides’ wavelengths and thus produce singlet oxygen. Temoporfin, a drug approved in Europe, fit the bill. One of his previous graduate students, Jessica Yu, modified the drug, attached it to the nanoparticle, and irradiated it to produce singlet oxygen. The results: the drug killed 75 per cent of the cancer cells in in vitro experiments.Other applicationsThe lab is also exploring chemotherapeutic applications. The lab attached doxorubicin, a chemotherapy drug, to the nanoparticle, and then used light from the upconverted lanthanides to prompt a photochemical reaction breaking the bond with the nanoparticle, releasing the drug into the cells and killing them. Currently, Rojas Gutiérrez is exploring another way of delivering the drug using modified lipids with a photosensitive azobenzene molecule that built up liposome structures. “The drug is carried in these liposomes. In the moment we irradiate with 980-nm light, it causes a disruption in the structure and releases the drug,” she says.The lab’s latest endeavour is the responsibility of its newest member, Ibarra Ruiz, who arrived in January 2014 and is building hybrid nanoparticles for bio-imaging. “I’m trying to combine nanoparticles with quantum dots, which will have more desirable bio-imaging properties,” she explains. “Upconverted nanoparticles are not as bright as quantum dots, but quantum dots also are quite toxic. The hybrid is supposed to improve brightness and lower toxicity by confining the quantum dot in the core of the nanoparticle. This way we can avoid this toxicity while keeping the desirable property.”This innovative and challenging work offers the possibility of more effective imaging that could one day help turn the lab’s vision into reality. Indeed, while using lanthanide-doped nanoparticles for bio-imaging and drug delivery shows promise in the lab, its use in humans remains far off in the future. But the proof of principle exists — Capobianco’s lab has proved that these tiny nanoambulances can be used to detect, image and treat cancer cells.Capobianco is proud of his teams, present and past, and their research. Certainly his colleagues locally and abroad have taken note of the Lanthanide Research Group’s endeavours: he can point to a huge number of awards, cover-story articles in leading journals, and international collaborations for both himself and his team members. And he is clear about where to place the credit. “I have always said my success — if one wants to call it that — has been from graduate students, because they’re the ones in the lab doing the work,” he stresses. “I’ve been very fortunate in my 30 years at Concordia. I have had excellent graduate students.”Search for an expert to comment on any topicEnter a phrase or keywordThe Colombian connectionThe Lanthanide Research Group team has a strong Latin connection these days. Diana Rodríguez Burbano, Paola Rojas Gutiérrez and Ana Maria Ibarra Ruiz all graduated from Bogota’s Universidad de Los Andes, one of the most respected academic institutions in the country. Rodríguez Burbano, who has Concordia’s Stanley G. French Graduate Fellowship and a scholarship from the Colombian government, arrived in 2010 to begin research in John Capobianco’s lab as a master’s student; eventually she fast-tracked into the doctoral program, and is now close to completing her PhD. “I like working in something that will have an application,” she says. “It is not research that is going to stay in the lab.”Rodríguez Burbano then told her friend and former classmate Rojas Gutiérrez, who arrived two winters ago on a privately funded scholarship from Colombia; she has also received a Concordia International Tuition Fee Remission Award. The change in cultures and environments was not easy. “My first winter was very tough,” says Rojas Gutiérrez. “But I used to play roller hockey in Colombia, so this winter I began playing ice hockey with people on an outdoor rink in the middle of a park. I wanted it to be freezing so I could play hockey!”In January 2014 they were joined by the third, Ibarra Ruiz, who received both the Frederick Lowy Scholars Fellowship and an Arts and Science Graduate Fellowship. “Diana was my TA , and I studied with Paola in Bogota,” says Ibarra Ruiz. “They knew what kind of work I was doing and told me about Professor Capobianco. I looked at his research, got really interested, and here I am!”© Concordia UniversityConcordia UniversityFiat lux: let there be light!Department of Chemistry & Biochemistry
+            
+                Department of Chemistry & Biochemistry
+            Related topicsFind an expertConcordia University - Call us at 514-848-2424Study resourcesCalendar - GraduateCalendar - UndergraduateClass schedulesClass cancellationsCourse registrationImportant academic datesMore academic resourcesCampus servicesConcordia storesIT servicesJob opportunitiesSecurityShuttle busStudent Service Centre (Birks)All campus servicesWhat's newCalendar of eventsLatest newsMedia RelationsFaculties, Schools & CollegesArts and ScienceEngineering and Computer ScienceFine ArtsJohn Molson School of BusinessSchool of Graduate StudiesAll Schools, Colleges & DepartmentsStudy resources  
+		            	Calendar - Graduate
+		            	Calendar - Undergraduate
+		            	Class schedules
+		            	Class cancellations
+		            	Course registration
+		            	Important academic dates
+		            	More academic resourcesCampus services  
+		            	Concordia stores
+		            	IT services
+		            	Job opportunities
+		            	Security
+		            	Shuttle bus
+		            	Student Service Centre (Birks)
+		            	All campus servicesWhat's new  
+		            	Calendar of events
+		            	Latest news
+		            	Media RelationsFaculties, Schools & Colleges  
+		            	Arts and Science
+		            	Engineering and Computer Science
+		            	Fine Arts
+		            	John Molson School of Business
+		            	School of Graduate Studies
+		            	All Schools, Colleges & DepartmentsMyConcordiaCspaceWebmailLibraryDirectoriesA-ZMaps
+                                    About the Department
+                                    
+                                    
+
+                                            
+                                                
+                                                        
+                                                            
+                                                                Faculty members
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Staff
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Job opportunities
+                                                            
+                                                        
+                                                
+                                            
+                                    
+                            
+                                    Programs
+                                    
+                                    
+
+                                            
+                                                
+                                                        
+                                                            
+                                                                Undergraduate programs
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Graduate programs
+                                                            
+                                                        
+                                                
+                                            
+                                    
+                            
+                                    Research
+                                    
+                                    
+
+                                            
+                                                
+                                                        
+                                                            
+                                                                Research centres
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Publications
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Faculty by research area 
+                                                            
+                                                        
+                                                
+                                            
+                                    
+                                                         
+                                    Student life
+                            Study resourcesCalendar - GraduateCalendar - UndergraduateClass schedulesClass cancellationsCourse registrationImportant academic datesMore academic resourcesCampus servicesConcordia storesIT servicesJob opportunitiesSecurityShuttle busStudent Service Centre (Birks)All campus servicesWhat's newCalendar of eventsLatest newsMedia RelationsFaculties, Schools & CollegesArts and ScienceEngineering and Computer ScienceFine ArtsJohn Molson School of BusinessSchool of Graduate StudiesAll Schools, Colleges & DepartmentsStudy resources  
+		            	Calendar - Graduate
+		            	Calendar - Undergraduate
+		            	Class schedules
+		            	Class cancellations
+		            	Course registration
+		            	Important academic dates
+		            	More academic resourcesCampus services  
+		            	Concordia stores
+		            	IT services
+		            	Job opportunities
+		            	Security
+		            	Shuttle bus
+		            	Student Service Centre (Birks)
+		            	All campus servicesWhat's new  
+		            	Calendar of events
+		            	Latest news
+		            	Media RelationsFaculties, Schools & Colleges  
+		            	Arts and Science
+		            	Engineering and Computer Science
+		            	Fine Arts
+		            	John Molson School of Business
+		            	School of Graduate Studies
+		            	All Schools, Colleges & Departments
+                
+                
+                    
+                    Home
+                    
+                
+                
+	        
+                
+                
+                    
+                    Faculty of Arts and Science
+                    
+                
+                
+	        
+                
+                
+                    
+                    Department of Chemistry & Biochemistry
+                    
+                
+                
+	        
+                
+                
+                    
+                    News & events
+                    
+                
+                
+	        
+                
+                    News
+                    
+                
+                
+	        
+                    
+                    	Facebook
+                    
+                
+                    
+                    	Twitter
+                    
+                
+                    
+                        LinkedIn
+                    
+                
+                    
+                        GooglePlus
+                    
+                AboutAcademicsAdmissionsCampus lifeResearchInternationalFuture studentsCurrent studentsAlumni & friendsParents Faculty & stafffacebooktwittergoogleyoutubelinkedinpinterestinstagramflickr© Concordia UniversityTermsPrivacyAccessibilityWebsite feedback
