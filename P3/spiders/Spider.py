@@ -1,8 +1,10 @@
 import scrapy
 from scrapy.selector import Selector
+from scrapy import signals
+from scrapy.xlib.pydispatch import dispatcher
+from afinn import Afinn
 import os
 import os.path
-import sys
 
 class MySpider(scrapy.Spider):
     name = "base_spider"
@@ -24,7 +26,10 @@ class MySpider(scrapy.Spider):
             'http://www.concordia.ca/artsci/science-college.html',
             'https://www.concordia.ca/artsci/science-college/about/life-at-the-college.html'
         ]
-        #last link is the secret page
+        # last link is the secret page
+
+        # To be called when spider finishes
+        dispatcher.connect(self.sentiment_analysis, signals.spider_closed)
 
         # create dir for the root page
         if not os.path.exists(self.base_dir):
@@ -105,6 +110,43 @@ class MySpider(scrapy.Spider):
             print (department)
             print (self.folder_size_dict)
 
+    # SENTIMENT ANALYSIS FUNCTION ######################################################
+    def sentiment_analysis(self, spider):
+        print ("in sent-anal")
+        print (self.base_dir)
+        afinn = Afinn()
+
+        with open("../SCORES.txt", 'w') as outFile:
+            outFile.write("SENTIMENT ANALYSIS OF THE ROOT URLs (Folders)\n"
+                          "---------------------------------------------")
+
+        # in each root dir (root URL)
+        for d in os.listdir(self.base_dir):
+            d = self.base_dir + '/' + d
+            if os.path.isdir(d):
+                output = ""
+                dept_score = 0
+                num_words = 0
+
+                # with each file, read in and add/avg score
+                for f in os.listdir(d):
+                    f = d + '/' + f
+                    if os.path.isfile(f):
+                        with open(f, 'r') as inFile:
+                            file_contents = inFile.read().replace('\n', '')
+                            dept_score += afinn.score(file_contents)
+                            num_words += len(file_contents.split())
+
+                with open("../SCORES.txt", 'a') as outFile:
+                    dept = d.split('/')[-1]
+                    output += "\n\nDepartment       : " + dept + \
+                                "\nScore            : " + str(dept_score) + \
+                                "\n - Total words   : " + str(num_words) + \
+                                "\n - Score per word: " + str(round(dept_score/num_words, 7))
+                    outFile.write(output)
+                    print ("Analyzing " + dept + " and saving to...")
+                    print (str(outFile))
+
 
 def write_to_file(self, response, cur_root_dirname, department, filename):
     path_to_file = cur_root_dirname + '/' + filename + ".txt"
@@ -124,3 +166,4 @@ def get_tags(response):
     site += ''.join(response.xpath("//h5//text()").extract()).strip()
     site += ''.join(response.xpath("//h6//text()").extract()).strip()
     return site
+

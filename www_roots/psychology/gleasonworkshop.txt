@@ -1,8 +1,0 @@
-http://www.concordia.ca/content/shared/en/events/artsci/polisci/wssr/2015/05/20/gleasonworkshop.htmlMay 20th- 22nd, 2015
-9:00 a.m. - 4:30 p.m.The R statistical computing environment is arguably the most powerful single tool for data analysis and graphics in use today. It is an open-source implementation of the S language with over 4,000 user-developed packages that extend R's functionality in nearly every direction. Given the pace and scope of R's ongoing development, learning what is available and finding what you need can seem a daunting, if not insurmountable task. Further, new users often find the code-driven (rather than menu-driven) environment to be overwhelming.
-
-This course will introduce users to R by working through a number of example analyses commonly encountered in the social sciences. We use these examples as ways to motivate rudimentary topics such as data management, graphics and finding help and other useful routines in R. We will cover linear models, generalized linear models, discrete choice models, and models for multivariate data. We will have ample time for participants to ask questions and work through examples themselves. Participants should leave the course with a good understanding of R and how to put it to use in their own research.© Concordia UniversityConcordia University
-                        R: Learning by Examplewith Kelly GleasonWorkshops on Social Science Research (WSSR)
-            
-                Workshops on Social Science Research (WSSR)
-            Join the ConversationConcordia University - Call us at 514-848-2424For more information about the ICPSR and to register for this workshop go to:

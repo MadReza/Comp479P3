@@ -1,0 +1,47 @@
+SENTIMENT ANALYSIS OF THE ROOT URLs (Folders)
+---------------------------------------------
+
+Department       : biology
+Score            : 6546.0
+ - Total words   : 139047
+ - Score per word: 0.0470776
+
+Department       : chemistry
+Score            : 5349.0
+ - Total words   : 137464
+ - Score per word: 0.038912
+
+Department       : exercise-science
+Score            : 6292.0
+ - Total words   : 135883
+ - Score per word: 0.0463045
+
+Department       : geography-planning-environment
+Score            : 7026.0
+ - Total words   : 142079
+ - Score per word: 0.0494514
+
+Department       : life-at-the-college
+Score            : 5388.0
+ - Total words   : 135648
+ - Score per word: 0.0397205
+
+Department       : math-stats
+Score            : 5786.0
+ - Total words   : 139351
+ - Score per word: 0.0415211
+
+Department       : physics
+Score            : 7250.0
+ - Total words   : 148483
+ - Score per word: 0.0488271
+
+Department       : psychology
+Score            : 8182.0
+ - Total words   : 140295
+ - Score per word: 0.05832
+
+Department       : science-college
+Score            : 8136.0
+ - Total words   : 139458
+ - Score per word: 0.0583401
