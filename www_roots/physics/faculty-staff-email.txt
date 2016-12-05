@@ -1,0 +1,235 @@
+http://www.concordia.ca/content/concordia/en/it/services/faculty-staff-email.htmlUniversity employees have access to a Microsoft Exchange personal email. Microsoft Exchange is a collaborative tool developed by Microsoft. The major features consist of electronic mail, calendaring, contacts, and tasks. In addition to desktop access, Microsoft Exchange supports mobile and web-based access. This service allows for email data recovery, archiving services, and features built-in support for enhanced mobile connectivity, high reliability, and larger mailboxes.Faculty & staffThere is no cost associated with this service.
+24/7Term: Username
+Definition: The username you must use to log into your email account.
+Specifics: Concordia faculty and staff must use their netname to log into their Exchange email account.Term:  Password
+Definition: The password you must use to log into your email account.
+Specifics: Concordia faculty and staff must use their netname password to log into their Exchange email account.Term: Incoming server
+Definition: The Concordia server from which you receive your mail.
+Specifics: imap.concordia.ca or pop.concordia.caTerm: Outgoing SMTP server
+Definition: The Concordia server through which you send mail. This applies to on-campus service only. If you are off-campus, you must use your internet service provider's (ISP) outgoing mail server or connect via the VPN server.
+Specifics:
+Server name: smtp.concordia.ca
+Port: 25
+Encryption Method: None
+Authentication Methed: NoneTerm: Ports
+Definition: A computer port is a type of electronic docking point through which information flows from a program on your computer to the internet.
+Specifics:
+POP setting server name: pop.concordia.ca
+Port: 995
+Encryption method: SSL
+IMAP setting server name: imap.concordia.ca
+Port: 993
+Encryption method: SSL
+If you already use Outlook 2010 as your email client, skip to Step 5Step 1
+Launch Outlook 2010 for the first time.Step 2
+The outlook 2010 startup wizard will appear. Click Next to continue.Step 3
+The pop-up box will ask: "Would you like to configure an E-mail account?
+Select Yes and click NextStep 4
+First time Outlook 2010 users must skip to Step 7. Steps 5 & 6 are for those already using Outlook 2010.Step 5
+Launch Outlook 2010Step 6
+Click on the File tab, then Info on the left of the screen, and Add account in the centre of your screen.
+Step 7
+Users who are connected to the Concordia domain will be asked for the following information:
+Your name: enter your first and last names.
+E-mail address: netname@algol.concordia.ca (MyConcordia portal netname)
+Password: Enter your MyConcordia portal password
+Retype password: enter your MyConcordia portal password once again
+Ignore the 'Text Messaging (SMS)' ad 'Manually configure server settings or additional server types' options.Step 8
+Users NOT on the Concordia domain will be asked for the following information:
+Your name: enter your first and last name
+E-mail address: netname@algol.concordia.ca (MyConcordia portal netname)
+Password: enter your MyConcordia portal password
+Retype password: enter your MyConcordia portal password once again
+Ignore the 'Manually configure server settings or additional server types' option.Step 9
+Click Next to continueStep 10
+A new screen will appear. It might take several minutes to configure your new email server settings. When the email server configuration is complete, green checkmarks will appear (for users on the Concordia domain).Step 11
+Users NOT on the Concordia domain will be prompted to login several times with their username and password during the email server settings configuration.Step 12
+Delete whatever is automatically written for the username field. Manually enter the following information:
+Username: concordia\netname
+Password: Your MyConcordia portal passwordStep 13
+Once the three green checkmarks appear, click Finish.Step 14
+You may be prompted to restart Outlook. Click OK.Step 15
+Users not on the Concordia domain will be prompted to login each time they launch Outlook.
+ The following instructions are to be used to set up your Concordia Microsoft Exchange email account on Microsoft Outlook 2011.
+If you already use Outlook Mac 2011 as your email client, skip to Step 4.Step 1
+Launch Outlook Mac 2011Step 2
+The Outlook Mac 2011 splash screen will appear. Click Add account.Step 3
+For those using Outlook Mac 2011 for the first time, skip to Step 5 to continue.Step 4
+Launch Outlook Mac 2011 and click on Tools at the top of your screen, and then AccountsStep 5
+Click on the button next to Exchange accountStep 6
+Enter the following information:
+Email address: netname@algol.concordia.ca (MyConcordia portal netname)
+Method: USername and password
+Username: MyConcordia portal netname
+Password: enter your MyConcordia portal password
+Users NOT on the Concordia domain must enter their username in this format: concordia\netnameStep 7
+Click Add account to continue with the configuration.Step 8
+A window will appear with your exchange account summary
+Users NOT on the Concordia domain will see the username field like this: concordia\netname
+ Concordia is unable to provide instructions for all ActiveSync devices, however, most require the same information.
+The general configuration settings for an ActiveSync device are as follows:
+If given the option, always choose Microsoft Exchange as the account type.Email: firstname.lastname@concordia.ca
+Domain: CONCORDIA
+Username: your netname
+Password: MyConcordia password
+Description: Concordia ExchangeYour device should automatically populate the server field. Should it not automatically populate, you may enter mobile.concordia.ca 
+Your email username is the same as your MyConcordia netname, and your password is the same as your MyConcordia password. For more information, visit the Netname account management page.Mail can be checked through the Outlook Web App (OWA) at owa.concordia.ca . The Outlook Web App makes it easy to manage your emails, calendars, and contacts by providing access to your content from virtually anywhere.Concordia's standard email address format for employees is firstname.lastname@concordia.ca.
+The standard format applies to all addresses, unless a request has been made for the address to be customized.The light version of OWA includes fewer features and a different layout. This should be used if you are on a slow internet connection or using a computer with unusually strict browser security settings. The light version can be selected on the login page. NOTE: If you are accessing OWA from an internet browser that does not meet the minimum browser requirements, you will be logged into OWA light by default.The global address list is a directory feature for Microsoft Exchange. All Concordia email addresses will be published in the GAL. The GAL can be seen in the 'contacts'section within OWA and Microsoft Outlook email clients.To set a vacation message using OWA, click on 'Options' and then 'Set automatic replies'. If you wish to set an end date for your vacation message, simply check the box next to 'Send replies only during this time period' and enter the applicable dates. Type your vacation message in the box provided. To send your vacation message to people outside of Concordia University, check the box next to 'Send automatic reply messages to senders outside my organization' and include your vacation message in the box provided.The first option is recommended for a work computer, as the system will automatically log out of your account after a period of time. Selecting the second option means that the system will allow you to stay logged in indefinitely. To learn more about the security settings before logging in, click on 'show explanation' nect to 'security'. Faculty and staff are given a quota of 2GB.
+If you want to request a larger quota, please contact the IITS Service Desk at x.7613. A technician will be dispatched to fully understand your email needs and discuss potential options available to you.Faculty and staff are given a quota of 2GB. If you want to free space in your inbox, here are some suggestions. If you would like more information, explanations, or help managing your email, please contact the Service Desk at x.7613.
+ 1.    Determine which folders are using the most space.
+It is important to know which folders are using up more or less of your quota on the server.  Once you determine this, it will help in choosing the appropriate resolution.  To do so,1.    Open Microsoft Outlook.
+2.    Go to Tools > Mailbox Cleanup > View Mailbox Size.
+3.    In this window you can view the total size of your mailbox in KB.  Please note that there are 1024KB in 1MB, so the user in the screenshot has used approximately 38MB of his/her quota.
+4.    Below the total size of the mailbox, the individual sizes of the user’s various folders are listed.  In this example, we can tell that the user’s largest, and therefore most problematic, folders are ‘Deleted Items’ and ‘New Employees’.2.    Locate large mail items
+By default, folders are sorted by date, with the newest e-mail at the top.  You can sort any folder by size, name, or even the subject, by clicking on the title for that column.  Choose a folder that is using a large portion of your quota and click on it to view its contents.1.    Click on the Size column to sort by size (see example below) and scroll to the top to see which e-mail messages are using the most space. Delete or move the largest ones.3.    Save large attachments elsewhere
+For the most part, e-mail with attachments takes up the largest amount of space.  Since there is much more space to store attachments in your ‘My Documents’ folder, consider saving attachments there and then delete the e-mail.  Here’s how:1.    Click on e-mail with attachment to highlight it.
+2.    Click on File > Save Attachment to save the file to the local disk.
+3.    Choose a location (i.e., My Documents folder), then click Save.
+4.    Delete the e-mail.
+Remember that the e-mail will only be removed from your Exchange mailbox once you empty your ‘Deleted Items’ folder.4.    Archive email on your computer
+Archiving (PC Outlook 2010)1.    Select the “File” menu in Outlook.
+2.    Select “Options”
+3.    Select “Advanced”
+4.    Select “Autoarchive Settings…”
+5.    Enable by selecting “Run Autoarchive every …”
+6.    Uncheck the “Delete expired items…” option
+7.    Choose how much mail you wish to keep
+8.    Select the  “Move old items…” option
+9.    Click on “Apply these settings to all folders now
+10. Click “OK” until you are back at the File menu.
+11. Click on “Cleanup Tools” followed by “Archive” to perform an archive operation now.
+12. Click on “Archive all folders according to their archive settings” option.
+13. Click “OK”
+14. Select “Home” menu to get back to the Mail view.
+The status bar at the bottom will show the progress of the archive.ii.Archiving on a Mac is a manual process in which the mail (or mail folder) is dragged to the local computer’s mail folders.  Once copied successfully, the original - if still present on the server - can then be deleted.The process is true for both Outlook 2011 and Apple Mail, although the particulars differ a little, namely:
+Apple Mail: local computer area is called “On My Mac”
+Outlook 2011: local computer area is called “On My Computer”5.    Delete emails
+ a.Deleting e-mail – Your ‘Deleted Items’ Folder
+Deleted e-mail messages are moved to the ‘Deleted Items’ folder where they can take up a lot of space.  The most efficient way to clean up the ‘Deleted Items’ folder is to empty it.  This is done by right-clicking on the Deleted Items folder in the mail folder view and choosing Empty “Deleted” Folder. You can also choose to delete your ‘Deleted Items’ automatically when you exit Outlook.  Here’s how:
+1.   In Outlook, click on the Tools menu and select Options.
+2.   Click on the Other tab.
+3.   Place checkmark beside ‘Empty the Deleted Items folder upon exiting.’
+Once you enable this option you will be asked to confirm the delete.b.Deleting e-mail – Your ‘Sent Items’ Folder
+One effective way to clean up your exchange mailbox is to delete unwanted e-mail. Outlook automatically saves a copy of every e-mail message you send in the ‘Sent Items’ folder, which can consequently grow very large.  If you want, you can delete these messages to free up space.If your department has an IT support technician, he/she should be contacted. If not, please contact the IITS Service Desk to schedule a meeting with an IITS desktop consultant.
+In OWA, you can change the theme of your inbox. To do this, click on 'Options' in the top right-hand corner to select one of the many themes. Click on the squares to change between themes and select the theme of your choice. Yes, by default your email address will be published in the University directory. In addition, your email address will be published in the Global Address List found within OWA and the Microsoft Outlook email client.Microsoft Exchange is a collaborative tool developed by Microsoft. The main features include electronic mail, calendaring, contacts, and tasks. In addition to desktop access, Microsoft Exchange offers support for mobile and web-based access.
+Microsoft software is already being used extensively at Concordia as a result of the University establishing a site license agreement for Microsoft products. Microsoft Exchange's collaborative features are beneficial to Concordia faculty and staff.This message appears when you have used your Microsoft Exchange email on an ActiveSync mobile device. The feature simply allows the phone to be wiped of all personal information if it is somehow lost or stolen.
+Microsoft Exchange can be accessed via the web on any operating system and can be configured on email clients for both Windows and Macintosh operating systems.
+To learn more, visit the Microsoft Exchange page.1. Log into the Outlook Web App (OWA) using your netname and password.
+2. Select the calendar tab on the right-hand side of your screen. 
+3. Verify that you can see the appropriate calendar, then choose the "Share" option at the top of your screen and select "Share This Calendar" from the drop-down list.  
+4. An invitation to share your calendar will open, allowing you to choose the recipient, level of information to be shared, and the message that will accompany your invitation.  
+5. Send the invitation as you would an email. The recipient will be prompted to accept the invitation once it has been sent. The security of IT systems is a high priority for Concordia's IT department. Spam is a serious security concern as it can be used to deliver Trojan horses, viruses, worms, spyware, and targeted phishing attacks. Filtering systems have been implemented to block spam, and while these filters are highly efficient, you may still receive spam emails.Important: Always keep your computer up to date with the latest updates and security patches for the operating system, the antivirus software, and any other applications you use. (If your computer is managed by IITS the Windows updates are automatically installed).Outlook has some features to help you control spam and manage your emails:
+Use with caution and check your spam folders often.
+ 
+All the methods mentioned above are very useful but you must use them with caution. Depending on the senders you block, the rules you set up, or the protection level that you set for the Junk Email Filter, some legitimate email messages might be moved to the Junk E-mail folder. You should review the messages in the Junk E-mail folder periodically so that you aren’t missing any messages that you want to see. Check your spam folders often at every level, especially if you're expecting a communication that never shows up.
+
+If important messages that you believe should be in your Inbox often end up in your Junk folder, then you may want to review the settings and remove some of the blocked senders or lower the level of junk email protection you previously set.
+
+Concordia provides IT training to faculty, staff, and students and training for Outlook is available. For more information, consult IITS Training.  Page suggestions:© Concordia UniversityConcordia UniversityEmail - faculty & staffIT Services
+            
+                IT ServicesGeneral settings
+                
+            
+                
+					
+                    Outlook 2010 (Windows)
+                
+            
+                
+					
+                    Outlook 2011 (Mac)
+                
+            
+                
+					
+                    Mobile devices (ActiveSync)
+                
+            
+                
+					
+                    What username and password do I use to access my email account?
+                
+            
+                
+					
+                    Where do I go to check my email online?
+                
+            
+                
+					
+                    What is my email address?
+                
+            
+                
+					
+                    What is the OWA light version?
+                
+            
+                
+					
+                    What is the Global Address List (GAL)?
+                
+            
+                
+					
+                    How do I set a vacation message?
+                
+            
+                
+					
+                    What is the difference between a 'Public or shared computer' and a 'Private computer' on OWA?
+                
+            
+                
+					
+                    How can I get a larger email quota?
+                
+            
+                
+					
+                    What it my email quota and how can I manage my emails within the quota?
+                
+            
+                
+					
+                    Who can help me set up my email account in an email client or mobile device?
+                
+            
+                
+					
+                    How can I change the theme of my OWA?
+                
+            
+                
+					
+                    Will my email address be published in Concordia's directory?
+                
+            
+                
+					
+                    What is Microsoft Exchange and why is it being used at Concordia?
+                
+            
+                
+					
+                    What does it mean when the email account is 'controlling my device'?
+                
+            
+                
+					
+                    Does Microsoft Exchange work on Windows and Mac operating systems?
+                
+            
+                
+					
+                    Where can I find Microsoft Exchange documentation?
+                
+            
+                
+					
+                    How do I share my calendar with a coworker? 
+                
+            
+                
+					
+                    How can I manage emails and control spam in Outlook?Who can use it?How much does it cost?How to get itService availabilityDocumentationFAQSee alsoConcordia University - Call us at 514-848-2424Was this page useful to you?

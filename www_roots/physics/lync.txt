@@ -1,0 +1,153 @@
+http://www.concordia.ca/content/concordia/en/it/services/lync.htmlLync is a unified messaging system which allows instant messaging (IM), video calls, virtual meetings, and presence (availability) information in one easy-to-use tool. Lync can be used both from within and outside the Concordia network to communicate and collaborate with colleagues and clients. Lync connects people everywhere - on their computer, tablet, or mobile devices, as part of their everyday productivity experience.Below is a more detailed look at the core Lync features:Instant messaging (IM)Sharing and collaboration featuresLync meetingsAvailability (presence) informationChat rooms (persistent chat)Not available at this timeVideo callingIntegration with SkypeFaculty and staff
+There is no cost associated with this service.24/7
+To use Lync you need to download and install the software on each device you wish to use.  Depending on the device and operating system you are using, and on whether it is a Concordia device or your own, refer to the section below to download and install the right Lync client software.Please note: this method applies only to users with a Concordia Windows PC with Software Center. Follow the instructions below to determine if you have Software Center. If you do not have Software Center, you may use one of the other methods below.1. Click on the Windows start button on the bettom left-hand corner of your screen and then select 'All Programs'.2. In your list of programs, select Microsoft System Center 2012 R2 > Configuration Manager > Software Center.3. When the Software Center launches, under the Available Software tab, a list of software will be presented with Lync available in the list of options. Click on the checkbox to the left of Lync and then click the install button at the bottom of the window.4. Once the installation is complete, Lync will automatically launch and log onto the Lync server.5. To find out how to use Lync at this point, please refer to the Documentation and Training section of this page.Note: Lync Basic can be installed on work and home Windows PC. - Lync Basic is a slimmer version of the full Lync client and provides the same core functionality.  Please refer to the Lync Basic features FAQ section for more a more detailed comparison.To install the Lync Basic Client please follow the instructions below:1. There are two version versions of Lync available. Which one you will need to install depends on if you are using Microsoft Office 32-bit or Microsoft Office 64-bit. Determine which version of Office you are using by opening any Microsoft Office application and clicking the File menu.2. Select the version of Lync which corresponds with the version of Microsoft Office you have installed.3. Once the file has been downloaded and run, you will be walked through the installation process.  No configuration or modifications are required at this point and upon completion Lync will automatically launch.4. At the sign-in screen, enter your Concordia email address in the form of firstname.lastname@concordia.ca and then click Sign-In to complete the setup:
+To find out how to use Lync at this point, please refer to the Documentation and Training section of this page.If you are a Mac user at work, you can download the Lync client by accessing the MyConcordia portal.
+Note: if you are a Mac user at home, Lync is not available at this time.
+1. Browse to the MyConcordia portal at http://www.myconcordia.ca
+2. In the main menu at the left, click on Software and Applications and then Microsoft Lync:
+3. On the following page on the right, please read through the agreement and check the corresponding boxes to proceed to the download. 
+4. Once the file is downloaded to your computer, double click on it to extract the file and begin the installation.
+5. To find out how to use Lync at this point, please refer to the Documentation and Training section of this page.1. Use the App store on your iPad to search for Skype for Business. The application can also be accessed from the App's page on Apple's iTunes website.
+2. Be sure to download and install the 2013 version of the App, which can be obtained at no cost.3. Upon first launching the App, you will be prompted to configure it.
+4. Click OK to start the configuration process using the following information:5. Tap 'Show advanced options' and then enter the following information:If you have set up Lync on your PC before installing the iPad app, you will see all of your contacts and groups arranged in the same manner as the instance on your computer.
+To find out how to use Lync at this point, refer to the Documentation and Training section of this page.
+  1. Use the App store on your iPhone to search for Skype for Business. It can also be accessed from the App page on Apple's iTunes website.
+2. Be sure to download and install the 2013 version of the App, which can be obtained at no cost.3. Upon first launching the App you will be prompted to configure it.
+4. Click OK to start the configuration process using the following information:5. Tap 'Show advanced options' and then enter the following:6. Enter your cellular phone number and then tap 'Done' to complete the configuration process.If you have set up Lync on your PC before installing the iPhone app, you will see all of your contacts and groups arranged in the same manner as the instance on your computer.
+To find out how to use Lync at this point, refer to the Documentation and Training section of this page.
+ 1. Use the Google Play store on your Android device to search for Lync. The application can also be accessed from the app page on Google's website.
+2. Be sure to download and install the latest version of the App, which can be obtained at no cost.
+3. Upon first launching the App you will be prompted to configure it.
+4. Chick OK to start the configuration process using the following information:5. Tap 'Show Advanced Options' and then enter the following:6. Enter your cellular phone number and then tap Done to complete the configuration process.If you have setup Lync on your PC before installing the iPhone app, you will see all of your contacts and groups arranged in the same manner as the instance on your computer.
+To find out how to use Lync at this point, please refer to the Documentation and Training section of this page. 1. Use the Windows phone store on your device to search for Lync. The application can also be accessed from the app page on Microsoft's website.
+2. Be sure to download and install the latest version of the App, which can be obtained at no cost.
+3. Upon first launching the App you will be prompted to configure it.
+4. Click OK to start the configuration process using the following information:5. Tap 'Show Advanced Options' and then enter the following:6. Enter your cellular phone number and then tap Done to complete the configuration process.If you have set up Lync on your PC before installing the iPhone app, you will see all of your contacts and grous arranged in the same manner as the instance on your computer.
+To find out how to use Lync at this point, please refer to the Documentation and Training section of this page.
+Training videos and material can be accessed on Microsoft's website for the Lync client. The Sign In and Getting Oriented with Lync training video is a good place to start.
+More information and documentation for all versions of the mobile clients can be found on Microsoft's website. Documentation is also available within the Lync app on your device once it has been installed.Please note that the training and documentation on the linked Microsoft pages present some features that are not yet available with Concordia's Lync service. Please refer to the available features FAQ for more information.
+The following table shows the Lync features and their availability with Concordia's service:AvailableNot Available at this TimeInstant messaging (IM)Phone calls (Telephony)Lync meetingsChat rooms (persistent chat)Sharing and collaboration features:· Desktop sharing
+· Application window sharing
+· PowerPoint presentation sharing
+·  Whiteboards
+· Polls
+· Microsoft OneNote sharing
+· Q and AsLync Basic 2013 is a slimmer version of the full Lync 2013 client and provides the same core functionality:Lync Basic featuresLync full client featuresInstant messaging (IM)Instant messaging (IM)Lync meetingsLync meetingsAvailability (presence) informationAvailability (presence) informationChat rooms (persistent chat)Chat rooms (persistent chat)Video calling (if your computer has a camera and microphone)Integration with SkypeIntegration with SkypeTo ensure that Lync will not alert you but still remain open, follow these steps:1. In the main Lync window, click on the gear icon to open the Lync options window
+2. At the left, click on Status
+3. Ensure that 'Show me as Do Not Disturb when I present my desktop' and 'Show me as Do Not Disturb when my desktop is duplicated' are both checked
+4. At the left, click on Alerts.
+5. Under 'When my status is Do Not Disturb', ensure that 'Don't Show Alerts' is checked
+6. Click OK to close the Lync options window
+7. Back in the main Lync window, set your status to Do Not Disturb.  This can be found immediately to the right of your avatar at the top of the window.  (You can also find this by right-clicking on the Lync icon in the bottom right-hand of your screen and then selecting Status > Do Not Disturb.)Lync and Skype users are able to use instant messaging, see each other’s presence information and participate in audio calls. Lync users are able to communicate with Skype users via the Skype user’s Microsoft Account (MSA).Microsoft Accounts were previously known as Windows Live ID accounts. If you have used Microsoft OneDrive, Windows Phone, Microsoft Outlook or an email account such as Hotmail, you already have a Microsoft Account.
+If you or someone with whom you wish to communicate needs a Microsoft Account, visit the Microsoft Account sign-up page: http://go.microsoft.com/fwlink/p/?LinkId=306061.
+Note: A Skype account that is not linked to a MSA account will not be able to communicate with Lync users.Lync users may add Skype contacts by selecting Add a Contact > Add a Contact Not in My Organization > Skype. In the IM Address field, enter the MSA of the Skype user you wish to add. If the user has @live.com, @hotmail.com, or @outlook.com, enter their MSA as is. If it is not one of those three domain names, enter the MSA as follows: user(domain)@msn.com. For example, johnsmith(gmail.com)@msn.com.Skype users are unable to add Concordia Lync users. Contact must be initiated by the Lync user.Lync Meetings are similar to a traditional Outlook meeting, however a Lync Meeting will allow attendees to join the meeting remotely, using Lync and the video and audio capabilities of their computer or mobile device.To organize a Lync Meeting, you must have Lync and Outlook installed on your computer, a valid Concordia email account and a firstname.lastname@concordia.ca email address.To create a Lync Meeting, follow these steps below:
+1. In Outlook, create a new calendar item in your calendar by clicking on ‘New Appointment’.
+2. In the ribbon section of the New Appointment window, click on Lync Meeting.3. Proceed as usual by adding attendees and scheduling a place and time for the meeting.  Once complete, click Send to create the meeting and send an invite to all of the invitees.Invitees will be able to click on the link in the meeting invite to join the meeting using Lync.Lync Meeting invitees are able to join a Lync Meeting with a web browser from any computer (Windows or Mac), even if the computer does not have Lync installed. Also, an attendee will still be able to join the meeting as a guest even if he or she does not have a Concordia Lync account, for the duration of that meeting.To remotely join a Lync Meeting as a non-Lync user, simply click on the ‘Join Lync Meeting’ in the meeting invite that you receive from the meeting organizer to sign into the Lync Web App and join the Lync Meeting.The meeting attendee will then be directed to a website to sign-in, install the Lync Web App plug-in and join the meeting.Users will be able to access Lync via Blackberry Enterprise IM, which is a service that IITS is currently developing.  An update will be provided as soon as this service becomes available.Lync is not currently available for home-use on a Mac computer.  In order to connect to a Skype user, the Skype user must be a member of your Lync contacts. A Skype user can then search for your firstname.lastname@concordia.ca email address and request to add you as a Skype contact.
+Lync contacts cannot be managed using the Lync mobile app. Contacts can only be managed on the desktop version of the Lync client. You must have a firstname.lastname@concordia.ca email address and an exchange mailbox to use Lync. Role accounts such as admin@concordia.ca will not work with Lync. To request a full firstmane.lastname@concordia.ca email address, access the MyConcordia portal. From the time that you request this email address, you must wait 24 hours to use Lync.
+Your Outlook mailbox's main functionality will not change when you start using Lync.
+However, you may notice a couple extra features. For example, your contacts in Outlook that are also using Lync will have a presence indicator next to their name (available, busy, in a meeting, etc.). You will also have the option to move an email conversation to a Lync instant message, providing that all participants are also Lync users.MS Lync is designated for internal Lync to Lync communication. The Videoconferencing service provides the ability to communicate with up to 24 external and internal participants with full interoperability. If you wish to communicate with other Concordia Lync users, MS Lync is the most suitable platform. If you wish to communicate with external participants who have room-based videoconferencing systems, desktop videoconferencing, or a computer with microphone and camera, Concordia’s Videoconferencing service is the platform to use.  Page suggestions:© Concordia UniversityConcordia UniversityMicrosoft LyncIT Services
+            
+                IT ServicesObtain Lync through Software Center (Windows only):
+                
+					
+                    Windows users without Software Center - download and install Lync Basic
+                
+            
+                
+					
+                    Mac users at work (faculty and administration)
+                
+            
+                
+					
+                    iPad users
+                
+            
+                
+					
+                    iPhone users
+                
+            
+                
+					
+                    Android users
+                
+            
+                
+					
+                    Windows phone users
+                
+            
+                
+					
+                    Full and Basic Lync 2013 client training
+                
+            
+                
+					
+                    Mobile Lync client training
+                
+            
+                
+					
+                    Which features are available with Concordia's Lync service?
+                
+            
+                
+					
+                    Which features are available with the Lync Basic client?
+                
+            
+                
+					
+                     I would like to keep Lync open but ensure that I am not interrupted by notifications.  Is there a way to do this?
+                
+            
+                
+					
+                    How can I communicate with Skype users?
+                
+            
+                
+					
+                    What are Lync meetings?
+                
+            
+                
+					
+                    Is it possible for people without Lync to join a Lync meeting?
+                
+            
+                
+					
+                    I am using a BlackBerry. Do I have access to Lync?
+                
+            
+                
+					
+                    My personal home computer is a Mac. Do I have access to Lync?
+                
+            
+                
+					
+                    How do I connect to my contacts using Skype?
+                
+            
+                
+					
+                    Can I manage my Lync contacts using the Lync mobile app?
+                
+            
+                
+					
+                    What if I don't have an @concordia.ca email address?
+                
+            
+                
+					
+                    Will my Outlook email change when I start using Lync?
+                
+            
+                
+					
+                    What is the difference between the Lync and Videoconferencing services?Who can use it?How much does it cost?Service availabilityHow to get itDownload and install LyncDocumentationFAQSee alsoConcordia University - Call us at 514-848-2424Was this page useful to you?

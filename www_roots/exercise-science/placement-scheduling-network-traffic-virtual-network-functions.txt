@@ -1,0 +1,35 @@
+http://www.concordia.ca/content/shared/en/news/encs/info-systems-eng/defences/2016/10/11/placement-scheduling-network-traffic-virtual-network-functions.htmlTuesday, October 11, 2016 at 10:00 a.m.
+Room EV003.309You are invited to attend the following M.A.Sc. (Information Systems Security) thesis examination.Dr. C. Wang, Chair
+Dr. C. Assi, Supervisor
+Dr. A. Youssef, CIISE Examiner
+Dr. W. Hamouda, External Examiner (ECE)
+Hardware MiddleBoxes represent a vital part in today's networks.  Despite their important roles, they are accompanied by several problems, namely, their lack of flexibility, high capital and operational expenditures, and power consumption.
+
+Network Function Virtualization is one promising solution to address these problems.  This trend replaces the MiddleBoxes by software-based entities.  Indeed, these Virtual Network Functions promise to alleviate the numerous disadvantages brought by their hardware counterparts.  One of these most serious issues is the steadily increasing power consumption.  Studies suggest that the Virtual Network Functions will reduce the electricity costs needed to turn on and operate the hardware functions.  In order to further optimize the power consumption of the network, an efficient framework, capable of placing and scheduling traffic on these VNFs, is needed.  Such a framework allows to optimally map and schedule the flows to be serviced, and place the unused servers in energy saving modes.
+
+In this thesis, we assume VNFs are already placed on physical machines.  We consider traffic flows with deadlines.  We aim at assigning and scheduling flows to VNFs in the most energy efficient manner.  We formulate this problem mathematically and, owing to its complexity, present an efficient algorithmic method for solving the problem.  We compare our heuristic with two other approaches, one of which aims to minimize the makespan, and the other to minimize the number of servers used.  We show that our heuristic combines the advantages of both approaches and generates better results by consuming up to 31.3% and 46.1% less energy than other two approaches, respectively.  Further, we extend the existing work in the literature, and solve the problem of placement of traffic flows on VNFs while taking into account the transmission delay between pairs of VNFs, and the routing of the virtual links on the underlying physical network.
+
+
+
+ For more information, contact Silvie Pasquarelli or Mireille Wahba.Search for an expert to comment on any topicEnter a phrase or keyword© Concordia UniversityConcordia UniversityMaster Thesis Defense - October 11, 2016: Placement and Scheduling of Network Traffic on Virtual Network FunctionsConcordia Institute for Information Systems Engineering (CIISE)
+            
+                Concordia Institute for Information Systems Engineering (CIISE)
+            Graduate Program CoordinatorsRelated LinksNicolas El KhouryAbstract
+Find an expertConcordia University - Call us at 514-848-2424Examining Committeehttp://www.concordia.ca/content/shared/en/news/encs/info-systems-eng/defences/2016/10/11/placement-scheduling-network-traffic-virtual-network-functions.htmlTuesday, October 11, 2016 at 10:00 a.m.
+Room EV003.309You are invited to attend the following M.A.Sc. (Information Systems Security) thesis examination.Dr. C. Wang, Chair
+Dr. C. Assi, Supervisor
+Dr. A. Youssef, CIISE Examiner
+Dr. W. Hamouda, External Examiner (ECE)
+Hardware MiddleBoxes represent a vital part in today's networks.  Despite their important roles, they are accompanied by several problems, namely, their lack of flexibility, high capital and operational expenditures, and power consumption.
+
+Network Function Virtualization is one promising solution to address these problems.  This trend replaces the MiddleBoxes by software-based entities.  Indeed, these Virtual Network Functions promise to alleviate the numerous disadvantages brought by their hardware counterparts.  One of these most serious issues is the steadily increasing power consumption.  Studies suggest that the Virtual Network Functions will reduce the electricity costs needed to turn on and operate the hardware functions.  In order to further optimize the power consumption of the network, an efficient framework, capable of placing and scheduling traffic on these VNFs, is needed.  Such a framework allows to optimally map and schedule the flows to be serviced, and place the unused servers in energy saving modes.
+
+In this thesis, we assume VNFs are already placed on physical machines.  We consider traffic flows with deadlines.  We aim at assigning and scheduling flows to VNFs in the most energy efficient manner.  We formulate this problem mathematically and, owing to its complexity, present an efficient algorithmic method for solving the problem.  We compare our heuristic with two other approaches, one of which aims to minimize the makespan, and the other to minimize the number of servers used.  We show that our heuristic combines the advantages of both approaches and generates better results by consuming up to 31.3% and 46.1% less energy than other two approaches, respectively.  Further, we extend the existing work in the literature, and solve the problem of placement of traffic flows on VNFs while taking into account the transmission delay between pairs of VNFs, and the routing of the virtual links on the underlying physical network.
+
+
+
+ For more information, contact Silvie Pasquarelli or Mireille Wahba.Search for an expert to comment on any topicEnter a phrase or keyword© Concordia UniversityConcordia UniversityMaster Thesis Defense - October 11, 2016: Placement and Scheduling of Network Traffic on Virtual Network FunctionsConcordia Institute for Information Systems Engineering (CIISE)
+            
+                Concordia Institute for Information Systems Engineering (CIISE)
+            Graduate Program CoordinatorsRelated LinksNicolas El KhouryAbstract
+Find an expertConcordia University - Call us at 514-848-2424Examining Committee

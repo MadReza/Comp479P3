@@ -1,0 +1,130 @@
+http://www.concordia.ca/content/concordia/en/it/services/mailing-lists-majordomo.htmlMajordomo is a publicly available software package, called a list server, for the maintenance of electronic mailing lists. A list server (or more properly, a mail reflector) is a program designed to accept mail messages and to redistribute them to a predefined list of mail recipients. In such a way, a single message may be distributed to many individuals. List servers often maintain a number of different lists, each with a separate name, purpose, distribution (or membership) list, and characteristics.Related policy: See Majordomo policy in the documentation section of this page.
+Faculty, staff, and graduate students.There is no cost associated with this service.24/7All maintenance will be performed outside of 8:00 A.M. and 11:00 P.M.To create a majordomo mailing list, submit a ticket to the Service Desk using the web form.Each majordomo mailing list can be customized with the following configurations:Open - A subscription request sent to an open list will be approved automatically.Closed - Requests for subscriptions to closed lists will be sent to the list owner for approval.Auto - An auto list requires the aboslute minimum amount of maintenance (but also a minimum of security). For example, anyone can subscribe or unsubscribe anyone else.Public - Subscribers have access to information about other subscribers through the 'who' and 'which' commands.Private - Only subscribers can use the archive commands index and 'get'.Unmoderated - All messages sent to the list are immediately forwarded to other list members with no list owner intervention.Moderated - All messages sent to the list will be forwarded to the list owner for review. Only after the list owner has approved a message will it be submitted to the list for distribution.
+Commands must be sent in the body of the email message and sent to majordomo@concordia.ca.
+Note 1: Commands in the "Subject:" line are NOT processed.Note 2: If your mailer program appends a signature to your messages, place an END command at the beginning of the line following your last Majordomo command.Note 3: Make certain that the editor you are using does not "wrap" or reformat long lines. Note 4: While emails sent to the mailing lists may containt rich text, emails with these commands must be sent in plain text. They should contain no formatted or html text and no html links.After sending your subscription request, an email will be sent to you from the majordomo system confirming your subscription.The following is a list of some of the most often used commands to Majordomo. Please note that the variables between <> should be replaced with the relevant name or word when executing the command.Subscribe <list> - Subscribe yourself to the named <list>.
+Unsubscribe <list> - Unsubscribe yourself from the named <list>.
+Which <string> -  Reports the lists to which you (if <string> is omitted) or others (if <string> is part of an email address) are subscribed.
+who <list> - Find out who is subscribed to the named <list>.
+info <list> - Retrieve general introductory information for the named <list>.
+index <list> - Gives a listing of files in the archive for the named <list>.
+get <list> <filename> - Requests that the file named <filename> is mailed to you from the list archive.
+lists - Show the lists distributed by this Majordomo server.
+help - Retrieve a summary of Majordomo user commands.
+end - Tell Majordomo to stop processing commands.This command is useful if your mailer adds a signature at the end of a mail message.
+  The list owner has an extended set of available commands. These commands allow the list owner to change the list password, approve subscriptions if the list is closed and messages if the list is moderated, and alter a number of other list characteristics. In the description below, items contained in []'s are optional. When providing an optional item, do not include the []'s around it.The following commands are available:config <list> <password>
+This command requests Majordomo to mail to you the current configuration file for your list. The configuration file controls the list's behaviour (for example, whether the list is open or closed, unmoderated or moderated, the description of the list displayed by the lists command, etc.). The following section explains how to make the most common changes to the configuration file.
+newconfig <list> <password>
+Once you have finished modifying the configuration file, you must reconfigure the list by sending the new configuration file to majordomo@lists.concordia.ca. The message must begin with the newconfig command and have the new configuration file appended immediately after. You will receive a confirmation message if there are no errors; if there are errors in the new configuration file, you will receive a report describing which line(s) errors were found on. If there are errors in the configuration file, the current configuration will remain in effect.
+newinfo <list> <password>
+You may use the newinfo command to replace the information file that people receive when they send an "info <list>" or "subscribe <list>" command to Majordomo. Newinfo causes Majordomo to read everything after the command, up to the end-of-message or the word "EOF" (note the capital letters) on a line by itself, as the new info file for the list.
+approve <password> [subscription request]
+If you set subscriptions to your list to be "closed", subscription requests will be forwarded to you. Should you receive one, you need only delete all lines in the message except the subscribe or unsubscribe request. Insert your actual password into the subscription request and send it back to majordomo@lists.concordia.ca. This can be done in most mailers via their "forward" or quot;resend" function. You can also manually subscribe (or unsubscribe) individuals to your list by sending the above command with the appropriate [un]subscription command.
+Note 1: Commands in the "Subject:" line are NOT processed.Note 2: If your mailer program appends a signature to your messages, place an END command at the beginning of the line following your last Majordomo command.Note 3: Make certain that the editor you are using does not "wrap" or reformat long lines.Note 4: While emails sent to the mailing lists may containt rich text, emails with these commands must be sent in plain text. They should contain no formatted or html text and no html links.Caution: Users of Concordia University Majordomo mailing lists should send all commands to <majordomo@concordia.ca>. NEVER send commands to the address of the mailing list (e.g., <list-name@concordia.ca>)! Only messages intended for members of the list should be sent to the list's addressThe Majordomo configuration file contains information that controls how your list behaves. It contains many parameters that control, amongst other things, the administrative and approval passwords, whether your list has open or closed subscriptions, and whether your list is moderated or unmoderated.The first step in modifying your configuration file is to get a copy of your list's configuration file. To do this, you need to send the command:config <list-name> <password>in the body of a message to <majordomo@lists.concordia.ca>.Once you have a copy of the configuration file, you may make whatever alterations you wish. Once you have completed the modifications, place the line:
+newconfig <list-name> <password>before the first line of the text of the configuration file. Make certain there is no extraneous text at the end of the configuration file.When you have completed the alterations, send the altered configuration file as the body of a message to <majordomo@lists.concordia.ca>.The Majordomo configuration file is made up of a number of keywords each controlling a particular characteristic of your list, and a value (or series of values) that is associated with that keyword. The keywords most likely to be altered by a list owner are:admin_password = password
+The administrative password is used to allow a list owner to perform administrative tasks such as modifying the configuration file. The default administrative password is set when the list is created. To change the administrative password, just replace the current password associated with this keyword with the new password you have chosen.
+administrivia = yes/no
+Request Majordomo to look for administrative requests in submissions to the list (e.g. subscribe/unsubscribe, info, help, . . .) and forward them to the list maintainer instead of the list. In general, this is a useful feature to turn on; a common error made by list members is to send administrative requests to the list itself. Once in a while, however, Majordomo will become confused by words and symbols that appear in normal messages and will also bounce then from time-to-time. If you encounter problems in which otherwise acceptable messages are bounced to you, we suggest that this feature be turned off with a no.
+approve_password = password
+The approval password is used to allow a list owner to post messages to a moderated list. The default approval password is set to the same value as the administrative password when the list is created. To change the approval password, just replace the current password associated with this keyword with the new password you have chosen. You may wish to have different administrative and approval passwords if someone else is helping you screen messages on a moderated list.
+description = "text"
+Majordomo maintains a "list of lists" offered at this site and distributes it in response to a list command. The text associated with this keyword is a short description of the list, such as, "Anthropology 927 discussion list."
+moderate = yes/no
+If yes is entered, all postings to the list must be approved by the list moderator. Enter no if you want the list to be unmoderated.
+noadvertise
+If you do not wish your list to be shown when a list command is sent to Majordomo by someone who is not a list member, place the string "/.*/" on a line between the noadvertise << END line and the END line.
+reply_to = list_name | $SENDER
+Replies to messages will be directed to the list for distribution to all list members (the default). If you wish replies to be sent only to the author of the message, replace the list name with the string $SENDER.
+private_get = yes/no
+ private_index = yes/no 
+ private_info = yes/no 
+ private_which = yes/no 
+ private_who = yes/no
+If you wish to restrict to list members access to some or all of: files associated with the list, the index of those files, the message describing the list, or the e-mail addresses of list subscribers, place yes after the appropriate keywords; otherwise, anyone sending one of these commands to Majordomo will receive the requested information.
+subscribe policy = open/closed
+Anyone may subscribe themselves to a list with an open subscription. The list administrator must subscribe each individual to a list with a closed subscription
+Caution: The list password must accompany all administrative requests. Anyone who knows the password may also make administrative changes to the list. You may give the pass-word to alternate list administrators to take some of the burden off of you, but ... remember! Anyone who finds out the password for your list may also make changes to the list. Guard your password!Sometimes a submission to a Majordomo mailing list will bounce to the moderator for some reason. The most common reason is that the "administrivia checks" were triggered, but other reasons exist, such as an attempt to post to a restricted list by a non-member, or of course an attempt to post to a moderated list.In such cases, the listowner will receive a message whose subject line looks something like one of these:In these cases, it is up to the listowner (or moderator) to decide how to handle the message. If you as the listowner want the message to be posted, then you must resend it to the list with an "Approved:" line containing your list password.Majordomo supports two methods for doing this:From time-to-time, your list will send a message to a list member that cannot be delivered. Possible causes of this are: the recipient's account has been disabled or deleted, the account has insufficient space to store the incomming message, or the recipient's machine is temporarily out of service.Notices of undeliverable messages are sent to the list owner. The body of the message will contain the email address that failed to accept the distributed message:#915 28-FEB-1995 15:44:56.14 MAIL
+From: IN%"MAILER-DAEMON@clyde.concordia.ca" "Mail Delivery Subsystem"
+To: IN%"donut-makers-owner@clyde.concordia.ca"
+CC:
+Subj: Returned mail: User unknown
+
+The original message was received at Tue, 28 Feb 1995 15:43:36 -0500
+from majordom@localhost
+
+----- The following addresses had delivery problems -----
+rlz999@alcor.concordia.ca (unrecoverable error)
+(expanded from: :include:/local/etc/majordomo/lists/donut-makers)
+
+----- Transcript of session follows -----
+Message delivered to mailing list donut-makers-outgoing
+... while talking to alcor.concordia.ca.:
+>>> RCPT To:<RLZ999@alcor.concordia.ca>
+550 <RLZ999@alcor.concordia.ca>... User unknown
+550 rlz999@alcor.concordia.ca... User unknown
+
+Return-Path: owner-donut-makers
+Received: (from majordom@localhost) by clyde.concordia.ca (8.6.10/8.6.10) id PAA
+00190 for donut-makers-outgoing; Tue, 28 Feb 1995 15:43:36 -0500
+Date: Tue, 28 Feb 1995 15:38:14 -0500 (EST)
+To: donut-makers@concordia.ca
+From: elliek@hearthbake.com (Ellie Katella)
+Subject: jelly donuts
+Message-id: 01HMHZK8PQU2004L72@VAX2.CONCORDIA.CA>
+MIME-version: 1.0
+Content-type: TEXT/PLAIN; CHARSET=US-ASCII
+Content-transfer-encoding: 7BIT
+
+What's your favorite recipe for jelly donuts? Thanks. Accounts that are unable to accept mail messages must be removed from the distribution list for your list. Unfortunately, bounced messages come in so many different formats that it's hard to completely automate subscriptions to the "bounces" list. (In fact, in some cases, the addressee of the bounced mail won't even be shown in the message!) If the list owner's system can run a Perl script, the bounces script makes the job easy. The script works differently than approve. The script doesn't read a message from a file or standard input. Instead, it reads the command line arguments. The command on Alcor is:% bounce listname user@xyz.comThat command would unsubscribe the address user@xyz.com from the "listname" list and add them to the "bounces" list.Like approving, bounce requires that a file named ".majordomo" (the name starts with a dot) exist in the owner's home directory. The .majordomo file contains an entry for each of the owner's lists: the list name, list approval password and e-mail address of its Majordomo server. For example, this is the ".majordomo" file for the owner of the donut-makers and mud-wrestlers mailing lists:donut-makers !BooM! Majordomo@lists.concordia.ca 
+mud-wrestlers GoJoan Majordomo@lists.concordia.caAs well, this file must contain an entry for the bounces list. The password for the bounces list is available to list administrators upon request.An owner who can't run the bounce script can send mail to Majordomo with two commands like these:approve passwdA unsubscribe listname user@xyz.com 
+approve passwdB subscribe bounces user@xyz.com (931005 listname)The first command unsubscribes the user from the current list. The second one subscribes the user to the "bounces" list, with a comment that shows the date and the name of the list they used to belong to. PasswdA and passwdB are the administrative passwords for "listname" and "bounces" lists, respectively.
+1994/12/05Majordomo is a publicly available software package for the maintenance of electronic mailing lists. IITS runs an implementation of Majordomo, and offers its services to the user community, within the constraints described below, and in the companion document Computing Services Majordomo: Service Definition and Procedures, which is available from Computing Services on request.Computing Services' policy on the Majordomo service is as follows:A) Who may own a list:Any graduate student, faculty or staff member may own a list (or many lists). Under-graduate students currently do not have access to lists (though exceptions may be made by Customer Relations for clubs, etc). This policy will be revised after a few months of production service, at which point the impact on system resources will be clearer.B) Purpose of lists:While this service is provided as part of the University's mission, no effort will be made to accept or reject requests for lists or to monitor existing lists based on the proposed content. Computing Services will ensure, however, that no lists are created or operated which are expressly for the purpose of breaking the law or contravening University policy, or which, based on the judgement of Customer Relations, are likely to contravene such laws or policies.C) Appropriate use:Unmoderated mailing lists are somewhat like netnews, in that they are used by all kinds of people over which Concordia has no authority and who may or may not act in accordance with our policies.On the other hand, mailing lists are not like netnews in that the list is associated with a specific owner. When Concordia receives and transmits illegal netnews articles originating at other sites, the legal issues surrounding its responsibility are murky at best. If illegal material is transmitted via one of Concordia's mailing lists, its responsibility and the responsibility of the list owner are again unclear, but probably greater.In order to ensure that University resources are used in as reasonable a manner as feasible under these circumstances, traffic on Concordia lists is required to conform to the Concordia Code of Conduct and any other applicable general University policies, IITS' account ownership policies, generally accepted standards of netiquette, and the laws of the land.D) Responsibilities of the listowner:Content: The listowner is responsible for preventing (or preventing further occurrences of) traffic which is in violation of the appropriate use guidelines (see section C, above) inasmuch as is technically feasible and reasonable using the means at the listowner's disposal.As well, the listowner will ensure that the list is being operated according to its stated purpose, or request permission from Customer Relations to file a new statement of purpose.Configuration: The listowner must maintain the configuration of the list. In particular, a relevant text for the info command and a list description for the lists command must be developed and made available through Majordomo.A (former) listowner may grieve against the action of IITS in such cases by appealing to the Assistant Director, Customer Relations.E) Changes to this policyIITS reserves the right to change this policy at any time by giving e-mailed notice to the listowners. 
+Instructional and Information Technology Services 
+Concordia University
+Phone: (514) 848-2424 ext. 7613 Email: Majordomo SupportUndergraduate students currently do not have access to lists (though exceptions may be made for clubs, etc).Lists may be transferred to a new owner, provided that the new owner meets the requirements for list ownership, and provided both parties agree. The current list owner must request the transfer of ownership by e-mail to Majordomo Support (see below for contact details). The e-mail message must include the name and e-mail address of the current list owner, as well as the name and e-mail address of the new list owner. The Majordomo Support Person will notify the current list owner that list ownership has been transferred.  Page suggestions:© Concordia UniversityConcordia UniversityMailing lists (Majordomo)IT Services
+            
+                IT ServicesCreation of majordomo lists
+                
+            
+                
+					
+                    Common user commands
+                
+            
+                
+					
+                    Administrative information for list owners
+                
+            
+                
+					
+                    General commands
+                
+            
+                
+					
+                    Modifying the Configuration File
+                
+            
+                
+					
+                    Approving or moderating for your list
+                
+            
+                
+					
+                    Undeliverable messages
+                
+            
+                
+					
+                    Majordomo policy
+                
+            
+                
+					
+                    Who is eligible for a majordomo mailing list? 
+                
+            
+                
+					
+                    How do I transfer ownership of my mailing list?Who can use it?How much does it cost?How to get itService availabilityMaintenance windowDocumentation FAQSee alsoConcordia University - Call us at 514-848-2424Was this page useful to you?

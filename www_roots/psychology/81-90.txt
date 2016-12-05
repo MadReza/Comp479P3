@@ -1,0 +1,420 @@
+http://www.concordia.ca/content/concordia/en/academics/undergraduate/calendar/current/sec81/81-90.htmlFaculty
+
+Chair
+PK LANGSHAW, MFA Université du Québec à Montréal; Professor
+
+Professors
+JASON EDWARD LEWIS, MPhil Royal College of Art; Concordia Research Chair
+RHONA RICHMAN KENNEALLY, PhD McGill University
+
+Associate Professors
+JOANNA BERZOWSKA, MSc Massachusetts Institute of Technology
+RILLA KHALED, PhD University of Victoria, Wellington
+CHRISTOPHER MOORE, MFA Nova Scotia College of Art and Design
+MARTIN RACINE, PhD Université de Montréal
+CHRISTOPHER SALTER, PhD Stanford University; Concordia Research Chair
+
+Assistant Professors
+CARMELA CUCUZZELLA, PhD Université de Montréal; Concordia Research Chair
+NATHALIE DUMONT, MA University of Reading
+Jonathan Lessard, PhD Université de Montréal
+
+For the complete list of faculty members, please consult the Department website.
+Location
+
+Sir George Williams Campus
+Engineering, Computer Science and Visual Arts Complex, Room: EV 6.761
+514-848-2424, ext. 4626
+Department Objectives
+
+The Department offers programs that examine the broad vision or culture of design within contemporary society.
+The Design Major is located primarily within the disciplines of image, object-making, and screen-based media in design practice with an emphasis on the study of material culture. Digital technologies are integrated into the creative process to serve as strategies and tools for enhanced communication, application, representation, and dissemination.
+The Computation Arts programs are concentrated within the digital and virtual environments where computer technology is embedded in all stages of the creative process and production. The Internet as a system for communication in information and networked societies serves as the intersection that strongly links the disciplines of Design and Computation Arts. Students are encouraged to take courses across Design and Computation Arts.
+81.90.1     DESIGN
+
+Program Objective
+
+The Major in Design program explores the principal areas of visual communication and the built environment. The program encourages critical thinking and takes an interdisciplinary approach to design theory and practice. Its overarching principle is socio-cultural, environmental, and economic sustainability. Students begin their studies by developing knowledge and technical skill sets across these areas and then specialize according to their interests and abilities. The curriculum engages the student in creative work with the understanding of the impact and consequence of their designs in everyday life. In a collaborative and shared environment, students participate in diverse local outreach and community initiatives.
+Program
+
+Students are responsible for fulfilling their particular degree requirements; hence, the following sequence must be read in conjunction with §81.20.
+The superscript indicates credit value.
+
+72     BFA Major in Design
+  3     DART 2613
+  3     DART 2623 or 2633
+  6     DART 2213, 2803
+  6     DART 2913, 2923
+  6     DART 3913, 3923
+  3     DART 3803 or 3813
+  3     Chosen from DART 3313, 3323, 3353, 3393, 3983
+  6     DART 4913, 4923
+12     Chosen from DART 4413, 4423, 4433, 4443, 4463, 4473, 4483, 4493, 4503, 4533, 4613, 4623,
+         4633, 4713, 4723, 4983
+  6     Chosen from Art History or Art Theory electives
+18     Computation Arts or other Fine Arts electives
+Design Professional Experience Option
+
+The Design Professional Experience option is available to selected students who are enrolled in the BFA program and are majoring in Design. The academic content of the Professional Experience option is identical to the regular program with some specific recommendations for courses designed to improve and enhance the student’s quality of work performance. Please see §24 for specific details concerning the program.
+Admission to the Major in Design
+
+In addition to the normal admission procedure of Concordia University, there is a distinct admission procedure for applicants to the Major in Design Art. All applicants must submit a portfolio of their own work, as well as a letter of intent, as part of the admission process.
+For more information concerning these additional requirements and submission deadline dates, please visit the following website: concordia.ca/finearts/future-students/applying-undergraduate.
+81.90.2      COMPUTATION ARTS
+
+Program Objective
+
+The Computation Arts programs facilitate a hybrid learning environment for the integration of fine arts and computer science. The core curriculum incorporates conceptual and technical aspects of dynamic imagery, sound, and virtual dimension. Teaching emphasizes non-traditional applications of digital technologies while also developing awareness of the cultural and political implications of new technologies in networked and information societies. Areas of interest in the program include interaction design, physical computing, immersive environments, and experimental sound.
+Programs
+
+Students are responsible for fulfilling their particular degree requirements; hence, the following sequence must be read in conjunction with §81.20.
+The superscript indicates credit value.
+
+   60     BFA Specialization in Computation Arts
+     9     CART 2113, 2123, 2533
+     6     CART 2143, 2553
+     3     CART 3513
+9-12     Chosen from CART 3123, 3453, 3463, 3473, 3533, 3553, 3563, 3573, 3583, 3603, 3613, 3623, 3703,
+            3983
+     6     CART 4113, 4123
+9-12     Chosen from CART 4143, 4153, 4163, 4343, 4443, 4533, 4553, 4563, 4573, 4583, 4593, 4603, 4983
+     9     Chosen from CART, DART, or other Fine Arts electives
+     6     Chosen from ARTH or other Fine Arts theory electives
+
+    45    BFA Major in Computation Arts
+            (to be combined with Computer Applications Option)
+     6     FFAR 2506
+    21    CART 2113, 2123, 2143, 2553, 3513, 4113, 4123
+     6     Chosen from CART 3123, 3453, 3463, 3473, 3533, 3553, 3563, 3573, 3583, 3603, 3613, 3623, 3703,
+            3983
+     6     Chosen from CART 4143, 4153, 4163, 4343, 4443, 4533, 4553, 4563, 4573, 4583, 4593, 4603, 4983
+     6     Chosen from DART or other Fine Arts electives in consultation with an advisor
+
+    24    Minor in Computation Arts
+     9     CART 2113, 2123, 2533
+     3     CART 3513
+     6     Chosen from CART 3123, 3453, 3463, 3473, 3533, 3553, 3563, 3573, 3583, 3603, 3613, 3623, 3703,
+            3983
+    6      CART 4113, 4123
+
+    24    Minor in Game Design
+     3     CART 2153
+     3     Chosen from CART 2533; COMP 2183, 2483.5
+     3     Chosen from CART 3153, 3533; COMP 3764
+     3     Chosen from CART 2553; DART 2613; ENGL 2553; FFAR 2573
+     3     Chosen from CART 4153, 4163
+     3     CART* or COMP** elective
+     3     CART* elective
+     3     Fine Arts elective
+*Excluding CART 253 and 315
+**Excluding COMP 218, 248 and 376
+Computation Arts Professional Experience Option
+
+The Computation Arts Professional Experience option is available to selected students who are enrolled in the BFA program, Major or Specialization in Computation Arts. The academic content of the Professional Experience option is identical to that of the regular program with some specific recommendations for courses designed to improve and enhance the student’s quality of work performance. Please see §24 for specific details.
+Admission to the Specialization, Major*, Minor** in Computation Arts, and Minor* in Game Design
+
+In addition to the normal admission procedure of Concordia University, there is a distinct admission procedure for applicants to the Specialization or Major in Computation Arts. All applicants must submit a portfolio of their own work, as well as a letter of intent, as part of the admission process.
+*The Major in Computation Arts (45 credits) must be taken in combination with the Option in Computer Applications (45 credits) offered by the Department of Computer Science and Software Engineering. Candidates applying for the Major in Computation Arts are required to complete the 10.12 profile: Mathematics 103 or 201-NYA and 203 or 201-NYB, and 105 or 201-NYC. Candidates lacking Cegep profile 10.12, but with a suitable background, may also be considered for this program. Applicants to the Specialization or Minor in Computation Arts require no background in mathematics.
+**The Minor in Computation Arts and the Minor in Game Design are available to a limited number of high-ranking students. Applicants must submit a full portfolio by the March 1 deadline and may contact the Department of Design and Computation Arts for specific application procedures.
+For more information concerning these additional requirements and submission deadline dates, please visit concordia.ca/finearts/design.
+CoursesComputation Arts: CART 211     Creative Computing and Network Culture (3 credits)
+Prerequisite: Enrolment in a Computation Arts program or written permission of the Department. This course gives a broad introduction to the fundamentals of creative computing and network culture. Through readings and practical examples, students explore the histories of the Internet, computing, and interactivity as well as gain knowledge of fundamental technical tools used for creating network-based media.
+NOTE: Students who have received credit for DFAR 251 or CART 251 may not take this course for credit.
+
+CART 212     Digital Media Studio I (3 credits)
+Prerequisite: CART 211; enrolment in a Computation Arts program; or written permission of the Department. This studio-based course focuses on the production of dynamic and interactive audio/visual media. Students develop proficiency in generating original audio and visual material as well as exposure to current digital media software. Concurrent with gaining knowledge of existing tools for production, students create a high-quality studio work for portfolio inclusion.
+NOTE: Students who have received credit for DFAR 252 or CART 252 may not take this course for credit.
+
+
+CART 214     Visual Form and Communication (3 credits)
+Prerequisite: Enrolment in a Computation Arts program or written permission of the Department. Key themes of visual communication are explored in the context of computation arts. This studio course considers design elements such as line, pattern, shape, texture, interpretation of space, surface, perspective, dimension, repetition, randomness, colour and colour spaces, typography, drawing from observation, layout and composition and conceptualization. This class is predominantly non-digital and discusses the relationships between analog and digital approaches.
+NOTE: Students who have received credit for CART 254 may not take this course for credit.
+
+
+CART 215     Introduction to Game Design (3 credits)
+This course is an introduction to the design of playful activities and games in particular. Students are introduced to terminology, conceptual frameworks, and critical approaches in order to develop a precise understanding of games at a formal and pragmatic level. Students acquire and develop tools to conceive, formalize, and communicate game design ideas.
+NOTE: Students who have received credit for this topic under a CART 398 number may not take this course for credit.
+ 
+CART 253     Creative Computation I (3 credits)
+Prerequisite: Enrolment in the Specialization or Minor in Computation Arts; or written permission of the Department. The fundamentals of computer programming are introduced through exercises and studio projects. Students are exposed to scripting and programming in order to understand how they may be used to support creative digital work.
+NOTE: Students who have received credit for DFAR 253 or 353 may not take this course for credit.
+
+CART 255     New Media Theory (3 credits)
+Prerequisite: Enrolment in a Computation Arts program or written permission of the Department. This course is a critical introduction to new media theory focusing on issues of interaction, inscription, representation, code, reproduction, spectacle, control, body and resistance. Students develop tools to undertake a critical analysis of media and technology and their social, political, economic, and cultural ramifications.
+
+
+CART 312     Digital Media Studio II (3 credits)
+Prerequisite: CART 212; 24 credits completed in a Computation Arts program; or written permission of the Department. This studio-based course furthers work done in CART 212, focusing on the production and authoring of dynamic audio/visual media using advanced techniques such as compositing and motion graphics. Students develop proficiency in generating original audio and visual material as well as exposure to current digital audio-visual-authoring software including postproduction environments such as After Effects and Motion. Concurrent with gaining knowledge of existing tools for production, students create a term-long project which will be a high quality, studio work appropriate for portfolio inclusion.
+NOTE: Students who have received credit for CART 352 may not take this course for credit.
+
+
+CART 315     Digital Game Prototyping (3 credits)
+Prerequisite: CART 253 or COMP 218 or COMP 248; or written permission of the Department. Students study specialized game technology and create a series of digital game prototypes. They are introduced to higher level programming concepts pertaining to interactive applications. Efficient approaches to the design and development of complex interactive software, such as iterative development and rapid prototyping, are experienced.
+NOTE: Students who have received credit for this topic under a CART 398 number or for COMP 376 may not take this course for credit.
+
+
+CART 345     Digital Texts and Typography I (3 credits)
+Prerequisite: 24 credits completed in a Computation Arts program; or written permission of the Department. This is a studio course in which students conduct experiments in digital text, type, and typography. It looks at how type can be used in dynamic, interactive, and performative contexts, how manipulating the appearance and behaviour of type affects the meaning of the text, and how to work with the materiality of letterforms. Class projects include motion typography for video, interactive texts, liquid/random/malleable fonts, and computationally responsive letterforms.
+NOTE: Students who have received credit for this topic under a CART 355 number may not take this course for credit.
+NOTE: Students are expected to have training in the fundamentals of typography.
+
+CART 346     Digital Sound I: Theory and Practice of Real-Time Audio (3 credits)
+Prerequisite: 24 credits completed in a Computation Arts, Electroacoustics, or Intermedia (Video, Performance and Electronic Arts) program; or written permission of the Department. This course is an introduction to the fundamental principles of real-time digital audio: the use of a computer to process, synthesize, and manipulate digitized representations of sound in real-time. Topics such as physics of sound, sampling, synthesis techniques, filters, and acoustics are introduced through the use of the real-time programming environments Max/MSP and Supercollider. Students experiment with digital audio techniques through lab exercises and the development of a final real-time composition/sound design work.
+NOTE: Students who have received credit for this topic under a CART 356 number may not take this course for credit.
+
+CART 347     Digital Sound II: Sound Design (3 credits)
+Prerequisite: CART 346; 24 credits completed in a Computation Arts, Electroacoustics, or Intermedia (Video, Performance and Electronic Arts) program; or written permission of the Department. This course is a seminar/project studio in the conceptual and technical nature of digitally based sound design for film, video, and interactive multimedia (web, DVDs, games, sensor-augmented environments). Topics include sound and image fusion, audio-vision and conceptual/technical issues related to file and compression formats, spatialization (5.1), communication protocols, editing, mixing, tracking, asset creation and socio-cultural theories of audition. A term-long individual or group-based project is developed that takes participants through all phases of the sound design production workflow.
+NOTE: Students who have received credit for this topic under a CART 356 number may not take this course for credit.
+
+CART 351     Networks and Navigation (3 credits)
+Prerequisite: CART 211, 212, 253*; 24 credits completed in a Computation Arts program; or written permission of the Department. In this studio course, students develop interactive projects that take advantage of networked data, redefine online communities, and experiment with new communication structures. The perceptual and aesthetic aspects of digital media are addressed in relation to the technical skill sets required for navigating and understanding the possibilities and limits of networked environments.
+*Students in the Specialization in Computation Arts must complete CART 253.
+ 
+CART 353     Creative Computation II (3 credits)
+Prerequisite: CART 253*; 24 credits completed in a Computation Arts program; or written permission of the Department. An investigation of paradigms for programming, with concentration on topics of interest to digital art and design. Through lectures, readings, and projects, students explore topics including artificial life, evolutionary computation, and real-time programming.
+*Students in the Specialization in Computation Arts must complete CART 253.
+
+CART 355     Topics in Kinetic Imagery (3 credits)
+Prerequisite: 24 credits in a Computation Arts program. This course provides an opportunity for the study of special topics in kinetic imagery. Specific topics for this course, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.
+NOTE: Students who have received credit for DFAR 355 may not take this course for credit.
+
+CART 356     Topics in Abstract Soundscapes (3 credits)
+Prerequisite: 24 credits in a Computation Arts program. This course provides an opportunity for the study of special topics in abstract soundscapes. Specific topics for this course, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.
+NOTE: Students who have received credit for DFAR 356 may not take this course for credit.
+
+CART 357     Topics in Digital Space (3 credits)
+Prerequisite: 24 credits in a Computation Arts program. This course provides an opportunity for the study of special topics in digital and immersive space. Specific topics for this course, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.
+NOTE: Students who have received credit for DFAR 357 may not take this course for credit.
+
+CART 358     Topics in Senses and Perception (3 credits)
+Prerequisite: 24 credits in a Computation Arts program. Research into sensory perception, touch, and noise is key to project proposals, methodology, and production. Interdisciplinary referencing and collaborative projects are emphasized. Specific topics for this course, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.
+NOTE: Students who have received credit for DFAR 358 may not take this course for credit.
+
+CART 360     Tangible Media and Physical Computing (3 credits)
+Prerequisite: CART 253*; 24 credits completed in a Computation Arts program; or written permission of the Department. This course explores the concepts of tangible media and physical computation as well as related concepts of ubiquitous computing, wearable computing, and interaction design. The focus is on conceptual development, prototyping, and implementation of tangible media and physical computing artifacts from the perspectives of technical proficiency, functionality, aesthetics, and personal/social meaning.
+*Students in the Specialization in Computation Arts must complete CART 253.
+
+CART 361     3D Digital Production I (3 credits)
+Prerequisite: 24 credits completed in a Computation Arts program; or written permission of the Department. In this studio course, students are introduced to the language, principles, and practices of 3D digital animation. Students are exposed to a wide range of traditional film animation techniques and learn the technical skills and conceptual strategies for 3D digital production.
+NOTE: Students who have received credit for CART 261 may not take this course for credit.
+
+CART 362     3D Digital Production II (3 credits)
+Prerequisite: CART 361; 24 credits completed in a Computation Arts program; or written permission of the Department. This intermediate studio furthers conceptual and technical skills related to 3D digital animation. Through film analysis, readings, and lectures, students study film animation aesthetics, contemporary film practice, and advanced 3D animation techniques.
+NOTE: Students who have received credit for CART 262 may not take this course for credit.
+
+CART 370     Real-Time Video (3 credits)
+Prerequisite: 24 credits completed in a Computation Arts program; or written permission of the Department. A studio course in the creation and real-time processing of moving textures and video. This course surveys computer-based video art, particularly applied to installation or performance arts. It provides an introduction to mathematical approaches to real-time processing of 2D and higher-dimensional arrays, image and video filters, motion segmentation, and tracking blobs, optical flow, faces, and shapes.
+NOTE: Students who have received credit for this topic under a CART 498 number may not take this course for credit.
+NOTE: Students should have experience or knowledge in videography and video editing.
+
+CART 398     Special Topics in Computation Arts (3 credits)
+Prerequisite: Enrolment in a Computation Arts program or written permission of the Department. This course provides an opportunity for the study of specialized aspects and applications in computation arts. Specific topics for this course, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.
+
+CART 411     Project Studio I (3 credits)
+Prerequisite: CART 253*; CART 351; 48 credits completed in a Computation Arts program; or written permission of the Department. In this studio and theory course, students integrate skills with objects, narratives, and environments. They refine both critical and practical management skills in team-based projects.
+NOTE: Students who have received credit for CART 451 may not take this course for credit.
+*Students in the Specialization in Computation Arts must complete CART 253.
+ 
+CART 412     Project Studio II (3 credits)
+Prerequisite: CART 411; 48 credits completed in a Computation Arts program; or written permission of the Department. An advanced studio and theory course in which students integrate skills with objects, narratives, and environments. They refine both critical and practical management skills in team-based projects.
+NOTE: Students who have received credit for CART 452 may not take this course for credit.
+
+CART 414     Matter and Media (3 credits)
+Prerequisite: CART 255; 48 credits completed in a Computation Arts program; or written permission of the Department. This seminar prepares students for professional creation/research via analog or computational media and material arts, informed by philosophy of technology, art, and design. Topics may include continuity, transformation, distributed agency, responsivity, and tangibility.
+NOTE: Students who have received credit for this topic under a CART 454 number may not take this course for credit.
+
+CART 415     Game Studio I (3 credits)
+Prerequisite: CART 215; CART 315 or COMP 376; or written permission of the Department. This studio course considers how to construct compelling playable digital and non-digital media. A theoretical and critical understanding of play and games is established through the interaction of lectures, discussion, game playing, and game making. A wide range of game design topics are studied and engaged, including systems, player motivation, interfaces, progression, narrative, and balance. Students go through short cycles of game prototyping to better understand the relationships between mechanics design, emerging play dynamics, and the resulting aesthetic experience. Focus is put on the pursuit of innovative and expressive game concepts.
+NOTE: Students who have received credit for this topic under a CART 498 number may not take this course for credit.
+
+CART 416     Game Studio II (3 credits)
+Prerequisite: CART 215; CART 315 or COMP 376; or written permission of the Department. This studio course aims at exploring more advanced topics while engaging in larger scale, team-based, iterative game development projects that support the development of portfolio material. Specific attention is given to polish, presentation, and depth. In parallel, seminars are organized to pursue student engagement with fundamental game design questions through analyses of specific game objects.
+NOTE: Students who have received credit for this topic under a CART 498 number may not take this course for credit.
+
+CART 434     Advanced 3D Studio (3 credits)
+Prerequisite: CART 362; 48 credits completed in a Computation Arts program; or written permission of the Department. This advanced studio builds upon 3D modelling for animation, gaming, and spatial environments. Concurrent with the development of technical skill sets, students develop thematic projects with consideration given to industry standards and cultural products for public or private enterprise.
+NOTE: Students who have received credit for CART 354 may not take this course for credit.
+
+CART 444     Portfolio Studio (3 credits)
+Prerequisite: 48 credits completed in a Computation Arts program; or written permission of the Department. This studio course leads graduating Computation Arts students through an analysis and synthesis of a personal body of work, self-promotional material, and a framework for a group exhibition. Discussions and assignments address the technical, formal, and conceptual elements in their work, and strategies for documentation and presentation. Students are also expected to locate their work in a social, cultural, and historical context. Various future options for Computation Arts graduates are discussed, including careers in art, entrepreneurship, design, research, and academia.
+NOTE: Students who have received credit for this topic under a CART 498 number may not take this course for credit.
+
+CART 453     The Digital Nomad (3 credits)
+Prerequisite: 48 credits completed in a Computation Arts program; or written permission of the Department. This studio course is based on mobility or nomadic considerations in new media productions. Transportable and flexible equipment configurations are devel­oped to support on-site performance events, projection, and multimedia installations.
+NOTE: Students who have received credit for DFAR 453 may not take this course for credit.
+
+CART 455     Professional Internship I (3 credits)
+Prerequisite: 48 credits completed in a Computation Arts program; written permission of the Department. Students work in the industry for a period of nine to thirteen weeks to allow them to gain experience in design firms and multimedia companies. Internships approved for credit must be academically appropriate to the program.
+NOTE: Students may count a maximum of six credits in professional internships towards their degree program.
+
+CART 456     Professional Internship II (3 credits)
+Prerequisite: 48 credits completed in a Computation Arts program; written permission of the Department. Students work in the industry for a period of nine to thirteen weeks to allow them to gain experience in design firms and multimedia companies. Internships approved for credit must be academically appropriate to the program.
+NOTE: Students may count a maximum of six credits in professional internships towards their degree program.
+
+CART 457     Independent Study I (3 credits)
+Prerequisite: 48 credits completed in a Computation Arts program; written permission of the Department. This course provides an opportunity for a limited number of students to pursue advanced studies in computation arts research and creation project under the supervision of a full-time faculty member. A clearly defined written agreement between the student and the faculty supervisor is required before the independent study is approved.
+NOTE: Students may count a maximum of nine credits in independent studies towards their degree program.
+
+CART 458     Independent Study II (3 credits)
+Prerequisite: 48 credits completed in a Computation Arts program; written permission of the Department. This course provides an opportunity for a limited number of students to pursue advanced studies in computation arts research and creation project under the supervision of a full-time faculty member. A clearly defined written agreement between the student and the faculty supervisor is required before the independent study is approved.
+NOTE: Students may count a maximum of nine credits in independent studies towards their degree program.
+
+CART 459     Independent Study III (3 credits)
+Prerequisite: 48 credits completed in a Computation Arts program; written permission of the Department. This course provides an opportunity for a limited number of students to pursue advanced studies in computation arts research and creation project under the supervision of a full-time faculty member. A clearly defined written agreement between the student and the faculty supervisor is required before the independent study is approved.
+NOTE: Students may count a maximum of nine credits in independent studies towards their degree program.
+
+CART 460     Bending Bits: Advanced Topics in Digital Media (3 credits)
+Prerequisite: CART 411 previously or concurrently; 48 credits completed in a Computation Arts program; or written permission of the Department. An advanced studio course examining the ways computation can be deeply integrated into students’ creative practices. Projects look at how computation can be used to transform interactivity into a semantic strategy, input/output into a dialogue between the user, the work, and the world, and data processing into means of aesthetic exploration.
+NOTE: Students are expected to have solid skills in general-purpose programming before starting the class.
+
+CART 498     Special Topics in Computation Arts (3 credits)
+Prerequisite: Enrolment in a Computation Arts program or written permission of the Department. An advanced course which provides an opportunity for the study of specialized aspects and applications in digital fine arts. Specific topics for this course, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.
+Design:
+
+
+DART 221     Visual Communication in Context (3 credits)
+Prerequisite: Enrolment in the Major in Design or written permission of the Department. This studio course engages students in the study and application of graphic composition and visual communication. It focuses in particular on the elements and principles of layout and colour theory.
+NOTE: Students who have received credit for DART 200 may not take this course for credit.
+
+DART 261     Introduction to Design Studies (3 credits)
+Prerequisite: Enrolment in the Major in Design or written permission of the Department. This lecture course examines key themes in the history and theory of visual communication and the built environment from industrialization to the present day. Emphasis is given to current as well as future implications of design practice. Research methods in the discipline are introduced to facilitate development of students’ analytical and critical abilities, both oral and written.
+NOTE: Students are required to take this course in the first year of the Design program.
+NOTE: Students who have received credit for DART 260 may not take this course for credit.
+
+DART 262     Exploring Design Studies (3 credits)
+Prerequisite: DART 261; enrolment in the Major in Design; or written permission of the Department. This theory course introduces students to innovative and creative ways of thinking about design, and offers means of organizing their ideas effectively and convincingly. Referring to both historic and current examples of design theory and practice, coursework and assignments explore existing frameworks or models for design studies, enabling students to investigate critical aspects of visual communication and the built environment.
+NOTE: Students who have received credit for DART 260 may not take this course for credit.
+
+DART 263     Design History and Sustainability (3 credits)
+Prerequisite: DART 221, 261; DART 291, 292 previously or concurrently; or written permission of the Department. This theory course offers students a reflective space to explore sustainable design theory and practice through historical artifacts, and thereby expand their intellectual engagement with key issues in past, present, and potential future approaches to design complexity and design for sustainability.
+NOTE: Students who have received credit for this topic under a DART 298 number may not take this course for credit.
+
+DART 280     Investigations in Typographic Design (3 credits)
+Prerequisite: DART 221; DART 291, 292 previously or concurrently; or written permission of the Department. This studio course focuses on typographic design and explores the functional and expressive aspects of typography. Process-based assignments emphasize the principles of typography, information hierarchy, multiple-page content, and text-image relationships.
+NOTE: Students who have received credit for DART 200 may not take this course for credit.
+ 
+DART 291     Design Process and the Materiality of Objects (3 credits)
+Prerequisite: DART 221, 261; or written permission of the Department. This studio course concentrates on the design process and provides students with communication strategies including sketching in perspective and technical drawing. Assigned projects address creativity, sustainable materials, and construction techniques.
+NOTE: Students who have received credit for DART 210 or 290 may not take this course for credit.
+
+DART 292     Bio-Inspiration in the Design of Objects (3 credits)
+Prerequisite: DART 221, 261, 262 or 263, 291; DART 280 previously or concurrently; or written permission of the Department. This studio course advances the study of materials and construction methods. Assignments emphasize research and research methods specifically within the study of bionics. Students explore nature as inspiration to facilitate innovative and effective life cycles of designed objects.
+NOTE: Students who have received credit for DART 210 or 290 may not take this course for credit.
+
+DART 298     Special Topics in Design Art (3 credits)
+Prerequisite: Enrolment in the Major in Design or written permission of the Department. This course provides an opportunity for the study of special issues in Design. Specific topics for this course, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.
+
+DART 331     Words in Space (3 credits)
+Prerequisite: DART 280; DART 391, 392 previously or concurrently; or written permission of the Department. This studio course focuses on type and image in the built environment. Issues of space, materiality, and legibility are examined within architectural and urban landscapes. Students engage in projects ranging from wayfinding and signage to exhibition design and installations.
+NOTE: Students who have received credit for DART 300 may not take this course for credit.
+
+DART 332     Print Concepts and Processes (3 credits)
+Prerequisite: DART 221, 261, 262 or 263, 280; 24 credits in the Design Major; or written permission of the Department. This studio course focuses on the conceptualization, process, and production of printed projects. Assignments relate content and narrative to the material nature of printed matter, printing techniques, and the responsible use of resources.
+
+DART 335     Interpretive Public Spaces (3 credits)
+Prerequisite: DART 380 or 381; DART 391, 392 previously or concurrently; or written permission of the Department. This studio course develops strategies for interactions in the public sphere. The application of scenography, planning of space and the integration of content orients the student towards the design of museum installations, mobile exhibitions, and performative events.
+
+DART 339     Second Skin and Soft Wear (3 credits)
+Prerequisite: DART 380 or 381; DART 391, 392 previously or concurrently; or written permission of the Department. This studio course contextualizes the making of and the concepts relating to soft surfaces, objects, furniture, and sculptural forms. Students are also encouraged to explore the sensory interfaces between surface and structure in design by investigating alternative material use and new technologies for innovative textile design, electronics, and body wear.
+
+DART 380     3D Digital Concepts (3 credits)
+Prerequisite: DART 280; 24 credits in the Major in Design; or written permission of the Department. This computer lab course introduces students to computer-assisted 3D design concepts. Practical exercises advance technical skills and are combined with thematic proposals for virtual object representation. Scaled object production is encouraged in the final stages of the studio.
+NOTE: Students who have received credit for DART 300 may not take this course for credit.
+
+DART 381     Digital Media and Moving Images (3 credits)
+Prerequisite: DART 280; 24 credits in the Major in Design; or written permission of the Department. In this studio course, students generate concepts, thematic proposals, storyboards, and narratives for audiovisual presentations and creative works with a focus on online or web applications. Students develop projects for motion graphics, kinetic typography, as well as audio components.
+NOTE: Students who have received credit for DART 300 may not take this course for credit.
+
+DART 391     Socio-Cultural Research and Practice (3 credits)
+Prerequisite: DART 221, 261, 262 or 263 , 280, 291, 292; 24 credits in the Major in Design; or written permission of the Department. This studio course emphasizes the significance of research and context in the development of socio-cultural sustainability and collaborative design practice. Students experiment with word-image relationships exploring diverse mediums including small-scale publishing, soft surface design, dimensional packaging, and body wear.
+NOTE: Students who have received credit for DART 310 or 390 may not take this course for credit.
+
+DART 392     Environmental Research and Practice (3 credits)
+Prerequisite: DART 261, 262 or 263, 291, 292, 391; 24 credits in the Major in Design; or written permission of the Department. This studio course develops students’ expertise in design research and support applications for the built environment, through specific sustainable projects and community initiatives. Students work in collaboration with different stakeholders in the research, conceptualization, construction, and analysis stages of project design.
+NOTE: Students who have received credit for DART 310 or 390 may not take this course for credit.
+ 
+DART 398     Special Topics in Design (3 credits)
+Prerequisite: 24 credits in the Major in Design or written permission of the Department. This course provides an opportunity for the study of special issues in design art. Specific topics for this course, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.
+
+DART 441     The Culture of Images (3 credits)
+Prerequisite: DART 491, 492 previously or concurrently; 48 credits in the Major in Design; or written permission of the Department. In this theory course students analyze the impact of images through the study of popular culture and the persuasiveness of advertising in image-saturated and information-dense societies. Projects address strategies for effective visual communication as catalysts towards transformative socio-cultural environments.
+NOTE: Students who have received credit for DART 422 may not take this course for credit.
+
+DART 442     Scenarios for Typography (3 credits)
+Prerequisite: DART 491, 492 previously or concurrently; 48 credits in the Major in Design; or written permission of the Department. This studio course engages students to explore the diversity of typographic expression within a visual and literary context. Assignments are designed to address the significance and complexity of words for persuasive messaging, multilingual information exchange, and typographic play in visual communication.
+NOTE: Students who have received credit for DART 422 may not take this course for credit.
+
+DART 443     Print: Meaning and Process (3 credits)
+Prerequisite: DART 491, 492 previously or concurrently; 48 credits in the Major in Design; or written permission of the Department. This computer lab course focuses on graphic design in publishing systems. The implications of mass production, the responsible use of resources, and alternative print and packaging processes are key factors in the ecology of image production.
+NOTE: Students who have received credit for DART 424 may not take this course for credit.
+
+DART 444     Portfolio Design (3 credits)
+Prerequisite: DART 491, 492 previously or concurrently; 48 credits in the Major in Design; or written permission of the Department. In this studio course, students represent their design practice in a series of portfolio materials. Visual and written documentation are developed for print, digital media, and exhibition.
+NOTE: Students who have received credit for DART 424 may not take this course for credit.
+
+DART 445     The Narrative Object (3 credits)
+Prerequisite: DART 380 or 381; DART 491, 492 previously or concurrently; 48 credits in the Major in Design; or written permission of the Department. In this studio course, the mythic potential of objects as personal and cultural markers is considered in the context of everyday life. Students construct meaning through objects, responding to the potential for expression inherent in materials, structure, and form. The rigour of observation, analysis, and interpretation of object stimulates opportunities for multiple readings.
+NOTE: Students who have received credit for DART 423 may not take this course for credit.
+
+DART 446     Studies in the Built Environment (3 credits)
+Prerequisite: DART 491, 492 previously or concurrently; 48 credits in the Major in Design; or written permission of the Department. In this theory course, students explore physical space as a complex dynamic in which nature, architecture, things, and people continuously interact and influence each other. Students develop skills to explore such concepts as spatiality and materiality, to enhance their understanding of, and contributions to, the built environment.
+NOTE: Students who have received credit for DART 423 may not take this course for credit.
+
+DART 447     The Future Life of Objects (3 credits)
+Prerequisite: DART 380; DART 491, 492 previously or concurrently; 48 credits in the Major in Design; or written permission of the Department. This studio course encourages students to analyze the integration and impact of digital technologies in the production of three-dimensional objects and space design. Students examine current technologies and production and explore concepts for objects, enhancing the long-term value and use of objects within the built environment.
+NOTE: Students who have received credit for DART 425 may not take this course for credit.
+
+DART 448     Nature-Inspired Environments (3 credits)
+Prerequisite: DART 380; DART 491, 492 previously or concurrently; 48 credits in the Major in Design; or written permission of the Department. In this studio course, students examine natural systems to uncover design potential for the built environment. Students develop innovative approaches that advance sustainable design thinking through the study of intrinsic environmental geometries, behaviours, narratives, and life-cycle flows.
+NOTE: Students who have received credit for DART 425 may not take this course for credit.
+
+DART 449     The Language of the Web (3 credits)
+Prerequisite: DART 491, 492 previously or concurrently; 48 credits in the Major in Design; or written permission of the Department. In this studio course, students develop online applications and innovative methods for organizing and disseminating information. Issues of interactivity, navigation, and open-source media are emphasized.
+NOTE: Students who have received credit for DART 410 or 411 may not take this course for credit.
+ 
+DART 450     Web Intervention (3 credits)
+Prerequisite: DART 491, 492 previously or concurrently; 48 credits in the Major in Design; or written permission of the Department. In this studio course, students create socially engaged online interventions. Projects are informed by open-source culture, social media, and the effects of technological democratization.
+NOTE: Students who have received credit for DART 410 or 411 may not take this course for credit.
+
+DART 451     Digital Interaction (3 credits)
+Prerequisite: DART 381; DART 491, 492 previously or concurrently; 48 credits in the Major in Design; or written permission of the Department. This lab course considers the rhetoric of interactivity. The ubiquity of the graphic user interface is problematized through the use of non-linear narrative and metaphor. Students develop and select new paradigms for human-computer interaction.
+NOTE: Students who have received credit for DART 410 or 411 may not take this course for credit.
+
+DART 452     Immersive Media (3 credits)
+Prerequisite: DART 381; DART 491, 492 previously or concurrently; 48 credits in the Major in Design; or written permission of the Department. Students in this interdisciplinary lab course consider the expanded use of technologies for digital media in the context of 3D objects and environments. Through collaborative projects, students explore immersive installations integrating sound, video, interactivity, and performative events.
+NOTE: Students who have received credit for DART 410 or 411 may not take this course for credit.
+
+DART 453     Design and Community Engagement (6 credits)
+Prerequisite: 24 credits in the Major in Design; or 24 credits in a Major in Fine Arts; or enrolment in the Loyola College for Diversity and Sustainability’s Minor in Diversity and the Contemporary World; or written permission of the Department. A special project-based studio that provides students the opportunities to dialogue with and engage with Montreal-based outreach programs, community centres and not-for-profit organizations. Concordia students apply their communication and technical skill sets to collaborate with community partners and participants on specific design projects.
+NOTE: Students who have received credit for DART 481 or for this topic under a DART 498 number may not take this course for credit.
+
+DART 461     Independent Study I (3 credits)
+Prerequisite: 48 credits in the Major in Design and written permission of the Department. This course provides an opportunity for a limited number of students to pursue advanced studies in a design research and creation project under the supervision of a full-time faculty member. A clearly defined written agreement between the student and the faculty supervisor is required before the independent study is approved.
+NOTE: Students may count a maximum of nine credits in independent studies towards their degree program.
+
+DART 462     Independent Study II (3 credits)
+Prerequisite: 48 credits in the Major in Design and written permission of the Department. This course provides an opportunity for a limited number of students to pursue advanced studies in a design research and creation project under the supervision of a full-time faculty member. A clearly defined written agreement between the student and the faculty supervisor is required before the independent study is approved.
+NOTE: Students may count a maximum of nine credits in independent studies towards their degree program.
+
+DART 463     Independent Study III (3 credits)
+Prerequisite: 48 credits in the Major in Design and written permission of the Department. This course provides an opportunity for a limited number of students to pursue advanced studies in a design research and creation project under the supervision of a full-time faculty member. A clearly defined written agreement between the student and the faculty supervisor is required before the independent study is approved.
+NOTE: Students may count a maximum of nine credits in independent studies towards their degree program.
+
+DART 471     Professional Internship I (3 credits)
+Prerequisite: 48 credits in the Major in Design and written permission of the Department. This course provides an opportunity for a limited number of students to further develop their design skill sets as an intern in a design firm or cultural organization such as a museum or graphic and industrial design association. A clearly defined written agreement between the student intern, the employer, and the full-time faculty supervisor is required before the internship is approved.
+NOTE: Students may count a maximum of six credits in professional internships towards their degree program.
+
+DART 472     Professional Internship II (3 credits)
+Prerequisite: 48 credits in the Major in Design and written permission of the Department. This course provides an opportunity for a limited number of students to further develop their design skill sets as an intern in a design firm or cultural organization such as a museum or graphic and industrial design association. A clearly defined written agreement between the student intern, the employer, and the full-time faculty supervisor is required before the internship is approved.
+NOTE: Students may count a maximum of six credits in professional internships towards their degree program.
+
+DART 491     Discursive Design Research I (3 credits)
+Prerequisite: DART 391, 392; 48 credits in the Major in Design; or written permission of the Department. This core theoretical course combines lectures and discussions, emphasizing the contextual and societal implications of the design process from conception to production. Multidisciplinary approaches to design research and methodology allow students to advance the discourse of their own emerging design ethic and aesthetic.
+NOTE: Students who have received credit for DART 400 or 490 may not take this course for credit.
+
+DART 492     Discursive Design Research II (3 credits)
+Prerequisite: DART 391, 392, 491; 48 credits in the Major in Design; or written permission of the Department. This core course explores the interstices between visual culture, material culture, and related theoretical discourses as disciplines which profoundly influence the design process. Particular attention is devoted to multidisciplinary engagement as applied to individual design scenarios. This course is a continuation of DART 491.
+NOTE: Students who have received credit for DART 400 or 490 may not take this course for credit.
+
+DART 498     Special Topics in Design (3 credits)
+Prerequisite: 48 credits in the Major in Design or written permission of the Department. A course for advanced students which provides an opportunity for the study of special issues in design art. Specific topics for this course, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.© Concordia UniversityConcordia UniversityDesign and Computation ArtsSection 81.90Concordia University - Call us at 514-848-2424

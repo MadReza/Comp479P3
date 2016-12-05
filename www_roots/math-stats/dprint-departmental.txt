@@ -1,0 +1,75 @@
+http://www.concordia.ca/content/concordia/en/it/services/dprint-departmental.htmlThrough the DPrint service, Xerox was selected to install and service multifunction printer/scanner/photocopier devices for use across both the downtown and Loyola campuses. In total, the agreement covers approximately 250 departmental machines for faculty and staff use. The goal of DPrint is to reduce paper waste, simplify printing, and offer consistent, high quality services across the University.  Users of departmental machines are granted user codes associated with the departmental budget code for the department in which they work. With this internal accounting method, each department is able to manage and control their printing costs and manage user accounts.Faculty and staff who have been authorized under their departmental budget code.
+ A full price list for printing, scanning, or photocopying services can be found in the documentation section of this page. These charges will be applied directly to the established budget code for your department.
+ 24/7Maintenance is performed on Mondays from 2:00 A.M. to 2:30 A.M.Windows:Printer installation may require administrative access to your computer.When using the Print Queue installation, Windows PCs will install the printer drivers automatically from the print server. OSX:Mac users will have to make a request to have the drivers installed by submitting a web form to the Service Desk to schedule an appointment with a technician. 
+For general use instructions, consult the User guidePlease select a model from the list to view the training video:WC 5755 (black & white)
+WC 7435 (black & white and colour)
+WC 7545 (black & white and colour)
+WC 7120 (black & white and colour)Black and White
+$0.049/pageColour
+$0.20/pageThese charges will be applied to the departmental budget code.
+There are no additional fees for different paper sizes, as the supplies are purchased by the department and not supplied by DPrint.
+Faculty and staff who have been authorized under their departmental budget code and assigned a user ID.To obtain a User ID (print code), a request must be submitted to the Service Desk via web form by someone with signing authority in your department. The request should include the name of the requestor, the new person to be added, the department, and the departmental budget code.
+Yes, by submitting a request to the Service Desk via web form stating the budget code you wish to add. All budget codes will be verified before assigning to a corresponding Account ID.For support or to report an issue, submit a web form with the following information:
+Only DPrint administrators designated in each department can obtain reports. DPrint administrators typically have budget signing authority, are the VOIP coordinator and/or are the department administrator.If you are the DPrint administrator for your department, follow these steps:
+Follow these steps:
+Note: if the accounting prompt is not there, press the silver ‘services home’ button then select the service you wish to use.  This will bring up the accounting prompt. 
+To have a device relocated, submit a web form to the Service Desk a minimum of 5 business days before the move will occur.Include the following information:
+  Page suggestions:© Concordia UniversityConcordia UniversityDPrint - faculty & staffIT Services
+            
+                IT ServicesInstalling a new printer
+                
+            
+                
+					
+                    Training videos and user guide
+                
+            
+                
+					
+                    Price list
+                
+            
+                
+					
+                    Who can use the DPrint departmental devices?
+                
+            
+                
+					
+                    How do I get a User ID?
+                
+            
+                
+					
+                    Can I add a new Account ID (budget code) to my User ID?
+                
+            
+                
+					
+                    How do I report an issue such as a paper jam, ID not working, or quality issue?
+                
+            
+                
+					
+                    How do I order supplies and how much do supplies cost?
+                
+            
+                
+					
+                    How can I see usage reports for my department?
+                
+            
+                
+					
+                    How do I print to the DPrint device in my department? 
+                
+            
+                
+					
+                    How do I use the device for copying, faxing, or scanning?
+                
+            
+                
+					
+                    I need to relocate my DPrint device, what do I do?Who can use it?How much does it cost?How to get itService availabilityMaintenance windowDocumentation
+FAQSee alsoConcordia University - Call us at 514-848-2424Was this page useful to you?
