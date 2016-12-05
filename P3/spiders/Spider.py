@@ -3,12 +3,15 @@ from scrapy.selector import Selector
 from scrapy import signals
 from scrapy.xlib.pydispatch import dispatcher
 from afinn import Afinn
+from index import luceneIndexer
 import os
 import os.path
 
 class MySpider(scrapy.Spider):
     name = "base_spider"
     base_dir = "../www_roots"
+    index_dir = "../index"
+    index = luceneIndexer(index_dir)
     cur_root_url = ""
 
     folder_size_dict = {}
@@ -153,6 +156,7 @@ def write_to_file(self, response, cur_root_dirname, department, filename):
     with open(path_to_file, 'a') as f:
         site = get_tags(response)
         f.write(site.encode('utf-8', 'ignore'))
+    self.index.index(site.encode('utf-8', 'ignore'), response.xpath("//h1//text()").extract()[1] if len(response.xpath("//h1//text()").extract()) > 1 else filename, department, response.url)
     self.log('Saved file %s' % filename)
     self.folder_size_dict[department] += os.path.getsize(path_to_file)
 

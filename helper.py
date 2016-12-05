@@ -1,15 +1,19 @@
 import os
 from glob import glob
-from lib.score import score
+from scorer.score import score
+from scorer.find import luceneRetriver
 
-scraped_root_directory="www_roots"
+scraped_root_directory="P3/www_roots"
+index_dir = "P3/index"
+index = luceneRetriver()
+
 
 def cls():
     os.system('clear')
 
 def search():
     s = raw_input("Type your search query:")
-    #TODO call indexer for searching
+    index.find(s, index_dir)
 
 def get_all_departments(root_path):
     return [x[1] for x in os.walk(root_path)][0]
@@ -72,6 +76,7 @@ def get_departments_with_score_classifier():
         s = get_department_score(x)
         c = classifier(s)
         d[x] = (s, c)
+	print x, d[x]
 
     sorted_keys = sorted(d, key=lambda score: score[0], reverse=True) #TODO: Currently set highest value as most positive. VERIFIY that is true
     return d, sorted_keys

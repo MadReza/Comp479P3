@@ -13,4 +13,4 @@ def score(data):
 	for p in (tokenizer.tokenize(data)):
 		ans += afinn.score(p)
 		len += 1
-	return ans/len
+	return ans/len if len > 0 else 0
