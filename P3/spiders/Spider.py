@@ -118,7 +118,7 @@ class MySpider(scrapy.Spider):
 
         with open("../SCORES.txt", 'w') as outFile:
             outFile.write("SENTIMENT ANALYSIS OF THE ROOT URLs (Folders)\n"
-                          "---------------------------------------------")
+                          "--------------------------------------------- ")
 
         # in each root dir (root URL)
         for d in os.listdir(self.base_dir):
