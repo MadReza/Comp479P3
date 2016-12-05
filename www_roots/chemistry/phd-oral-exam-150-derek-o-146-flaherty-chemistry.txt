@@ -1,0 +1,184 @@
+http://www.concordia.ca/content/shared/en/events/offices/vprgs/sgs/2016/03/11/phd-oral-exam-150-derek-o-146-flaherty-chemistry.htmlWhen studying for a doctoral degree (PhD), candidates submit a thesis that provides a critical review of the current state of knowledge of the thesis subject as well as the student’s own contributions to the subject. The distinguishing criterion of doctoral graduate research is a significant and original contribution to knowledge.Once accepted, the candidate presents the thesis orally. This oral exam is open to the public.O6-Alkylguanine-DNA alkyltransferases (AGTs) are responsible for genomic maintenance by repairing O6-alkyl-2’-deoxyguanosine (O6-alkyl-dG) and O4-alkyl-thymidine (O4-alkyl-dT) adducts. AGT-mediated repair was investigated against O4-alkyl-dT mono-adducts and DNA intrastrand cross-links (IaCL). First, a bicyclic pyrimidine linking the C5-atom to the O4-atom, by an ethylene or a propylene bridge, were synthesized as conformationally locked mimics of the biologically relevant DNA damage O4-methyl thymidine (O4-MedT) and O4-ethyl thymidine (O4-EtdT), respectively. Once incorporated in DNA oligomers by solid-phase synthesis, biophysical characterization by UV thermal denaturation and circular dichroism of duplexes containing the modifications revealed minimal differences between O4-MedT and O4-EtdT inserts and their respective bicyclic mimics. These adducts evaded repair by the AGT homologues from human (hAGT), and E. coli (OGT and Ada-C) providing insights on the conformational requirements of repair of O4-alkyl-dT lesions.Second, a variety of cross-linked dimers linking the O6-atom of 2'-deoxyguanosine or O4-atom of thymidine were prepared synthetically to produce precursors for IaCL DNA that either lack or containing an intradimer phosphodiester group in the oligonucleotide backbone. The modifications were introduced in DNA sequences using solid phase synthesis and studies revealed a similar decrease in thermal stability across all IaCL-containing duplexes relative to control duplexes. The presence of the IaCL, and mimics thereof, minimally perturb the global structures of the duplexes, as assessed by circular dichroism spectroscopy and basic molecular modeling (geometrical optimization). Studies with AGTs demonstrated that: 1) O6-2’-deoxyguanosine-alkylene-O6-2’-deoxyguanosine (O6-dG-alkylene-O6-dG) flexible IaCL DNA (lacking the phosphodiester linkage) were repaired by hAGT, with faster repair occurring with the heptylene analogue. Repair of the model IaCL DNA occurred more efficiently in comparison to similar ICL DNA; 2) O6-dG-alkylene-O6-dG IaCL DNA containing the intradimer phosphodiester were moderately repaired by hAGT, with faster repair also occurring with the heptylene analogue. Efficiency of ther hAGT-mediated repair was contingent on the presence of the intradimer phosphate, which suggest conformational flexibility may be a requirement for repair by AGTs; 3) Flexible O4-thymidine-alkylene-O4-thymidine (O4-dT-alkylene-O4-dT) IaCL DNA evaded repair from all AGTs tested, whereas the flexible IaCL 5'-O4-dT-alkylene-O6-dG were efficiently repaired by hAGT. Interestingly, the 5'-O6-dG-alkylene-O4-dT was not proficiently repaired by hAGT supporting the importance of the 3'-phosphate group of the target dG nucleotide. 4) Flexible IaCL can be employed to generate DNA-protein cross-links (DPCs), with good conversions, as observed with repair of O6-dG-alkylene-O6-dG and 5'-O4-dT-alkylene-O6-dG by hAGT. The use of such cross-linking experiments may be useful for elucidating substrate discrimination across AGTs by X-ray crystallography.Translesion synthesis (TLS) may be activated by the cell as a coping mechanism when DNA damage evades repair or remains otherwise irreparable by repair mechanisms. DNA polymerase (Pol) enzymes display varying substrate promiscuity and processivity depending a on a number of factors such as the chemical nature of the DNA lesion. Human DNA polymerase η (hPol η) is a key TLS Pol involved in the bypass of certain UV-induced DNA damage, and lesions formed by platinum-containing chemotherapeutics. Bypass experiments were conducted to determine if conformational freedom of the lesion impacted hPol η processivity: 1) The conformationally locked pyrimidyl analogues described above were bypassed by hPol η with different profiles, relative to O4-MedT and O4-EtdT. All thymidinyl modifications evoked an error-prone behavior from hPol η, with insertion of dGMP being incorporated most-frequently in the growing strand. 2) IaCL bypass profiles of O6-dG-alkylene-O6-dG containing the intradimer phosphodiester group behaved significantly different relative to those IaCL lacking it. hPol η inserted the correct nucleotide (dCMP) across the 3'-dG residue for all IaCL studied, whereas an error-prone behavior was observed across the 5'-dG residue. While the lack of the intradimer phosphodiester caused frameshift adduct formation across the 5'-dG, hPol η inserted the incorrect dTMP across the 5'-dG of the canonical IaCL DNA. More studies are required to elucidate whether this dependence is shared for other types of lesions.© Concordia UniversityConcordia University
+                        PhD Oral Exam - Derek O'Flaherty, ChemistryDepartment of Chemistry & Biochemistry
+            
+                Department of Chemistry & BiochemistryAbstractConcordia University - Call us at 514-848-2424Study resourcesCalendar - GraduateCalendar - UndergraduateClass schedulesClass cancellationsCourse registrationImportant academic datesMore academic resourcesCampus servicesConcordia storesIT servicesJob opportunitiesSecurityShuttle busStudent Service Centre (Birks)All campus servicesWhat's newCalendar of eventsLatest newsMedia RelationsFaculties, Schools & CollegesArts and ScienceEngineering and Computer ScienceFine ArtsJohn Molson School of BusinessSchool of Graduate StudiesAll Schools, Colleges & DepartmentsStudy resources  
+		            	Calendar - Graduate
+		            	Calendar - Undergraduate
+		            	Class schedules
+		            	Class cancellations
+		            	Course registration
+		            	Important academic dates
+		            	More academic resourcesCampus services  
+		            	Concordia stores
+		            	IT services
+		            	Job opportunities
+		            	Security
+		            	Shuttle bus
+		            	Student Service Centre (Birks)
+		            	All campus servicesWhat's new  
+		            	Calendar of events
+		            	Latest news
+		            	Media RelationsFaculties, Schools & Colleges  
+		            	Arts and Science
+		            	Engineering and Computer Science
+		            	Fine Arts
+		            	John Molson School of Business
+		            	School of Graduate Studies
+		            	All Schools, Colleges & DepartmentsMyConcordiaCspaceWebmailLibraryDirectoriesA-ZMaps
+                                    About the Department
+                                    
+                                    
+
+                                            
+                                                
+                                                        
+                                                            
+                                                                Faculty members
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Staff
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Job opportunities
+                                                            
+                                                        
+                                                
+                                            
+                                    
+                            
+                                    Programs
+                                    
+                                    
+
+                                            
+                                                
+                                                        
+                                                            
+                                                                Undergraduate programs
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Graduate programs
+                                                            
+                                                        
+                                                
+                                            
+                                    
+                            
+                                    Research
+                                    
+                                    
+
+                                            
+                                                
+                                                        
+                                                            
+                                                                Research centres
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Publications
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Faculty by research area 
+                                                            
+                                                        
+                                                
+                                            
+                                    
+                                                         
+                                    Student life
+                            Study resourcesCalendar - GraduateCalendar - UndergraduateClass schedulesClass cancellationsCourse registrationImportant academic datesMore academic resourcesCampus servicesConcordia storesIT servicesJob opportunitiesSecurityShuttle busStudent Service Centre (Birks)All campus servicesWhat's newCalendar of eventsLatest newsMedia RelationsFaculties, Schools & CollegesArts and ScienceEngineering and Computer ScienceFine ArtsJohn Molson School of BusinessSchool of Graduate StudiesAll Schools, Colleges & DepartmentsStudy resources  
+		            	Calendar - Graduate
+		            	Calendar - Undergraduate
+		            	Class schedules
+		            	Class cancellations
+		            	Course registration
+		            	Important academic dates
+		            	More academic resourcesCampus services  
+		            	Concordia stores
+		            	IT services
+		            	Job opportunities
+		            	Security
+		            	Shuttle bus
+		            	Student Service Centre (Birks)
+		            	All campus servicesWhat's new  
+		            	Calendar of events
+		            	Latest news
+		            	Media RelationsFaculties, Schools & Colleges  
+		            	Arts and Science
+		            	Engineering and Computer Science
+		            	Fine Arts
+		            	John Molson School of Business
+		            	School of Graduate Studies
+		            	All Schools, Colleges & Departments
+                
+                
+                    
+                    Home
+                    
+                
+                
+	        
+                
+                
+                    
+                    Faculty of Arts and Science
+                    
+                
+                
+	        
+                
+                
+                    
+                    Department of Chemistry & Biochemistry
+                    
+                
+                
+	        
+                
+                
+                    
+                    News & events
+                    
+                
+                
+	        
+                
+                
+                    
+                    Events
+                    
+                
+                
+	        
+                
+                    Past events
+                    
+                
+                
+	        
+                    
+                    	Facebook
+                    
+                
+                    
+                    	Twitter
+                    
+                
+                    
+                        LinkedIn
+                    
+                
+                    
+                        GooglePlus
+                    
+                AboutAcademicsAdmissionsCampus lifeResearchInternationalFuture studentsCurrent studentsAlumni & friendsParents Faculty & stafffacebooktwittergoogleyoutubelinkedinpinterestinstagramflickr© Concordia UniversityTermsPrivacyAccessibilityWebsite feedback

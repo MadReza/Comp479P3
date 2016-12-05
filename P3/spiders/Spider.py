@@ -165,5 +165,6 @@ def get_tags(response):
     site += ''.join(response.xpath("//h4//text()").extract()).strip()
     site += ''.join(response.xpath("//h5//text()").extract()).strip()
     site += ''.join(response.xpath("//h6//text()").extract()).strip()
+    site += ''.join(response.xpath("//li//text()").extract()).strip()
     return site
 

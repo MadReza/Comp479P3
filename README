@@ -15,6 +15,15 @@ Rank the Science departments by sentiment of their web documents (1pt, Attrib 5)
 Classify the Science departments with a three way classifier into positive, negative, and neutral (3pts, Attrib 5)
 Classify the additional mystery page results the same way and compare its dominant sentiment. (2pts, Attrib 5)
 
+what was the hardest step?
+how big is the index?
+
+what observations did you make during your experiments?
+!- wow at first i was crawling without looking at <li> tags and getting scores of 7000-8000
+    now including <li> all scores are around 1500-3000
+
+what did you learn from your experience?
+
 
 Run instructions:
     Scraping:

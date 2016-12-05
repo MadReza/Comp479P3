@@ -1,0 +1,185 @@
+http://www.concordia.ca/content/shared/en/events/offices/vprgs/sgs/2016/02/11/phd-oral-exam-xijun-wang-chemistry.htmlWhen studying for a doctoral degree (PhD), candidates submit a thesis that provides a critical review of the current state of knowledge of the thesis subject as well as the student’s own contributions to the subject. The distinguishing criterion of doctoral graduate research is a significant and original contribution to knowledge.Once accepted, the candidate presents the thesis orally. This oral exam is open to the public.The aim of this work is to develop theoretical approaches to compute vibrational spectra beyond the harmonic approximation and to investigate the performance of the self-consistent-charge density-functional tight-binding model (SCC-DFTB) in studying the vibrational spectra of large systems. For this purpose, vibrational spectra of ion-water clusters and peptide-water clusters are computed from molecular dynamics (MD) simulations using the Fourier transform of the autocorrelation function of the dipole moment (FTACF). The performance of the SCC-DFTB model is evaluated by comparing computed spectra with available experimental results and ab initio or first-principles results. There are four distinct aspects to this work: (1) To demonstrate how the FTACF approach overcomes the limitations of the harmonic approximation, vibrational spectra of the “Zundel ion”, the protonated water dimer, are computed from ab initio MD simulations based on second-order Møller–Plesset (MP2) Perturbation Theory. The splitting of the band of the proton transfer mode is well reproduced, and its coupling with other modes is characterized by examining the correlation spectra of a combination of selected internal coordinates. Computed spectra at different temperatures further confirm the ability of the approach to unveil temperature-dependent features of vibrational modes coupling. (2) To confirm the spectral signature of “free water” at the surface of aqueous droplets seeded by sulfate iosn proposed by experimentalists, theoretical vibrational spectra of sulfate-water clusters are generated using the SCC-DFTB model. Computed spectra not only reproduce the spectral signature of free surface water molecules, hence confirming the latter hypothesis, but also disclose the distance within which the sulfate ion may affect the structure and dynamics of water molecules in the gas phase, within the accuracy of the approximate model employed and the possible limitations of conformational sampling. (3) To investigate the hydration effect on the CN stretch band of the guanidinium ion, vibrational spectra of guanidinium-water clusters are obtained with the SCC-DFTB model. Computed spectra reveal a redshift in the band position, in agreement with ab initio calculations of harmonic frequencies. The SCC-DFTB spectra are also in good agreement with those obtained from Car-Parrinello molecular dynamics (CPMD) simulations employing more rigorous density-functional theory (DFT). (4) To validate the suitability of the approach to describe the interactions and dynamics of peptide-water binary systems, vibrational spectra of several model clusters containing prototype peptides are generated from MD simulations at different temperatures, with the ultimate goal of gaining insight into solvation effects on the spectra of hydrated proteins. Computed spectra are in excellent agreement with available experimental results and reported theoretical results. Altogether, these findings not only shed light onto understanding the properties of ion-water and peptide-water clusters, but also validate an efficient approach to compute vibrational spectra of large systems with satisfactory performance and accuracy.
+© Concordia UniversityConcordia University
+                        PhD Oral Exam - Xijun Wang, ChemistryDepartment of Chemistry & Biochemistry
+            
+                Department of Chemistry & BiochemistryAbstractConcordia University - Call us at 514-848-2424Study resourcesCalendar - GraduateCalendar - UndergraduateClass schedulesClass cancellationsCourse registrationImportant academic datesMore academic resourcesCampus servicesConcordia storesIT servicesJob opportunitiesSecurityShuttle busStudent Service Centre (Birks)All campus servicesWhat's newCalendar of eventsLatest newsMedia RelationsFaculties, Schools & CollegesArts and ScienceEngineering and Computer ScienceFine ArtsJohn Molson School of BusinessSchool of Graduate StudiesAll Schools, Colleges & DepartmentsStudy resources  
+		            	Calendar - Graduate
+		            	Calendar - Undergraduate
+		            	Class schedules
+		            	Class cancellations
+		            	Course registration
+		            	Important academic dates
+		            	More academic resourcesCampus services  
+		            	Concordia stores
+		            	IT services
+		            	Job opportunities
+		            	Security
+		            	Shuttle bus
+		            	Student Service Centre (Birks)
+		            	All campus servicesWhat's new  
+		            	Calendar of events
+		            	Latest news
+		            	Media RelationsFaculties, Schools & Colleges  
+		            	Arts and Science
+		            	Engineering and Computer Science
+		            	Fine Arts
+		            	John Molson School of Business
+		            	School of Graduate Studies
+		            	All Schools, Colleges & DepartmentsMyConcordiaCspaceWebmailLibraryDirectoriesA-ZMaps
+                                    About the Department
+                                    
+                                    
+
+                                            
+                                                
+                                                        
+                                                            
+                                                                Faculty members
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Staff
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Job opportunities
+                                                            
+                                                        
+                                                
+                                            
+                                    
+                            
+                                    Programs
+                                    
+                                    
+
+                                            
+                                                
+                                                        
+                                                            
+                                                                Undergraduate programs
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Graduate programs
+                                                            
+                                                        
+                                                
+                                            
+                                    
+                            
+                                    Research
+                                    
+                                    
+
+                                            
+                                                
+                                                        
+                                                            
+                                                                Research centres
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Publications
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Faculty by research area 
+                                                            
+                                                        
+                                                
+                                            
+                                    
+                                                         
+                                    Student life
+                            Study resourcesCalendar - GraduateCalendar - UndergraduateClass schedulesClass cancellationsCourse registrationImportant academic datesMore academic resourcesCampus servicesConcordia storesIT servicesJob opportunitiesSecurityShuttle busStudent Service Centre (Birks)All campus servicesWhat's newCalendar of eventsLatest newsMedia RelationsFaculties, Schools & CollegesArts and ScienceEngineering and Computer ScienceFine ArtsJohn Molson School of BusinessSchool of Graduate StudiesAll Schools, Colleges & DepartmentsStudy resources  
+		            	Calendar - Graduate
+		            	Calendar - Undergraduate
+		            	Class schedules
+		            	Class cancellations
+		            	Course registration
+		            	Important academic dates
+		            	More academic resourcesCampus services  
+		            	Concordia stores
+		            	IT services
+		            	Job opportunities
+		            	Security
+		            	Shuttle bus
+		            	Student Service Centre (Birks)
+		            	All campus servicesWhat's new  
+		            	Calendar of events
+		            	Latest news
+		            	Media RelationsFaculties, Schools & Colleges  
+		            	Arts and Science
+		            	Engineering and Computer Science
+		            	Fine Arts
+		            	John Molson School of Business
+		            	School of Graduate Studies
+		            	All Schools, Colleges & Departments
+                
+                
+                    
+                    Home
+                    
+                
+                
+	        
+                
+                
+                    
+                    Faculty of Arts and Science
+                    
+                
+                
+	        
+                
+                
+                    
+                    Department of Chemistry & Biochemistry
+                    
+                
+                
+	        
+                
+                
+                    
+                    News & events
+                    
+                
+                
+	        
+                
+                
+                    
+                    Events
+                    
+                
+                
+	        
+                
+                    Past events
+                    
+                
+                
+	        
+                    
+                    	Facebook
+                    
+                
+                    
+                    	Twitter
+                    
+                
+                    
+                        LinkedIn
+                    
+                
+                    
+                        GooglePlus
+                    
+                AboutAcademicsAdmissionsCampus lifeResearchInternationalFuture studentsCurrent studentsAlumni & friendsParents Faculty & stafffacebooktwittergoogleyoutubelinkedinpinterestinstagramflickr© Concordia UniversityTermsPrivacyAccessibilityWebsite feedback

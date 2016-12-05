@@ -1,0 +1,188 @@
+http://www.concordia.ca/content/shared/en/events/artsci/chemistry/2015/10/02/waldispuhl-2015.htmlI will describe my work in the area of protein structure prediction:  First, I will introduce a new class of algorithms for predicting ensembles of beta-sheet structures from sequence data only. I will show how we use this technology to calculate, with relatively very little computation time, coarse-grained models of the energy landscape, and predict key folding intermediates of proteins such as Protein G.In the second part of this talk, I will describe another set of techniques to analyze the conformational landscape and dynamics of large biopolymers. I will illustrate the insights offered by this technology on Amylin fibrils. In particular, I will present recent results suggesting new fibrils architectures, and mutations improving the molecular stability of Pramlintide – an analog to Amylin used as an adjunctive therapy for diabetes.
+
+ Biography: Jérôme Waldispühl is an associate professor in computer science at McGill university. He received a PhD in computer science from École Polytechnique (France), and was an instructor in Applied Mathematics at the Massachusetts Institute of Technology (USA). His research interests range from the development of combinatorial algorithms for predicting and analyzing protein and RNA sequences and structures, to the development of crowd-computing systems for solving large-scale problems.
+ 
+ He is the guest of Dr. Guillaume Lamoureux.© Concordia UniversityConcordia University
+                        "Prediction and analysis of ensembles of large protein structures"  Dr. Jérôme Waldispühl  (McGill)Department of Chemistry & Biochemistry
+            
+                Department of Chemistry & BiochemistryConcordia University - Call us at 514-848-2424Study resourcesCalendar - GraduateCalendar - UndergraduateClass schedulesClass cancellationsCourse registrationImportant academic datesMore academic resourcesCampus servicesConcordia storesIT servicesJob opportunitiesSecurityShuttle busStudent Service Centre (Birks)All campus servicesWhat's newCalendar of eventsLatest newsMedia RelationsFaculties, Schools & CollegesArts and ScienceEngineering and Computer ScienceFine ArtsJohn Molson School of BusinessSchool of Graduate StudiesAll Schools, Colleges & DepartmentsStudy resources  
+		            	Calendar - Graduate
+		            	Calendar - Undergraduate
+		            	Class schedules
+		            	Class cancellations
+		            	Course registration
+		            	Important academic dates
+		            	More academic resourcesCampus services  
+		            	Concordia stores
+		            	IT services
+		            	Job opportunities
+		            	Security
+		            	Shuttle bus
+		            	Student Service Centre (Birks)
+		            	All campus servicesWhat's new  
+		            	Calendar of events
+		            	Latest news
+		            	Media RelationsFaculties, Schools & Colleges  
+		            	Arts and Science
+		            	Engineering and Computer Science
+		            	Fine Arts
+		            	John Molson School of Business
+		            	School of Graduate Studies
+		            	All Schools, Colleges & DepartmentsMyConcordiaCspaceWebmailLibraryDirectoriesA-ZMaps
+                                    About the Department
+                                    
+                                    
+
+                                            
+                                                
+                                                        
+                                                            
+                                                                Faculty members
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Staff
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Job opportunities
+                                                            
+                                                        
+                                                
+                                            
+                                    
+                            
+                                    Programs
+                                    
+                                    
+
+                                            
+                                                
+                                                        
+                                                            
+                                                                Undergraduate programs
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Graduate programs
+                                                            
+                                                        
+                                                
+                                            
+                                    
+                            
+                                    Research
+                                    
+                                    
+
+                                            
+                                                
+                                                        
+                                                            
+                                                                Research centres
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Publications
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Faculty by research area 
+                                                            
+                                                        
+                                                
+                                            
+                                    
+                                                         
+                                    Student life
+                            Study resourcesCalendar - GraduateCalendar - UndergraduateClass schedulesClass cancellationsCourse registrationImportant academic datesMore academic resourcesCampus servicesConcordia storesIT servicesJob opportunitiesSecurityShuttle busStudent Service Centre (Birks)All campus servicesWhat's newCalendar of eventsLatest newsMedia RelationsFaculties, Schools & CollegesArts and ScienceEngineering and Computer ScienceFine ArtsJohn Molson School of BusinessSchool of Graduate StudiesAll Schools, Colleges & DepartmentsStudy resources  
+		            	Calendar - Graduate
+		            	Calendar - Undergraduate
+		            	Class schedules
+		            	Class cancellations
+		            	Course registration
+		            	Important academic dates
+		            	More academic resourcesCampus services  
+		            	Concordia stores
+		            	IT services
+		            	Job opportunities
+		            	Security
+		            	Shuttle bus
+		            	Student Service Centre (Birks)
+		            	All campus servicesWhat's new  
+		            	Calendar of events
+		            	Latest news
+		            	Media RelationsFaculties, Schools & Colleges  
+		            	Arts and Science
+		            	Engineering and Computer Science
+		            	Fine Arts
+		            	John Molson School of Business
+		            	School of Graduate Studies
+		            	All Schools, Colleges & Departments
+                
+                
+                    
+                    Home
+                    
+                
+                
+	        
+                
+                
+                    
+                    Faculty of Arts and Science
+                    
+                
+                
+	        
+                
+                
+                    
+                    Department of Chemistry & Biochemistry
+                    
+                
+                
+	        
+                
+                
+                    
+                    News & events
+                    
+                
+                
+	        
+                
+                
+                    
+                    Events
+                    
+                
+                
+	        
+                
+                    Past events
+                    
+                
+                
+	        
+                    
+                    	Facebook
+                    
+                
+                    
+                    	Twitter
+                    
+                
+                    
+                        LinkedIn
+                    
+                
+                    
+                        GooglePlus
+                    
+                AboutAcademicsAdmissionsCampus lifeResearchInternationalFuture studentsCurrent studentsAlumni & friendsParents Faculty & stafffacebooktwittergoogleyoutubelinkedinpinterestinstagramflickr© Concordia UniversityTermsPrivacyAccessibilityWebsite feedback

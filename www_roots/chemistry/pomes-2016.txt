@@ -1,0 +1,184 @@
+http://www.concordia.ca/content/shared/en/events/artsci/chemistry/2016/04/06/pomes-2016.htmlAlthough it was long thought that proteins must adopt a well-defined three-dimensional structure to perform their biological function, it is now known that many proteins are at least partly disordered in their functional state. Even more remarkably, certain disordered proteins such as elastin have the capacity to self-assemble and separate into a liquid phase. In the aggregated state, elastin fulfills a vital role by imparting extensibility, elastic recoil, and resilience to diverse tissues including arterial walls, skin, lung alveoli, and the uterus. Understanding the molecular determinants of these properties has the potential to help in the rational design of useful biomimetic materials such as vascular grafts or artificial skin.Despite the biological importance of elastin and over eighty years of study, there is still no consensus model for its structure. We used massive computing to model the microscopic structure of elastin. Molecular dynamics simulations exceeding 0.2 ms afford insight into the structural ensemble of elastin-like peptides. Results demonstrate that the hydrophobic domains of elastin are structurally disordered even when assembled together, like a bag of snakes or a plate of spaghetti. Consistent with the entropic nature of elastic recoil, the aggregated state is stabilized both by the hydrophobic effect and by an increase in conformational entropy upon self-assembly. This highly-disordered state underlies the two remarkable properties of elastin, its capacity to separate into a liquid phase and to undergo elastic recoil. The structural ensemble of the elastin-like aggregate obtained here provides the first atomistic view into what may be called the liquid state of proteins.Dr. Pomès obtained his PhD in theoretical chemistry with Dr. Andy McCammon at the University of Houston in 1993 and did postdoctoral research with Benoît Roux at Université de Montréal and with Angel García at Los Alamos National Laboratory in New Mexico. He is a senior scientist in the Molecular Structure and Function programme at the Hospital for Sick Children and an associate professor in the Department of Biochemistry of the University of Toronto. His research focuses on the development of computer simulation techniques and their application to studies of biomolecular systems at the atomic level of detail. His group is interested in the mechanism of ion translocation in membrane proteins and in a broad range of problems pertaining to the solvation, binding, folding, and aggregation of peptides and proteins.He is the guest of Guillaume Lamoureux.This seminar is co-sponsored by le Groupe d'étude des protéines membranaires (GÉPROM)© Concordia UniversityConcordia University
+                        "The Liquid State of Proteins"Dr. Régis Pomès (Toronto)Department of Chemistry & Biochemistry
+            
+                Department of Chemistry & BiochemistryConcordia University - Call us at 514-848-2424Study resourcesCalendar - GraduateCalendar - UndergraduateClass schedulesClass cancellationsCourse registrationImportant academic datesMore academic resourcesCampus servicesConcordia storesIT servicesJob opportunitiesSecurityShuttle busStudent Service Centre (Birks)All campus servicesWhat's newCalendar of eventsLatest newsMedia RelationsFaculties, Schools & CollegesArts and ScienceEngineering and Computer ScienceFine ArtsJohn Molson School of BusinessSchool of Graduate StudiesAll Schools, Colleges & DepartmentsStudy resources  
+		            	Calendar - Graduate
+		            	Calendar - Undergraduate
+		            	Class schedules
+		            	Class cancellations
+		            	Course registration
+		            	Important academic dates
+		            	More academic resourcesCampus services  
+		            	Concordia stores
+		            	IT services
+		            	Job opportunities
+		            	Security
+		            	Shuttle bus
+		            	Student Service Centre (Birks)
+		            	All campus servicesWhat's new  
+		            	Calendar of events
+		            	Latest news
+		            	Media RelationsFaculties, Schools & Colleges  
+		            	Arts and Science
+		            	Engineering and Computer Science
+		            	Fine Arts
+		            	John Molson School of Business
+		            	School of Graduate Studies
+		            	All Schools, Colleges & DepartmentsMyConcordiaCspaceWebmailLibraryDirectoriesA-ZMaps
+                                    About the Department
+                                    
+                                    
+
+                                            
+                                                
+                                                        
+                                                            
+                                                                Faculty members
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Staff
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Job opportunities
+                                                            
+                                                        
+                                                
+                                            
+                                    
+                            
+                                    Programs
+                                    
+                                    
+
+                                            
+                                                
+                                                        
+                                                            
+                                                                Undergraduate programs
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Graduate programs
+                                                            
+                                                        
+                                                
+                                            
+                                    
+                            
+                                    Research
+                                    
+                                    
+
+                                            
+                                                
+                                                        
+                                                            
+                                                                Research centres
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Publications
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Faculty by research area 
+                                                            
+                                                        
+                                                
+                                            
+                                    
+                                                         
+                                    Student life
+                            Study resourcesCalendar - GraduateCalendar - UndergraduateClass schedulesClass cancellationsCourse registrationImportant academic datesMore academic resourcesCampus servicesConcordia storesIT servicesJob opportunitiesSecurityShuttle busStudent Service Centre (Birks)All campus servicesWhat's newCalendar of eventsLatest newsMedia RelationsFaculties, Schools & CollegesArts and ScienceEngineering and Computer ScienceFine ArtsJohn Molson School of BusinessSchool of Graduate StudiesAll Schools, Colleges & DepartmentsStudy resources  
+		            	Calendar - Graduate
+		            	Calendar - Undergraduate
+		            	Class schedules
+		            	Class cancellations
+		            	Course registration
+		            	Important academic dates
+		            	More academic resourcesCampus services  
+		            	Concordia stores
+		            	IT services
+		            	Job opportunities
+		            	Security
+		            	Shuttle bus
+		            	Student Service Centre (Birks)
+		            	All campus servicesWhat's new  
+		            	Calendar of events
+		            	Latest news
+		            	Media RelationsFaculties, Schools & Colleges  
+		            	Arts and Science
+		            	Engineering and Computer Science
+		            	Fine Arts
+		            	John Molson School of Business
+		            	School of Graduate Studies
+		            	All Schools, Colleges & Departments
+                
+                
+                    
+                    Home
+                    
+                
+                
+	        
+                
+                
+                    
+                    Faculty of Arts and Science
+                    
+                
+                
+	        
+                
+                
+                    
+                    Department of Chemistry & Biochemistry
+                    
+                
+                
+	        
+                
+                
+                    
+                    News & events
+                    
+                
+                
+	        
+                
+                
+                    
+                    Events
+                    
+                
+                
+	        
+                
+                    Past events
+                    
+                
+                
+	        
+                    
+                    	Facebook
+                    
+                
+                    
+                    	Twitter
+                    
+                
+                    
+                        LinkedIn
+                    
+                
+                    
+                        GooglePlus
+                    
+                AboutAcademicsAdmissionsCampus lifeResearchInternationalFuture studentsCurrent studentsAlumni & friendsParents Faculty & stafffacebooktwittergoogleyoutubelinkedinpinterestinstagramflickr© Concordia UniversityTermsPrivacyAccessibilityWebsite feedback

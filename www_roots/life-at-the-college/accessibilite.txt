@@ -1,0 +1,88 @@
+http://www.concordia.ca/content/concordia/fr/web/accessibilite.htmlAu moment de la conception du nouveau site Web de l’Université, de même que des modèles pour les sites des départements, services et unités, nous avons pris en compte les normes d’accessibilité afin que le plus large public possible puisse l’utiliser. Nous souhaitons ainsi que le site soit accessible non seulement aux personnes qui font usage des technologies d’assistance, telles que les lecteurs d’écran, mais aussi à celles qui possèdent un navigateur ou un ordinateur moins récent, ou à connexion Internet lente.Conformément aux Règles pour l’accessibilité des contenus Web du consortium W3C (« World Wide Web Consortium »), nous avons bâti nos pages de manière à ce qu’elles se « transforment gracieusement ». En d’autres termes, nous avons :Nous nous sommes également assurés que le contenu est compréhensible et navigable. Nous avons donc fourni :Toute personne utilisant des appareils et accessoires fonctionnels devrait communiquer avec le Service d’intégration des étudiants en situation de handicap afin d’obtenir de l’aide pour les technologies d’assistance.Le Service d’intégration des étudiants en situation de handicap offre des programmes et services – notamment ceux qui sont listés ci-après – qui soutiennent l’intégration au sein de la communauté universitaire des étudiants à mobilité réduite ou souffrant d’une déficience visuelle ou auditive, ou encore de troubles d’apprentissage.La Politique – Accessibilité des étudiants handicapés aux études et services universitaires expose les rôles et responsabilités respectifs de l’Université et des étudiants en situation de handicap quant à l’accessibilité aux programmes universitaires et aux installations physiques de Concordia. Vous pouvez télécharger la politique en format PDF. c - Passer au contenu
+n - Passer à la navigation
+s - Passer à la recherche
+1 - Aller à la page d’accueil© Université ConcordiaConcordia UniversityAccessibilitéService d’intégration des étudiants en situation de handicapPolitique officielleLiens connexesOutils d'accessibilitéUniversité Concordia - Contactez-nous au 514-848-2424Ressources étudiantesAnnuaire des études supérieuresAnnuaire des études de 1er cycleAvis d’annulation de coursHoraire des coursInscription aux coursCalendrier universitaireAutres ressourcesServices sur les campusMagasinsServices de TIOccasions d’emploiSécuritéNavetteCentre de services aux étudiants BirksAutres servicesQuoi de neufCalendrier des activités Actualités récentesRelations médiasFacultés, écoles et collègesArts et sciencesGénie et informatiqueBeaux-artsÉcole de gestion John-MolsonÉcole des études supérieuresTout sur les écoles, collèges et départementsRessources étudiantes  
+		            	Annuaire des études supérieures
+		            	Annuaire des études de 1er cycle
+		            	Avis d’annulation de cours
+		            	Horaire des cours
+		            	Inscription aux cours
+		            	Calendrier universitaire
+		            	Autres ressourcesServices sur les campus  
+		            	Magasins
+		            	Services de TI
+		            	Occasions d’emploi
+		            	Sécurité
+		            	Navette
+		            	Centre de services aux étudiants Birks
+		            	Autres servicesQuoi de neuf  
+		            	Calendrier des activités 
+		            	Actualités récentes
+		            	Relations médiasFacultés, écoles et collèges  
+		            	Arts et sciences
+		            	Génie et informatique
+		            	Beaux-arts
+		            	École de gestion John-Molson
+		            	École des études supérieures
+		            	Tout sur les écoles, collèges et départementsMyConcordiaCspaceMon courrielBibliothèqueRépertoiresA-ZCartesFuturs étudiantsCarrefour étudiantDiplômés et amisParentsPersonnelMédiasÀ propos ÉtudesAdmissionVie étudianteRechercheInternationalRessources étudiantesAnnuaire des études supérieuresAnnuaire des études de 1er cycleAvis d’annulation de coursHoraire des coursInscription aux coursCalendrier universitaireAutres ressourcesServices sur les campusMagasinsServices de TIOccasions d’emploiSécuritéNavetteCentre de services aux étudiants BirksAutres servicesQuoi de neufCalendrier des activités Actualités récentesRelations médiasFacultés, écoles et collègesArts et sciencesGénie et informatiqueBeaux-artsÉcole de gestion John-MolsonÉcole des études supérieuresTout sur les écoles, collèges et départementsRessources étudiantes  
+		            	Annuaire des études supérieures
+		            	Annuaire des études de 1er cycle
+		            	Avis d’annulation de cours
+		            	Horaire des cours
+		            	Inscription aux cours
+		            	Calendrier universitaire
+		            	Autres ressourcesServices sur les campus  
+		            	Magasins
+		            	Services de TI
+		            	Occasions d’emploi
+		            	Sécurité
+		            	Navette
+		            	Centre de services aux étudiants Birks
+		            	Autres servicesQuoi de neuf  
+		            	Calendrier des activités 
+		            	Actualités récentes
+		            	Relations médiasFacultés, écoles et collèges  
+		            	Arts et sciences
+		            	Génie et informatique
+		            	Beaux-arts
+		            	École de gestion John-Molson
+		            	École des études supérieures
+		            	Tout sur les écoles, collèges et départementsFuturs étudiantsCarrefour étudiantDiplômés et amisParentsPersonnelMédias
+                
+                
+                    
+                    Accueil
+                    
+                
+                
+	        
+                
+                
+                    
+                    Web
+                    
+                
+                
+	        
+                
+                    Accessibilité
+                    
+                
+                
+	        
+                    
+                    	Facebook
+                    
+                
+                    
+                    	Twitter
+                    
+                
+                    
+                        LinkedIn
+                    
+                
+                    
+                        GooglePlus
+                    
+                séparé la structure de la présentation. Nous utilisons des feuilles de style en cascade afin de gérer toutes les présentations. La désactivation ou la fermeture de la feuille de style affectera la présentation visuelle, mais les diverses fonctions du site et la navigation restent en état de marche;créé des documents qui fonctionnent même si l’utilisateur ne peut pas voir ou entendre. Tout le contenu est fourni en texte; lorsqu’il y a des images ou des documents audio ou vidéo, l’utilisateur aura des options équivalentes. Les personnes aveugles peuvent se servir d’un lecteur d’écran pour obtenir l’information textuelle contenue dans une page;conçu des documents qui ne comptent pas que sur un type de matériel. Les utilisateurs peuvent accéder au site à partir de différents navigateurs, peu importent la résolution d’écran et les options sélectionnées, avec ou sans souris, etc. Consultez la section ci-dessous pour des renseignements sur les raccourcis et les raccourcis clavier.une barre d’outils principale qui vous situe dans la structure de l’Université – y compris des liens aux sites voulus dans la hiérarchie de l’organisation;une structure de navigation normalisée dont les liens sont en texte et non en image, qui situe clairement l’utilisateur au sein des cinq niveaux d’information du site;un fil d’Ariane (chemin de navigation) placé au-dessus du titre de la page, qui permet également à l’utilisateur de se retrouver dans la structure du site.Séances d’accueilConsultation et soutien pédagogique individualisésSolutions de rechange pour la transcriptionServices de lecteurs bénévolesChangements de salles de classe pour les étudiants à mobilité réduiteMagnétophones, systèmes MF et ordinateurs personnels avec synthétiseur vocal et sortie braille pour utilisation sur le campus Service d’intégration des étudiants en situation de handicapPolitique – Accessibilité des étudiants handicapés aux études et services universitairesRègles pour l’accessibilité des contenus Web du consortium W3CÀ proposÉtudesAdmissionVie étudianteRechercheInternationalCandidatsÉtudiants de ConcordiaDiplômés et amisProches d’étudiantsProfesseurs et membres du personnelfacebooktwittergoogleyoutubelinkedinpinterestinstagram© Université ConcordiaConditions d’utilisationConfidentialitéAccessibilitéCommentaires sur le site Web

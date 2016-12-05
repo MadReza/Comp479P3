@@ -1,0 +1,195 @@
+http://www.concordia.ca/content/concordia/en/it/services/hardware-software-provisioning.htmlConsultation and installation services are available for the purchase of computer equipment including desktops, portable computers, software, and smartphones. The service includes analysis of user needs, providing information about the current options, purchasing assistance, and installation.
+Related policy: Policy on computer provisioning VPS-32All faculty and staff
+Pricing for hardware and software varies. Consultation, implementation, assistance, and software installation is free of charge.
+During Service Desk operating hours
+Concordia University has chosen a selection of standard client computers to meet your computing requirements, you must browse the Metafore-Dell or Apple catalogue through the Computer purchase page within the MyConcordia portal. Select the hardware that best meets your needs.Then, obtain a quote and save the result in a PDF file.
+The catalog contains a variety of models and a number of additional options to choose from - tower designs, laptops, and select monitors. If you would like to have assistance in choosing the best option, please contact the Service Desk.Applications available on standard Dell computers:Operating System: Windows 7 Enterprise
+Sophos Antivirus, Microsoft Office Professional (Excel, Word, Outlook, PowerPoint, OneNote, Access), Mozilla Firefox, Thunderbird, Adobe Flash Player, iTunes, Java, and Cisco AnyConnect VPN.Applications available on standard Apple computers:Operating System: Mac OS
+Sophos Antivirus, Microsoft Office (Excel, Word, Outlook, PowerPoint), Mozilla Firefox, Thunderbird, Adobe Reader, Adobe Flash Player, iLife (iMovie, iDVD, iPhoto, Garage Band), iWorks (Pages, Numbers Keynote), Javam Cisco AnyConnect VPN.Note: Software and applications are available in English by default, but may be available in French by including a special request in the purchase requisition.Consultation and implementation services for the purchase of non-standard computers, software, and equipment including desktop PCs, portable computers, and smartphones can be requested by contacting the Service Desk. The service includes analysis of user needs, providing information about the current options, purchasing assistance, and installation.Contact the Service Desk or your department designated IT technician or support team.  These knowledgeable technicians will be able to provide counsel on equipment, software, and migration. 
+If your specific needs are not met by the standard computer selection and options, you can request a waiver. In those cases, you can contact the Service Desk or your departmental designated IT technician or support team, to discuss other options within the standard family of products or other manufacturers - Dell has very interesting discounts on a variety of products. To purchase a non-standard computer, you will need to fill out the Waiver Request Form detailing the system you wish to purchase and why the standardized systems do not meet your technical requirements. The waiver needs to be submitted to Purchasing Services for approval of the Chief Information Office or delegate.There are several reasons. Costs will be significantly reduced by making bulk purchases of fewer models from one contracted manufacturer. Having fewer models creates a consistency among systems deployed throughout the university, improving compatibility and technical hardware and software support. This also means an easier deployment and updating of software by having pre-installed site-licensed software on each computer.Non-standard computer must be inventoried, asset tagged and protected by installing university anti-virus software just like a standard computer. It will be inventoried and asset tagged, after the purchasing stage, by your local department IT-representative. If you’ve received a non-standard computer that is missing the asset tag, please contact your department designated IT technician or support team  or the IITS Service Desk at help@concordia.ca or extension 7613.Because it makes it clear that the computer belongs to Concordia – no need to provide proof of purchase or receipt.Non-standard computers are supported on a best effort basis either by Instructional and Information Technology Services (IITS) or your designated departmental IT technician or support team. All computers are the property of Concordia University regardless of the source of funds or whether purchased from the standard list or not. Therefore, the computer must be properly inventoried and asset tagged according to the policy and protected by installing university anti-virus software.  Consult the Computer Support section, contact your department IT-representative, or contact the IITS Service Desk at help@concordia.ca or extension 7613.  Sophos Anti-Virus for work-use and home-use is also available to download via the MyConcordia Portal, in Software and Applications.Contact your department IT-representative, the IITS Service Desk at help@concordia.ca or extension 7613Office 2010 has been deployed to many of the computers on campus. To upgrade to Office 2013, contact the Service Desk.The Apple Store for Education is not the same as the Apple Store for Education Institution, which is accessible under the Retail Services link in the MyConcordia portal. Any purchase made on the Apple Store for Education is considered a personal purchase and is not considered to be the property of Concordia University.Concordia University is prohibited from installing campus license agreement software (Microsoft Office, etc.) on a computer purchased from the Apple Store for Education.  Users purchasing a computer for work use and or with University funds should go through the Apple Store for Education Institution in the MyConcordia portal.For the educational sector, Apple only accepts the return of unopened products resulting from an Apple shipping or order processing error.  All other sales are final.  The only return exception is if there is a problem with the Apple computer (hardware) upon arrival.  For more information, review Apple's educational sector retun policy.
+  Page suggestions:© Concordia UniversityConcordia UniversityComputer hardware and software provisioningIT Services
+            
+                IT ServicesStandard computers
+                
+            
+                
+					
+                    Standard software
+                
+            
+                
+					
+                    Non-standard hardware and software
+                
+            
+                
+					
+                    How can I get help if I don't know which computer to buy?
+                
+            
+                
+					
+                    What can I do if there is no offering on the standard list that meets my criteria? Is a waiver possible?
+                
+            
+                
+					
+                    Why has Concordia chosen to select standard computers?
+                
+            
+                
+					
+                    If I buy outside of the standard computer list, how is the computer managed and inventoried?
+                
+            
+                
+					
+                     Why does the computer have to be asset tagged?
+                
+            
+                
+					
+                     How are non-standard computers supported?
+                
+            
+                
+					
+                    Do I own the computer I am purchasing with university funds?
+                
+            
+                
+					
+                    Who can I contact to set up my new computer and transfer files?
+                
+            
+                
+					
+                    Where can I obtain anti-virus software to install on my computer?
+                
+            
+                
+					
+                    If I have an issue with my new computer, how do I get support?
+                
+            
+                
+					
+                    How can I upgrade to Office 2013?
+                
+            
+                
+					
+                    What is the different between the Apple Store for Education and the Apple Store for Education Institution?  Can I purchase a computer with Concordia University funds from the Apple Store for Education? 
+                
+            
+                
+					
+                    What is the return policy for purchasing Apple products? What if I change my mind on the Apple product I just purchased?
+                
+            
+                
+					
+                    If I am eligible to buy a non-standard computer, why am I encouraged to purchase an enterprise model instead of the consumer model?Who can use it?How much does it cost?
+How to get itService availabilityDocumentationFAQSee alsoConcordia University - Call us at 514-848-2424Was this page useful to you?Study resourcesCalendar - GraduateCalendar - UndergraduateClass schedulesClass cancellationsCourse registrationImportant academic datesMore academic resourcesCampus servicesConcordia storesIT servicesJob opportunitiesSecurityShuttle busStudent Service Centre (Birks)All campus servicesWhat's newCalendar of eventsLatest newsMedia RelationsFaculties, Schools & CollegesArts and ScienceEngineering and Computer ScienceFine ArtsJohn Molson School of BusinessSchool of Graduate StudiesAll Schools, Colleges & DepartmentsStudy resources  
+		            	Calendar - Graduate
+		            	Calendar - Undergraduate
+		            	Class schedules
+		            	Class cancellations
+		            	Course registration
+		            	Important academic dates
+		            	More academic resourcesCampus services  
+		            	Concordia stores
+		            	IT services
+		            	Job opportunities
+		            	Security
+		            	Shuttle bus
+		            	Student Service Centre (Birks)
+		            	All campus servicesWhat's new  
+		            	Calendar of events
+		            	Latest news
+		            	Media RelationsFaculties, Schools & Colleges  
+		            	Arts and Science
+		            	Engineering and Computer Science
+		            	Fine Arts
+		            	John Molson School of Business
+		            	School of Graduate Studies
+		            	All Schools, Colleges & DepartmentsMyConcordiaCspaceWebmailLibraryDirectoriesA-ZMapsFuture studentsStudent hubAlumni & friendsParentsFaculty & staffMedia                             
+                                    Services
+                                                         
+                                    Get help
+                                                         
+                                    Get started
+                                                         
+                                    IT security
+                                                         
+                                    IT groups
+                            Study resourcesCalendar - GraduateCalendar - UndergraduateClass schedulesClass cancellationsCourse registrationImportant academic datesMore academic resourcesCampus servicesConcordia storesIT servicesJob opportunitiesSecurityShuttle busStudent Service Centre (Birks)All campus servicesWhat's newCalendar of eventsLatest newsMedia RelationsFaculties, Schools & CollegesArts and ScienceEngineering and Computer ScienceFine ArtsJohn Molson School of BusinessSchool of Graduate StudiesAll Schools, Colleges & DepartmentsStudy resources  
+		            	Calendar - Graduate
+		            	Calendar - Undergraduate
+		            	Class schedules
+		            	Class cancellations
+		            	Course registration
+		            	Important academic dates
+		            	More academic resourcesCampus services  
+		            	Concordia stores
+		            	IT services
+		            	Job opportunities
+		            	Security
+		            	Shuttle bus
+		            	Student Service Centre (Birks)
+		            	All campus servicesWhat's new  
+		            	Calendar of events
+		            	Latest news
+		            	Media RelationsFaculties, Schools & Colleges  
+		            	Arts and Science
+		            	Engineering and Computer Science
+		            	Fine Arts
+		            	John Molson School of Business
+		            	School of Graduate Studies
+		            	All Schools, Colleges & DepartmentsFuture studentsStudent hubAlumni & friendsParentsFaculty & staffMedia
+                
+                
+                    
+                    Concordia.ca
+                    
+                
+                
+	        
+                
+                
+                    
+                    IT services
+                    
+                
+                
+	        
+                
+                
+                    
+                    Services
+                    
+                
+                
+	        
+                
+                    Computer hardware and software provisioning
+                    
+                
+                
+	        
+                    
+                    	Facebook
+                    
+                
+                    
+                    	Twitter
+                    
+                
+                    
+                        LinkedIn
+                    
+                
+                    
+                        GooglePlus
+                    
+                To obtain consulting or installation services, submit a ticket.This is valid for all departments supported by the Service Desk. If your department has a designated IT technician or support team, contact them directly.To purchase a standard computer, visit the Computer purchase page within the MyConcordia portal. The instructions on that page are for users with access to the Millenium application. If you do not have Millenium access, send the request to your departmental administrator.It is difficult to return a consumer line product unless there is a problem with the product on arrival.  In most cases when purchasing a consumer product, once the product is purchased, the sale is final.  With enterprise models, there is a greater flexibility for returns.For consumer models, there is no guarantee of the availability of important drivers and software on the manufacturer’s website.  Enterprise products have fewer limitations in this regard and configuration issues can be escalated to the vendor where necessary.With our current contract, the supplier can escalate and track shipping issues for enterprise models, but not with the consumer line.The expertise of our desktop support team lies in enterprise grade models.Computer supportStandard software licensesComputer equipment decommissioningAboutAcademicsAdmissionsCampus lifeResearchInternationalFuture studentsCurrent studentsAlumni & friendsParents Faculty & stafffacebooktwittergoogleyoutubelinkedinpinterestinstagramflickr© Concordia UniversityTermsPrivacyAccessibilityWebsite feedback

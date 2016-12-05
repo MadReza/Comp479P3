@@ -1,0 +1,107 @@
+http://www.concordia.ca/content/concordia/en/artsci/chemistry/cbgrc/about/guest-speakers.htmlThe epidermal growth factor receptor (EGFR) is implicated in many cancers, and its kinase activity is the target of commercial anti-cancer agents such as Tarceva and Iressa. However, despite their effectiveness, EGFR kinase inhibitors often show only moderate antiproliferative activity against certain tumour types in the clinic. Resistance to EGFR inhibitors is mediated by mutation in the ATP site and often through activation of the MAPK pathways by other receptor tyrosine kinases. This inspired the investigation of agents directed not only at EGFR kinase but also at divergent targets such as Src kinase or DNA, with the purpose of producing single compounds termed “combi-molecules”, with greater potency than the single EGFR inhibitor. A structure-based drug design modeling program, combined with PDB data-mining, protein structural fingerprints and pharmacophore searches was used to help identify and characterize linkers for connecting EGFR-binding moieties to DNA and Src targeting functionalities. The resulting compounds showed EGFR inhibitory potency in the low micromolar to nM range and retained significant activity against their divergent targets.One of the key challenges posed by the ever increasing complexity of diseases, is our inability to intervene with the arsenal of highly potent pharmaceutical agents that is at our disposal, at the right place, right time, and with right therapeutic dose. There has been tremendous effort devoted to developing what are now commonly referred to as nanocarriers that can help us overcome physicochemical obstacles in their delivery. Lessons learnt from these studies have necessitated a shift in paradigm to combine multiple functions into a single scaffold of a nanostructure. An important parameter for constructing multi-tasking scaffolds is to develop tools, which can be utilized to assemble multivalent structures with desired spatial distribution of therapeutic, stealth, imaging and targeting capabilities. The synthetic methodologies need to be simple and highly versatile, and applicable to a variety of nanoarchitectures. We shall elaborate on the evolution of macromolecule based nanotechnology, demonstrate how one can easily construct multivalent nanoconjugates of desired structural complexity that can perform multiple tasks and help visualize drug delivery, and discuss their potential in smart and efficient therapeutic interventions.For more information, contact Cindy Buonomano or Chris Liczner at:General information© Concordia UniversityConcordia UniversityGuest speakersChemistry and Biochemistry Graduate Research Conference
+            
+                Chemistry and Biochemistry Graduate Research Conference
+            Contact usDr. Petrina Kamya    
+Dr. Ashok KakkarApplications Scientist at Chemical Computing GroupAssociate Professor, Departement of Chemistry
+McGill UniversityConcordia University - Call us at 514-848-2424Exploring EGFR kinase-ligand interactions for optimizing dual action inhibitorsDrug Delivery Nanotechnology: Maximizing Efficacy in Therapeutic InterventionsAbout CBGRC
+                                    
+                                    
+
+                                            
+                                                
+                                                        
+                                                            
+                                                                Location
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Guest speakers
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Organizing committee
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Contact
+                                                            
+                                                        
+                                                
+                                            
+                                    
+                                                         
+                                    Schedule
+                                                         
+                                    Presentations
+                                                         
+                                    Awards
+                                                         
+                                    Sponsors
+                                                         
+                                    Registration
+                            
+                
+                
+                    
+                    Concordia.ca
+                    
+                
+                
+	        
+                
+                
+                    
+                    Faculty of Arts and Science
+                    
+                
+                
+	        
+                
+                
+                    
+                    Department of Chemistry & Biochemistry
+                    
+                
+                
+	        
+                
+                
+                    
+                    CBGRC
+                    
+                
+                
+	        
+                
+                
+                    
+                    About CBGRC
+                    
+                
+                
+	        
+                
+                    Guest speakers
+                    
+                
+                
+	        
+                    
+                    	Facebook
+                    
+                
+                    
+                    	Twitter
+                    
+                
+                    
+                        LinkedIn
+                    
+                
+                    
+                        GooglePlus
+                    
+                LocationGuest speakersOrganizing committeeContactAbout CBGRCSchedulePresentationsAwardsSponsorsRegistrationfacebooktwittergoogleyoutubelinkedinpinterestinstagramflickr© Concordia UniversityTermsPrivacyAccessibilityWebsite feedback
