@@ -1,7 +1,0 @@
-http://www.concordia.ca/content/shared/en/events/artsci/polisci/wssr/2015/05/11/jacobyworkshop.htmlMay 11th- 15th, 2015
-9:00 a.m. - 4:30 p.m.This workshop will provide an introduction to the bivariate and multiple regression models. We will begin with a review of basic statistical concepts and then go on to cover correlation, the development of the regression model, parameter estimation, statistical inference, potential problems that can arise with regression analysis, applications, and interpretation. The level of the course will be approximately that of Lewis-Beck's Applied Regression and Berry and Feldman's Multiple Regression in Practice.
-Prerequisites: Participants in this workshop should have taken at least one prior course on introductory statistics (even if this occurred a long time ago).© Concordia UniversityConcordia University
-                        Introduction to Regression Analysiswith Dr. William JacobyWorkshops on Social Science Research (WSSR)
-            
-                Workshops on Social Science Research (WSSR)
-            Join the ConversationConcordia University - Call us at 514-848-2424For more information about the ICPSR and to register for this workshop go to:
